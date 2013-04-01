@@ -4,4 +4,9 @@ Created on 1-apr.-2013
 @author: Kevin
 '''
 def main():
-    print 'doe nog niets'
+    print 'Github test'
+    
+
+# Standard boilerplate to call the main() function.
+if __name__ == '__main__':
+    main()
