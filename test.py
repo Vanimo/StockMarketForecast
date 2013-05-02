@@ -1,7 +1,7 @@
 '''
 Created on 1-apr.-2013
 
-@author: Kevin
+@author: Kevin, Brecht and Floris
 '''
 import tweepy
 from tweepy.streaming import StreamListener
