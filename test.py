@@ -18,7 +18,7 @@ from tweepy import Stream
 # page located at https://dev.twitter.com/apps (under "OAuth settings")
 consumer_key="RoMx5nWeqf902D7mdEJtFQ"
 consumer_secret="mRQx1WJ59mrOOZl41JIKfXTxTnoPIt9wkMT7S2cE"
-consumer = test
+consumer = "test"
 
 # The access tokens can be found on your applications's Details
 # page located at https://dev.twitter.com/apps (located 
