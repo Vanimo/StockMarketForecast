@@ -1,12 +1,8 @@
 '''
 Created on 1-apr.-2013
 
-<<<<<<< HEAD
-@author: Kevin, Brecht and Floris
-=======
 @author: Kevin
 @author: Brecht
->>>>>>> 7c6d86e81facb202283a3b8b11f4cf9c85c489c8
 '''
 import tweepy
 from tweepy.streaming import StreamListener
