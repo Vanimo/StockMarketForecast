@@ -2,6 +2,7 @@
 Created on 1-apr.-2013
 
 @author: Kevin
+@author: Brecht
 '''
 import tweepy
 from tweepy.streaming import StreamListener
