@@ -1,7 +1,12 @@
 '''
 Created on 1-apr.-2013
 
+<<<<<<< HEAD
 @author: Kevin, Brecht and Floris
+=======
+@author: Kevin
+@author: Brecht
+>>>>>>> 7c6d86e81facb202283a3b8b11f4cf9c85c489c8
 '''
 import tweepy
 from tweepy.streaming import StreamListener
@@ -17,6 +22,7 @@ from tweepy import Stream
 # page located at https://dev.twitter.com/apps (under "OAuth settings")
 consumer_key="RoMx5nWeqf902D7mdEJtFQ"
 consumer_secret="mRQx1WJ59mrOOZl41JIKfXTxTnoPIt9wkMT7S2cE"
+consumer = test
 
 # The access tokens can be found on your applications's Details
 # page located at https://dev.twitter.com/apps (located 
