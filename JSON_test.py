@@ -31,4 +31,6 @@ def searchTwitterTag(tag):
     query = "%23" + str(tag)
     return searchTwitter(query)
 
-print searchTwitterTag("IBM")
+from pprint import pprint
+
+pprint(searchTwitterTag("Apple"))
