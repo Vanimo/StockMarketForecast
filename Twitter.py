@@ -5,6 +5,7 @@ Created on 8-mei-2013
 '''
 import json
 import urllib2
+import Preprocessor
 
 def main():
     return
@@ -21,27 +22,15 @@ def searchTwitter(tag):
         row[0] = tweets[i]['created_at']
         row[1] = tweets[i]['from_user']
         row[2] = tweets[i]['text']
-        #print row
         data.append(row)
     return data
 
-def writeTweets():
-    try:
-        f = open("Tweets.txt", "w")
-        for i in range(0, len(arrTweets)):
-            #datum, user, text
-            row = arrTweets[i][0] + "\t" + arrTweets[i][1] + "\t" + arrTweets[i][2] + "\n"
-            f.write(row)
-    except IOError:
-        print 'Error: writing tweets'
-    finally:
-        f.close()
-        print "Write Complete"
-
 if __name__ == '__main__':
-    #Get Tweets
-    arrTweets = searchTwitter("IBM")
+    #Search Twitter
+    tweets = searchTwitter("IBM")
     #Write Tweets to File
-    writeTweets()
-    
-    
+    Preprocessor.writeTwitterData("Tweets.txt", tweets)
+    #Read Tweets From File
+    tweets = Preprocessor.readTwitterData("Tweets.txt")
+    #Show Tweets
+    print tweets   
