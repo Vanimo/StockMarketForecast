@@ -33,10 +33,19 @@ api = tweepy.API(auth)
 
 # If the authentication was successful, you should
 # see the name of the account print out
+import csv
+
+    
 print api.me().name
 class StdOutListener(StreamListener):
+    spawriter = None
+    with open('tweets.csv', 'wb') as csvfile:
+        spamwriter = csv.writer(csvfile, delimiter=' ',  quotechar='\t', quoting=csv.QUOTE_MINIMAL)
+        #spamwriter.writerow(['Spam'] * 5 + ['Baked Beans'])
+        spamwriter.writerow(['Word1', 'Word2', 'Word3'])
     def on_data(self, data):
         print data
+        spamwriter.writerow([data])
         return True
 
     def on_error(self, status):
