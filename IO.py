@@ -26,16 +26,16 @@ def writeData(sFile, arr):
         print "Write Start"
         f = open(sFile, "a")
         for i in range(0, len(arr)):
-            #datum, user, text
-            #row = arr[i][0] + "\t" + arr[i][1] + "\t" + arr[i][2] + "\n"
-            #Generalized
             row = ""
             width = len(arr[i])
             for j in range (0, width):
+                # replace characters that are important for our reader/writer to work
                 s = str(arr[i][j])
                 s = s.replace("\n", " ")
                 s = s.replace("\t", " ")
+                # Add tab character for data separation
                 row += s + '\t'
+            # Replace last \t with a newline character
             row = row[:-2] + '\n'      
             f.write(row)
         print "Write Complete"

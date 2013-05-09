@@ -65,59 +65,6 @@ def twitterPage(page):
     # The page number (starting at 1) to return, up to a max of roughly 1500 results (based on rpp * page).
     return "&page=" + str(page)
 
-def simpleSearch():
-    #Get Tweets
-    arrTweets = searchTwitter("IBM","")
-    #Write Tweets to File
-    IO.writeData("data/Tweets.txt", arrTweets)
-    #Read Tweets From File
-    tweets = IO.readData("data/Tweets.txt")
-    #Show Tweets
-    print tweets   
-
-def searchTestTwo():
-    s = twitterUntil(2013,5,2)
-    arrTweets = searchTwitter("IBM",s)
-    IO.writeData("data/scrapeTest.txt", arrTweets)
-    lastID = arrTweets[0][0]
-    go_on = False
-    
-    while go_on:
-        time.sleep(2)
-        s = twitterUntil(2013,5,2)
-        s += twitterSinceID(lastID)
-        queryAnswer = searchTwitter("IBM", s)
-        if(len(queryAnswer) < 1):
-            go_on = False
-        else:
-            lastID = queryAnswer[0][0]
-            IO.writeData("data/scrapeTest.txt", queryAnswer)
-            arrTweets += queryAnswer
-        print "Tweets returned: " + str(len(queryAnswer))
-               
-    IO.writeData("data/Tweets.txt", arrTweets)
-
-def searchTestThree(): #Search between an interval
-    s = twitterRPP(100)
-    s += twitterSince(2013, 5, 1)
-    s += twitterUntil(2013, 5, 8)
-    
-    i = 1
-    go_on = True
-    
-    tweets = []
-    
-    while(i <= 14 and go_on):
-        q = s + twitterPage(i)
-        answer = searchTwitter("IBM", q)
-        if (len(answer) < 1):
-            go_on = False
-        else:
-            time.sleep(1.4)
-            i += 1
-        tweets += answer
-    IO.writeData("data/Tweets.txt", tweets)
-
 def searchTestFour(): #Search backwards in time :o
     s = twitterRPP(100)
     tweets = searchTwitter("IBM", s)
@@ -134,11 +81,11 @@ def searchTestFour(): #Search backwards in time :o
             go_on = False
             IO.writeData("data/Tweets.txt", tweets)
         else:
-            time.sleep(1.25)
+            time.sleep(1.25) # Sleep a bit so twitter doesn't throw us out
             i += 1
             oldestID = results[-1][0] # Get ID of the oldest tweet for the next query
             
-        tweets += results[1:]
+        tweets += results[1:] # First result is tweet with "oldestID", so drop it
         
         if (i>=10):
             IO.writeData("data/Tweets.txt", tweets)
@@ -148,4 +95,57 @@ def searchTestFour(): #Search backwards in time :o
 if __name__ == '__main__':
     #simpleSearch()
     searchTestFour()
+    
+# def simpleSearch():
+#     #Get Tweets
+#     arrTweets = searchTwitter("IBM","")
+#     #Write Tweets to File
+#     IO.writeData("data/Tweets.txt", arrTweets)
+#     #Read Tweets From File
+#     tweets = IO.readData("data/Tweets.txt")
+#     #Show Tweets
+#     print tweets   
+# 
+# def searchTestTwo():
+#     s = twitterUntil(2013,5,2)
+#     arrTweets = searchTwitter("IBM",s)
+#     IO.writeData("data/scrapeTest.txt", arrTweets)
+#     lastID = arrTweets[0][0]
+#     go_on = False
+#     
+#     while go_on:
+#         time.sleep(2)
+#         s = twitterUntil(2013,5,2)
+#         s += twitterSinceID(lastID)
+#         queryAnswer = searchTwitter("IBM", s)
+#         if(len(queryAnswer) < 1):
+#             go_on = False
+#         else:
+#             lastID = queryAnswer[0][0]
+#             IO.writeData("data/scrapeTest.txt", queryAnswer)
+#             arrTweets += queryAnswer
+#         print "Tweets returned: " + str(len(queryAnswer))
+#                
+#     IO.writeData("data/Tweets.txt", arrTweets)
+# 
+# def searchTestThree(): #Search between an interval
+#     s = twitterRPP(100)
+#     s += twitterSince(2013, 5, 1)
+#     s += twitterUntil(2013, 5, 8)
+#     
+#     i = 1
+#     go_on = True
+#     
+#     tweets = []
+#     
+#     while(i <= 14 and go_on):
+#         q = s + twitterPage(i)
+#         answer = searchTwitter("IBM", q)
+#         if (len(answer) < 1):
+#             go_on = False
+#         else:
+#             time.sleep(1.4)
+#             i += 1
+#         tweets += answer
+#     IO.writeData("data/Tweets.txt", tweets)
     
