@@ -13,22 +13,46 @@ import time
 
 # Main
 def main():
+    searchTestFour()
     return
 
 # https://dev.twitter.com/docs/using-search
 # https://dev.twitter.com/docs/api/1/get/search
 
-def GET_Twitter(query):
+def GET_Twitter(FetchAddress):
+    attempts = 0
+    while attempts < 2:
+        try:
+            response = urllib2.urlopen(FetchAddress)
+            message= response.read()
+        except urllib2.HTTPError, e:
+            print 'The server didn\'t do the request.'
+            print 'Error code: ', str(e.code) + "  address: " + FetchAddress
+            time.sleep(4)
+            attempts += 1
+        except urllib2.URLError, e:
+            print 'Failed to reach the server.'
+            print 'Reason: ', str(e.code) + "  address: " + FetchAddress
+            time.sleep(4)
+            attempts += 1
+        except Exception, e:
+            print 'Something bad happened while grabbing and/or reading a page.'
+            print 'Reason: ', str(e.reason) + "  address: " + FetchAddress
+            time.sleep(4)
+            attempts += 1
+        else:
+            return message
+    return []
+def getTweets(query):
     url = "https://search.twitter.com/search.json?q=" + str(query)
-    try:
-        answer = urllib2.urlopen(url)
-    except urllib2.HTTPError, err:
-        print "HTTPError: " + str(err.code)
-        return []
-    text = answer.read()
+    
+    text = GET_Twitter(url)
     JS = json.loads(text)
     tweets = JS['results']
+    
     size = len(tweets)
+    if (size <= 1):
+        return []
     data = []
     first = tweets[0]['created_at']
     last = tweets[-1]['created_at']
@@ -44,7 +68,62 @@ def GET_Twitter(query):
 
 def searchTwitter(tag,variables):
     query = "%23" + str(tag) + str(variables)
-    return GET_Twitter(query)
+    return getTweets(query)
+
+def searchTestFour(): #Search backwards in time :o
+    j=1
+    fileName = "data/scrapeTest"
+    fileExt = ".txt"
+    s = twitterRPP(100)
+    # s += twitterSince(2013, 5, 8)
+    tag = "IBM" # %20 is a space sign
+    #tag += twitterConcatTags("Apple")
+    tag += twitterConcatTags("AAPL")
+    tag += twitterConcatTags("MSFT")
+    tag += twitterConcatTags("Microsoft")
+    #tag += twitterConcatTags("FB")
+    tag += twitterConcatTags("Facebook")
+    
+    tweets = searchTwitter(tag, s)
+    s = twitterRPP(100)
+    if (len(tweets) < 2):
+        print "No search results"
+        return
+    
+    oldestID = tweets[-1][0] # Get ID of the oldest tweet for the next query
+    go_on = True
+    i=1
+    
+    
+    while(go_on):        
+        q = s + twitterMaxID(oldestID)
+        results = searchTwitter(tag, q)
+        
+        if (len(results) < 2): # Catch empty results, errors and sleep if we'll continue
+            go_on = False            
+        else:
+            time.sleep(1.1) # Sleep a bit so twitter doesn't throw us out
+            i += 1
+            oldestID = results[-1][0] # Get ID of the oldest tweet for the next query
+            
+        tweets += results[1:] # First result is tweet with "oldestID", so drop it
+        
+        if (i>=250): # Backup data if we acquire a lot
+            IO.writeData(fileName + "_P" + str(j) + fileExt, tweets)
+            j += 1
+            tweets = []
+            i = 0
+    if (j==1):
+        IO.writeData(fileName+fileExt, tweets, True, True)
+    else:
+        IO.writeData(fileName+fileExt, tweets, True, True)
+        j -= 1
+        while (j>=1):
+            bfr = IO.readData(fileName + "_P" + str(j) + fileExt)
+            IO.writeData(fileName+fileExt, bfr, True, False)
+            j -= 1
+
+    
 
 def twitterUntil(y, m, d):
     # Returns tweets generated before the given date. Date should be formatted as YYYY-MM-DD.
@@ -68,62 +147,8 @@ def twitterPage(page):
     return "&page=" + str(page)
 def twitterConcatTags(tag):
     return "%20OR%20%23" + str(tag)
-
-def searchTestFour(): #Search backwards in time :o
-    fileName = "data/scrapeTest"
-    fileExt = ".txt"
-    
-    s = twitterRPP(100)
-    # s += twitterSince(2013, 5, 8)
-    tag = "IBM" # %20 is a space sign
-    tag += twitterConcatTags("Apple")
-    tag += twitterConcatTags("AAPL")
-    tag += twitterConcatTags("MSFT")
-    tag += twitterConcatTags("Microsoft")
-    tag += twitterConcatTags("FB")
-    tag += twitterConcatTags("Facebook")
-    
-    tweets = searchTwitter(tag, s)
-    
-    if (len(tweets) < 2):
-        print "No search results"
-        return
-    
-    oldestID = tweets[-1][0] # Get ID of the oldest tweet for the next query
-    go_on = True
-    i=1
-    j=1
-    
-    while(go_on):        
-        q = s + twitterMaxID(oldestID)
-        results = searchTwitter(tag, q)
-        
-        if (len(results) < 2): # Catch empty results, errors and sleep if we'll continue
-            go_on = False            
-        else:
-            time.sleep(1.05) # Sleep a bit so twitter doesn't throw us out
-            i += 1
-            oldestID = results[-1][0] # Get ID of the oldest tweet for the next query
-            
-        tweets += results[1:] # First result is tweet with "oldestID", so drop it
-        
-        if (i>=250): # Backup data if we acquire a lot
-            IO.writeData(fileName + "_P" + str(j) + fileExt, tweets, overWrite=True)
-            j += 1
-            tweets = []
-            i = 0
-    if (j==1):
-        IO.writeData(fileName+fileExt, tweets, True, True)
-    else:
-        IO.writeData(fileName+fileExt, tweets, True, True)
-        j -= 1
-        while (j>=1):
-            bfr = IO.readData(fileName + "_P" + str(j) + fileExt)
-            IO.writeData(fileName+fileExt, bfr, True, True)
-            j -= 1
-
 if __name__ == '__main__':
-    searchTestFour()
+    main()
     
 # def simpleSearch():
 #     #Get Tweets
