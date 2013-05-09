@@ -10,6 +10,8 @@ import Preprocessor
 def main():
     return
 
+# https://dev.twitter.com/docs/using-search
+
 def searchTwitter(query):
     url = "https://search.twitter.com/search.json?q=" + str(query)
     text = urllib2.urlopen(url).read()
