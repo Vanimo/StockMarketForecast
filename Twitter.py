@@ -72,7 +72,7 @@ def searchTwitter(tag,variables):
 
 def searchTestFour(): #Search backwards in time :o
     j=1
-    fileName = "data/scrapeTest"
+    fileName = "data/scrapeTest2"
     fileExt = ".txt"
     s = twitterRPP(100)
     # s += twitterSince(2013, 5, 8)
