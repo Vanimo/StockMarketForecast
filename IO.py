@@ -4,7 +4,7 @@ Created on 9 May 2013
 @author: Floris
 '''
 def readData(sFile):
-    tweets = []
+    matrix = []
     try:
         print "Read Data"
         f = open(sFile, "r")
@@ -12,14 +12,14 @@ def readData(sFile):
         for line in data:
             #strip line from \n and \t
             row = line.strip().split("\t")
-            #add row to tweets
-            tweets.append([row[0],row[1],row[2]])
+            #add row to data matrix
+            matrix.append(row)
         print "Read Complete"
     except IOError:
-        print 'Error: reading tweets'
+        print 'Error: reading ' + str(sFile)
     finally:
         f.close()
-    return tweets
+    return matrix
     
 def writeData(sFile, arr):
     try:
@@ -27,7 +27,13 @@ def writeData(sFile, arr):
         f = open(sFile, "w")
         for i in range(0, len(arr)):
             #datum, user, text
-            row = arr[i][0] + "\t" + arr[i][1] + "\t" + arr[i][2] + "\n"
+            #row = arr[i][0] + "\t" + arr[i][1] + "\t" + arr[i][2] + "\n"
+            #Generalized
+            row = ""
+            width = len(arr[i])
+            for j in range (0, width):
+                row += str(arr[i][j]) + '\t'
+            row = row[:-2] + '\n'      
             f.write(row)
         print "Write Complete"
     except IOError:
