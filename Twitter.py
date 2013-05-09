@@ -16,14 +16,14 @@ def main():
 
 # https://dev.twitter.com/docs/using-search
 
-def searchTwitter(query):
+def GET_Twitter(query):
     url = "https://search.twitter.com/search.json?q=" + str(query)
     text = urllib2.urlopen(url).read()
     JS = json.loads(text)
     tweets = JS['results']
     size = len(tweets)
     data = []
-    #print "Number of tweets in JSON: " + str(len(tweets))
+    print "Number of tweets in JSON: " + str(len(tweets))
     for i in range(0,size):
         row = [None]*4
         row[0] = tweets[i]['id']
@@ -33,22 +33,34 @@ def searchTwitter(query):
         data.append(row)
     return data
 
-def searchTwitterFromID(tag,lasttweetid):
-    query = "%23" + str(tag) + "%20since_id%3A" + str(lasttweetid)
-    return searchTwitter(query)
-def searchTwitterFromDate(tag, y, m, d):
-    query = "%23" + str(tag) + "%20until%3A" + str(y) + "-" + str(m) + "-" + str(d)
-    return searchTwitter(query)
-def searchTwitterFromeDateAndID(tag, lastTweetID, y, m, d):
-    query = "%23" + str(tag) + "%20until%3A" + str(y) + "-" + str(m) + "-" + str(d) + "%20since_id%3A" + str(lastTweetID)
-    return searchTwitter(query)
-def searchTwitterTag(tag):
-    query = "%23" + str(tag)
-    return searchTwitter(query)
+def searchTwitter(tag,variables):
+    query = "%23" + str(tag) + str(variables)
+    return GET_Twitter(query)
+
+def twitterUntil(y, m, d):
+    # Returns tweets generated before the given date. Date should be formatted as YYYY-MM-DD.
+    return "&until=" + str(y) + "-" + str(m) + "-" + str(d)
+def twitterSince(y,m,d):
+    # Return tweets generated after the given date.
+    return "&since=" + str(y) + "-" + str(m) + "-" + str(d)
+def twitterSinceID(lastTweetID):
+    # Returns results with an ID greater than (that is, more recent than) the specified ID. 
+    # There are limits to the number of Tweets which can be accessed through the API. 
+    # If the limit of Tweets has occured since the since_id, the since_id will be forced to the oldest ID available.
+    return "&since_id=" + str(lastTweetID)
+def twitterMaxID(ID):
+    # Returns results with an ID less than (that is, older than) or equal to the specified ID.
+    return "&max_id=" + str(ID)
+def twitterRPP(rpp):
+    #The number of tweets to return per page, up to a max of 100.
+    return "&rpp=" + str(rpp)
+def twitterPage(page):
+    # The page number (starting at 1) to return, up to a max of roughly 1500 results (based on rpp * page).
+    return "&page=" + str(page)
 
 def simpleSearch():
     #Get Tweets
-    arrTweets = searchTwitterTag("IBM")
+    arrTweets = searchTwitter("IBM","")
     #Write Tweets to File
     IO.writeData("data/Tweets.txt", arrTweets)
     #Read Tweets From File
@@ -56,16 +68,18 @@ def simpleSearch():
     #Show Tweets
     print tweets   
 
-if __name__ == '__main__':
-    #simpleSearch()
-    arrTweets = searchTwitterFromDate("IBM",2013,5,2)
+def searchTestTwo():
+    s = twitterUntil(2013,5,2)
+    arrTweets = searchTwitter("IBM",s)
     IO.writeData("data/scrapeTest.txt", arrTweets)
     lastID = arrTweets[0][0]
-    go_on = True
+    go_on = False
     
     while go_on:
         time.sleep(2)
-        queryAnswer = searchTwitterFromeDateAndID("IBM", lastID, 2013,5,2)
+        s = twitterUntil(2013,5,2)
+        s += twitterSinceID(lastID)
+        queryAnswer = searchTwitter("IBM", s)
         if(len(queryAnswer) < 1):
             go_on = False
         else:
@@ -75,3 +89,30 @@ if __name__ == '__main__':
         print "Tweets returned: " + str(len(queryAnswer))
                
     IO.writeData("data/Tweets.txt", arrTweets)
+
+def searchTestThree(): #Search between an interval
+    s = twitterRPP(100)
+    s += twitterSince(2013, 5, 1)
+    s += twitterUntil(2013, 5, 8)
+    
+    i = 1
+    go_on = True
+    
+    tweets = []
+    
+    while(i <= 10 and go_on):
+        q = s + twitterPage(i)
+        answer = searchTwitter("IBM", q)
+        print len(answer)
+        if (len(answer) < 1):
+            go_on = False
+        else:
+            time.sleep(1.4)
+            i += 1
+        tweets += answer
+    IO.writeData("data/Tweets.txt", tweets)
+    
+if __name__ == '__main__':
+    #simpleSearch()
+    searchTestThree()
+    

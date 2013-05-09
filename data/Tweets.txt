@@ -1,16 +1,1033 @@
-329746917938573314	Wed, 01 May 2013 23:59:26 +0000	EtiquettePlace	Now, Atom and Data Storage #IBM is taking the lea
-329746482590789632	Wed, 01 May 2013 23:57:42 +0000	Syndica8	Very mad. S/O to them #IBM “@Laowz_DKOY: @Syndica8 yeahh, Mad tune right there.�
-329746033775104000	Wed, 01 May 2013 23:55:55 +0000	IBMOpenInvite	Key Updates, Tech Sessions, Latest Releases. All this @ #IBM #PowerSystems Technical Symposium May 8-10. Don't Miss @ http://t.co/2jNLg8mLj
-329744984175697921	Wed, 01 May 2013 23:51:45 +0000	piersgrundy	#IBM SmartCloud Orchestrator makes the list of OpenStack's hottest products: http://t.co/KItrHF0DZd @cloudstuf
-329744777019023361	Wed, 01 May 2013 23:50:55 +0000	camshaftcammy	Beyond awesomenerdosity! “@BryanJacobson6: #IBM team uses atoms to create world's tiniest stop-motion movie http://t.co/JeXwGJR1Gk�
-329743575128629248	Wed, 01 May 2013 23:46:09 +0000	palette_shop	「効率80％の太陽光技術」をIBMが開発！さすがIBM
-　http://t.co/GfLXDlcKbz　#IBM #太陽光 #太陽光発�
-329743107857997824	Wed, 01 May 2013 23:44:17 +0000	GervaisRobert	https://t.co/hcmVeZ20bE My hats off to @ibm for this amazing project! Looking forward to the future #ib
-329742053040865280	Wed, 01 May 2013 23:40:06 +0000	eliogn	#IBM realiza el corto más diminuto del mundo con átomos.  http://t.co/858DE6Z6p
-329741130319163392	Wed, 01 May 2013 23:36:26 +0000	eljeko	A Boy And His Atom: The World's Smallest Movie: http://t.co/vtrgvRYor0 and "back stage" http://t.co/UoHrUmLD4s by #IB
-329740842220810240	Wed, 01 May 2013 23:35:17 +0000	kevinredmon	RT @sandy_carter: The Social Business Infographic!  http://t.co/cZMcZjCrOG  Top 10 Adoption Steps.  #ibmimpact #ibm #ibmsocialbi
-329740695625666560	Wed, 01 May 2013 23:34:42 +0000	CameronDeanP	Now for something valuable: #IBM released a stop-motion film out of atoms! Pretty damn sweet http://t.co/l1sX4qFa5j via @DeadlineCo
-329740031495401472	Wed, 01 May 2013 23:32:04 +0000	latesttechn	Report: IBM-Lenovo server sale negotiations have hit a wall http://t.co/bfsKR7EKit #Hardware #IBM #Lenov
-329739499028492289	Wed, 01 May 2013 23:29:57 +0000	KatharynMWhite	RT @ebarbini: How to reduce traffic in #Africa ? #IBM uses cell phone data to redraw African #bus routes http://t.co/K2DwZTqOa
-329739016620625920	Wed, 01 May 2013 23:28:02 +0000	anubis4d	pelicula hecha con ATOMOS, quede con la boca abierta #IBM  http://t.co/lXvlEG5LnP imaginate cuando lleguen al HD en un nanometro
-329738371578597379	Wed, 01 May 2013 23:25:28 +0000	AmandaRasor	Video: Let me show you what #IBM #PureData System can do for your organization.  http://t.co/5wFonwp9Y
+331921118812311552	Tue, 07 May 2013 23:58:56 +0000	bensaziz	N'oubliez pas Mercredi 8 Mai à 9H au Hyatt #ibm et @uniforce_group vous invite au #software Day avec @Ahmed_R_Chami et Bernard kouchne
+331919044921946113	Tue, 07 May 2013 23:50:41 +0000	Alexa_Movil	Corrupción de IBM Argentina es investigada por EE.UU. http://t.co/ldPpkO82I0 #IBM #new
+331919037925847041	Tue, 07 May 2013 23:50:40 +0000	AlexaInfo	Corrupción de IBM Argentina es investigada por EE.UU. http://t.co/KpdvUY9FiQ #IBM #new
+331919020938903552	Tue, 07 May 2013 23:50:36 +0000	gtpintado	Corrupción de IBM Argentina es investigada por EE.UU. http://t.co/nqYRL848cw #IBM #new
+331919016186744832	Tue, 07 May 2013 23:50:34 +0000	IBMPowerSystems	Big Screen Meets Big Data: How Movies Are Bigger (and Smaller) Than Ever @ http://t.co/hdnwTwCTz2 #IB
+331916566453170177	Tue, 07 May 2013 23:40:50 +0000	SeeIBMAnalytics	Learn best practices in performance management from #IBM at Finance Forum in #CostaMesa (6/10) http://t.co/3QWaeCzxvD #ibmff1
+331916483200442368	Tue, 07 May 2013 23:40:30 +0000	abartweet	Con los productos #IBM en #ábargon creamos website, intranet o extranet #WebSphere 
+ http://t.co/FzqDiDvj5
+331916329038774273	Tue, 07 May 2013 23:39:54 +0000	caiuafranca	Virtualizaçao de storage #EMC #IB
+331916022519042050	Tue, 07 May 2013 23:38:41 +0000	Stwo	#IBM on stage at #NYTM - #MadeWithAtoms @ NYU Skirball Center for the Performing Arts http://t.co/Dsv92PjuR
+331915213853057024	Tue, 07 May 2013 23:35:28 +0000	NathanielKhani	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/LX3GtPsGnT #IBM #SocBi
+331914457557127169	Tue, 07 May 2013 23:32:28 +0000	Ana_Global	#IBM demo: movie made by moving atoms around with a scanning tunneling microscope. Amazing! http://t.co/VgcTyEwbC
+331913607044558848	Tue, 07 May 2013 23:29:05 +0000	HemsVallabh	'A Boy and his Atom' - the world's smallest movie, starring... A Carbon Atom!! #ExtremeScience at its best. #IBM #NYTechMeetU
+331913032525553664	Tue, 07 May 2013 23:26:48 +0000	sarkis01	Just watched the nerdiest short film ever... on atom isolation/movement. #nytm #IBM http://t.co/xyfugqstG
+331912999252140032	Tue, 07 May 2013 23:26:40 +0000	TyNMagazine	RT @AnaliaDigital: #IBM y #Lenovo ponen fin a una operación de compra #TyNLatinoamérica http://t.co/NvsPB3QJy0 @TyNMagazine @IB
+331912888128245760	Tue, 07 May 2013 23:26:14 +0000	nikivilalte	#IBM at #nytm sharing the world's smallest movie to a tough crowd #madewithatoms http://t.co/YWRVfybum
+331912293283676160	Tue, 07 May 2013 23:23:52 +0000	PRNbiz	New guide: http://t.co/scA2CkAYcA #compliance #riskmanagement #governance software. Compare to #Oracle, #IBM. http://t.co/YAiTDhMZU
+331911537772085248	Tue, 07 May 2013 23:20:51 +0000	CloseAmber	5/8 @IBMConnect SanFran hear how to create a smarter workforce w/ #SocialBusiness technologies http://t.co/WCfvp1nMye #IBM #SocBi
+331911208162697218	Tue, 07 May 2013 23:19:33 +0000	MPGNav	Don't forget to say hello at the #IBM #PowerSystems Technical Symposium tomorrow
+331911032123572224	Tue, 07 May 2013 23:18:51 +0000	GovernmentDroid	RT @MikeNelson: Interesting: Sam Palmisano, ex-#IBM, Dave Kappos, ex #USPTO &amp; Chris Caine launch Center for Global Enterprise http://t.co/tIAonbqElE @BGO
+331910942017339394	Tue, 07 May 2013 23:18:29 +0000	GovernmentDroid	RT @M0P1JMLHIAIWNX9: #ICANN #IANA #RAND #IBM http://t.co/iKAcd5weD
+331910937642668032	Tue, 07 May 2013 23:18:28 +0000	GovernmentDroid	RT @M0P1JMLHIAIWNX9: #RAND #ManhattanProject the original #MultiStakeholder Adventure? http://t.co/iKAcd5weDE #ICANN #IANA #IBM http://t.co/brDSB8wqPu #NWO #DN
+331910934677307392	Tue, 07 May 2013 23:18:28 +0000	GovernmentDroid	RT @nwohashtag: RT: #RAND #ManhattanProject the original #MultiStakeholder Adventure? http://t.co/JyRcpYTpFJ #ICANN #IANA #IBM http://t.co/WeT7NnWX0d #N..
+331909998760300544	Tue, 07 May 2013 23:14:44 +0000	MarketsWatcher	RT @Infor: Read CIO: "Infor Launches Version 10x, Plans IBM SmartCloud Launch for Its Apps" http://t.co/ltlBdGk3Eu @CIOonline #Infor #IBM #ens
+331909585881403394	Tue, 07 May 2013 23:13:06 +0000	Manuel_Avalos_V	RT @IBMStorage: #IBM believes #flash is the new era of computing. Watch video http://t.co/FRgEs1Gsom  provide input #IT #FlashAhead #IBMStorag
+331909020308869122	Tue, 07 May 2013 23:10:51 +0000	CaseyCrl	Go-To-Webinar "Simplify your IT with #IBM #PureFlex and IBM Flex System Manager" May 8th +more dates: http://t.co/XEdrbps3Q
+331909016953421825	Tue, 07 May 2013 23:10:50 +0000	jasonsturn	5/8 @IBMConnect SanFran hear how to create a smarter workforce w/ #SocialBusiness technologies http://t.co/eBfIKA33Jf #IBM #SocBi
+331908843879677952	Tue, 07 May 2013 23:10:09 +0000	richardbye	RT @tmcerlean: The more I use #IBM SmartCloud Docs, the more I realise I only need a fat client for offline editing
+331908250180124674	Tue, 07 May 2013 23:07:48 +0000	M0P1JMLHIAIWNX9	RT @MikeNelson: Interesting: Sam Palmisano, ex-#IBM, Dave Kappos, ex #USPTO &amp; Chris Caine launch Center for Global Enterprise http://t.co/tIAonbqElE @BGO
+331908208149020673	Tue, 07 May 2013 23:07:38 +0000	kellymc247	@DaveKerpen sounds like my 1st  college job @DrakeChicago: #IBM regular guests had no line but waited to check in w #likeable smiling m
+331907672226033664	Tue, 07 May 2013 23:05:30 +0000	IBMSLST	RT @webmobileguru: IBM has married the power of analytics and social technologies to help companies identify talent. #IBM @IBMSocialBi
+331907655008403456	Tue, 07 May 2013 23:05:26 +0000	spysnooper	RT @linux_at_ibm: The #Linux zone on #IBM developerWorks is the resource for info on Linux programming &amp; system administration: http://t.co/QqnZ8meBT
+331907508597825536	Tue, 07 May 2013 23:04:51 +0000	kthuerk	RT @IBMStorage: #IBM believes #flash is the new era of computing. Watch video http://t.co/FRgEs1Gsom  provide input #IT #FlashAhead #IBMStorag
+331907072906129409	Tue, 07 May 2013 23:03:07 +0000	AmandaRasor	Prove #integrated #security solutions customized for your unique needs #IBM http://t.co/5wFonwp9Y
+331907015716794368	Tue, 07 May 2013 23:02:53 +0000	eSpiritNA	Stay current on the latest trends in #EMM, B2B Commerce, and customer experience management #IBM global summit #CMS http://t.co/WYru14hrm
+331906953536217088	Tue, 07 May 2013 23:02:38 +0000	nwohashtag	RT: #RAND #ManhattanProject the original #MultiStakeholder Adventure? http://t.co/JyRcpYTpFJ #ICANN #IANA #IBM http://t.co/WeT7NnWX0d #N..
+331906929737752577	Tue, 07 May 2013 23:02:33 +0000	IBMSocialBiz	Discover how to build a framework to empower a vibrant workforce. Register for 5/15 broadcast http://t.co/w396O4gXeJ #ibm #socbi
+331905799775473665	Tue, 07 May 2013 22:58:03 +0000	jpapejr	Cloud Expo | #IBM &amp; #OpenStack Together: Accelerating #Cloud Adoption &amp; ROI http://t.co/fkNPH3A9n
+331905253584809987	Tue, 07 May 2013 22:55:53 +0000	shujinoor	#IBM, Integritie Deliver Smarter ECM System to Analyze Big Data http://t.co/mp2nEYROQ
+331905176510283777	Tue, 07 May 2013 22:55:35 +0000	IBMStorage	Analysts are talking @englishmdp writes about serious tactics #IBM is taking w/#FlashSystems http://t.co/a4mvRzOfvz #FlashAhead #IBMStorag
+331905172391477248	Tue, 07 May 2013 22:55:34 +0000	MMORALES13	Analysts are talking @englishmdp writes about serious tactics #IBM is taking w/#FlashSystems http://t.co/vmNUa0pvLw #FlashAhead #IBMStorag
+331904838092873728	Tue, 07 May 2013 22:54:14 +0000	RedHatPartners	via @IBM #IBM + #RedHat partnership spans fourteen years with significant joint milestones http://t.co/Pfbl7aitl4 … #RedHatPartner
+331904546102202368	Tue, 07 May 2013 22:53:04 +0000	M0P1JMLHIAIWNX9	#RAND #ManhattanProject the original #MultiStakeholder Adventure? http://t.co/iKAcd5weDE #ICANN #IANA #IBM http://t.co/brDSB8wqPu #NWO #DN
+331903998984593409	Tue, 07 May 2013 22:50:54 +0000	carolyn_sil	Advancing the #cloud to drive innovation with SmartCloud Orchestrator http://t.co/cBr6nTepJC #IB
+331903631047655425	Tue, 07 May 2013 22:49:26 +0000	MarkYolton	RT @holgermu: Interesting - 70% of #Hana machines are #IBM, 100 #HP sytems, Some #Cisco. #SimplyHan
+331903552177991680	Tue, 07 May 2013 22:49:07 +0000	M0P1JMLHIAIWNX9	#ICANN #IANA #RAND #IBM http://t.co/iKAcd5weD
+331902777737486338	Tue, 07 May 2013 22:46:03 +0000	jasonsturn	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/NJdcU2HHJd #IBMexperience #SocBi
+331902516625301506	Tue, 07 May 2013 22:45:01 +0000	IBMDiversityANZ	#Diversity has helped #IBM change industries, revolutionise business and even land on the moon http://t.co/1X0ugpbJZ
+331901980576460801	Tue, 07 May 2013 22:42:53 +0000	Obinnanze	...Bangs fist on the table, loosing my tie, "Biko nyé'm égo'm I n'amù amù"! #IB
+331901714569494528	Tue, 07 May 2013 22:41:49 +0000	clooky	RT @dannywilks74: Anyone still not buying into Cloud? Cabinet Office confirms public cloud first policy http://t.co/iKl3NpHNN4 #Cloud #IBM #SmartCloud #Socbi
+331901489868062721	Tue, 07 May 2013 22:40:56 +0000	Aivy_Iniguez	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/qURolbVsKb #IBM #SocBi
+331900950665117699	Tue, 07 May 2013 22:38:47 +0000	OVAorg	Open Virtualization takes its place in the enterprise. Learn more in this blog by @jeanstatenhealy of #ibm http://t.co/PTNVMPHIL5 #openkv
+331900742807994368	Tue, 07 May 2013 22:37:58 +0000	CbassStorage	Read Darryl Pope - #IBM Client Executive ▸ today's top stories via @IBMSmartCities @IBMSmrtSafety @CbassStorage ▸http://t.co/V7JHbrU4B
+331900540038549505	Tue, 07 May 2013 22:37:09 +0000	qassociates	#IBM believes #flash is the new era of computing. Watch video http://t.co/7yuzle3QMP  provide input #IT #FlashAhead #IBMStorag
+331899793918013441	Tue, 07 May 2013 22:34:11 +0000	tdoyon	RT @jameskobielus: New #IBM jk blog "Data scientists need a cloud sandbox" (http://t.co/3E9cFqyvKa) #cloudcha
+331898849922789377	Tue, 07 May 2013 22:30:26 +0000	MichealeBartee	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/baCP4GV99z via @cmswire #IBM #SocBi
+331898775436132352	Tue, 07 May 2013 22:30:09 +0000	IBMStorage	#IBM believes #flash is the new era of computing. Watch video http://t.co/FRgEs1Gsom  provide input #IT #FlashAhead #IBMStorag
+331898770373619712	Tue, 07 May 2013 22:30:07 +0000	MMORALES13	#IBM believes #flash is the new era of computing. Watch video http://t.co/WiUhdp6tg0  provide input #IT #FlashAhead #IBMStorag
+331898227286736896	Tue, 07 May 2013 22:27:58 +0000	itsmelonade	RT @WirelessShow: Why #BlackBerry and #IBM make the top employer list in Canada, http://t.co/Wa4CI316V1, #CANWTS201
+331897849962971137	Tue, 07 May 2013 22:26:28 +0000	DozenStocks	Top Dow #Stocks Performance #CAT #JPM #VZ #DIS #KO #DD #T #PFE #JNJ #INTC #TRV #MRK #BA #XOM #UNH #IBM #UTX  more@ http://t.co/TvzJfd0RG
+331897672548089859	Tue, 07 May 2013 22:25:46 +0000	KatrinaRossRead	#IBM has relaunched its #dataviz hub, #ManyEyes. Join up w/ more than 100,000 #visualization enthusiasts http://t.co/TS1xV4mFOA #ibmvi
+331896495634780162	Tue, 07 May 2013 22:21:05 +0000	CloseAmber	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/LSPA6FAyBj #IBMexperience #SocBi
+331895232180404225	Tue, 07 May 2013 22:16:04 +0000	IBMBAOStuart	RT @IBM_GBSCareers: How do they do it?! #IBM researchers give a sneak peek into their labs in this short documentary #MadeWithAtoms http://t.co/WIgKiKq6U
+331894673545252864	Tue, 07 May 2013 22:13:51 +0000	secnet	It's a small world #IBM https://t.co/c6c9tN8EP
+331894132219977729	Tue, 07 May 2013 22:11:42 +0000	SEOPRTraining	“@GolleyGoshLDN: We're probably re-defining PR closer to its core definition, says Joe Hanley #IBM #PRchanging�
+331892950999105536	Tue, 07 May 2013 22:07:00 +0000	colasurdo	New #IBM #flash #storage provides extreme IOPS and low latency. Learn more here http://t.co/Y2YNNg4Tm
+331892844220522496	Tue, 07 May 2013 22:06:34 +0000	RayaanePeixoto	APENAS gostaria de informar pra vcs que mudei de horário... A partir de amanhã, pegarei às 13hrs e sairei às 19hrs... #FLW #IB
+331892626955583489	Tue, 07 May 2013 22:05:43 +0000	gabyaccad	Public #Cloud vs. Private Clouds vs. Hybrid Clouds. Here is a brief discussion on their differences: http://t.co/E4e1rF7nSf #IBM #SM
+331892592600043520	Tue, 07 May 2013 22:05:35 +0000	Matt_McLochlin	#IBM a Leader in 2013 #Gartner Client Management Tools #MagicQuadrant. http://t.co/pztNZVEole #IBMendpointmanage
+331892002822189056	Tue, 07 May 2013 22:03:14 +0000	ArgilesFrancesc	La peli més petita del món by #IBM. A Boy And His Atom: The World's Smallest Movie http://t.co/rBd5xk8Ou
+331892002159480832	Tue, 07 May 2013 22:03:14 +0000	IBMSocialBiz	Download the WebSphere Portal Version 8.0 Reviewer's Guide to create personalized web experiences - http://t.co/7zmbqCuEN7 #ibm #socbi
+331891706792398850	Tue, 07 May 2013 22:02:03 +0000	ADPCareers	Who remembers this? In 1982, #IBM releases PC-DOS version 1.1 - I do! #computers #functionkeys ^B
+331891590111047680	Tue, 07 May 2013 22:01:35 +0000	ewsheets	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/2cYlDgJXXN via @cmswire #IBM #SocBi
+331890383275565056	Tue, 07 May 2013 21:56:48 +0000	lindahunt123	RT @LisaSmith92 #IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/B5FdrXLrN
+331889641634529280	Tue, 07 May 2013 21:53:51 +0000	InnovaBot	RT @gourleymslc: Heard about #IBM's new #ULA? Turn on #Innovation in your #business today. More information @ http://t.co/9iqNhVAzP
+331889463171100672	Tue, 07 May 2013 21:53:08 +0000	TheGreenAge	RT @lcarpanini: #IBM along with Marks and Spencer, Waitrose, Virgin Money and B&amp;Q are all supporting 2013's #bethestart http://t.co/CLazZRjct
+331888929705967616	Tue, 07 May 2013 21:51:01 +0000	gourleymslc	Heard about #IBM's new #ULA? Turn on #Innovation in your #business today. More information @ http://t.co/9iqNhVAzP
+331888032150073344	Tue, 07 May 2013 21:47:27 +0000	oferguetta	RT @dannywilks74: Anyone still not buying into Cloud? Cabinet Office confirms public cloud first policy http://t.co/iKl3NpHNN4 #Cloud #IBM #SmartCloud #Socbi
+331887746656399361	Tue, 07 May 2013 21:46:19 +0000	rjwissin	@Forbes examines #IBM solutions helping customers recruit &amp; assess talent, launching #SmarterWorkforce initiative http://t.co/LTIHRZaeJ
+331887625097068545	Tue, 07 May 2013 21:45:50 +0000	ewsheets	#IBM launches MessageSight, appliance aimed at M2M http://t.co/uYk2WpW5Ap #Mobile #IBMImpac
+331887578208935936	Tue, 07 May 2013 21:45:39 +0000	yvosurf	Great chat with the #IBMECM executives today at the #IBM Executive Forum. Really good focus, strategy and energy. Nice
+331887406083096576	Tue, 07 May 2013 21:44:58 +0000	TinaClaes	The #IBM Brand: How Tech Became Human http://t.co/bTosmgBTD
+331887265087385600	Tue, 07 May 2013 21:44:24 +0000	escalatorover	#Arctic sea ice is critical eco system #IBM and  #Oil barons put profit before the #environment and... http://t.co/ikBdKnE33
+331886759069749248	Tue, 07 May 2013 21:42:24 +0000	escalatorover	#Arctic sea ice is critical eco system  #IBM #Oil barons put profit before  #environment and A #SmarterPlanet #Auspol http://t.co/ilSNwdj9I
+331886572188352512	Tue, 07 May 2013 21:41:39 +0000	aaronjpayne	RT @IBMSocialBiz: Download the paper "#IBM Connections Delivers ROI" - integrate social software w/existing investments http://t.co/s3Dk5yjSp6 #ibm #socbi
+331886407264116736	Tue, 07 May 2013 21:41:00 +0000	IAMPRINCE_N_DY	Aswear @AsyDarlyn: iSwear @phynofino sld release his IGBO dictionary!! #Ghostmode #ManOfTheYear #Eziokwu His Igbo tunes make sense die #IB
+331886184986996736	Tue, 07 May 2013 21:40:07 +0000	IBMOpenInvite	Complimentary paper! #IBM #Storwize delivers the ability to scale with a common underlying architecture. Learn more: http://t.co/X9RPtN12u
+331885320146665472	Tue, 07 May 2013 21:36:41 +0000	ovigetti	RT @MPBarrientos: Congrats to #IBM's @JPuleri, honored as a Top 25 Consultant by Consulting Magazin
+331885275703816192	Tue, 07 May 2013 21:36:30 +0000	GuilleAntonioo	RT @IBMSocialBiz: Download the paper "#IBM Connections Delivers ROI" - integrate social software w/existing investments http://t.co/s3Dk5yjSp6 #ibm #socbi
+331885127368077312	Tue, 07 May 2013 21:35:55 +0000	jasonsturn	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/Z80rmE4Szz http://t.co/Z80rmE4Szz #IBM #SocBi
+331885061194539008	Tue, 07 May 2013 21:35:39 +0000	sugarcrm	Schedule a time to meet us at #IBM #SmarterCommerce events! We'll be in Nashville May 21-23 http://t.co/PrNcap6Lo
+331884938750210049	Tue, 07 May 2013 21:35:10 +0000	MPBarrientos	Congrats to #IBM's @JPuleri, honored as a Top 25 Consultant by Consulting Magazin
+331883951641739267	Tue, 07 May 2013 21:31:14 +0000	ewsheets	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/gGooV18IUS #IBM #SocBi
+331883662171856899	Tue, 07 May 2013 21:30:05 +0000	NorthwesternUCS	MT @ibm_gbscareers: Move mountains? Your students can move ATOMS at #IBM http://t.co/Libmb2Drb
+331883339181092864	Tue, 07 May 2013 21:28:48 +0000	jlu_vega	“@IBMSocialBiz: Instant messaging with  #IBM community is easy using #Sametime! Check out @jadintx's blog. http://t.co/wRNkciUK5Z #socbiz�
+331883169978646529	Tue, 07 May 2013 21:28:08 +0000	itechconference	RT @IBMCanSystems: Join #IBM's keynote discussion on the data centre of the future @itechconference Montreal May 14 &amp; Toronto May 16 http://t.co/IQ2RUmJWj
+331882092772339713	Tue, 07 May 2013 21:23:51 +0000	PRNbiztech	New guide: http://t.co/B5nZ3gUIme #compliance #riskmanagement #governance software. Compare to #Oracle, #IBM. http://t.co/7aOPltzO2
+331881880678985730	Tue, 07 May 2013 21:23:01 +0000	CollabDude	5/8 @IBMConnect SanFran hear how to create a smarter workforce w/ #SocialBusiness technologies http://t.co/GxDODFsmMg #IBM #SocBi
+331881407871852546	Tue, 07 May 2013 21:21:08 +0000	JamesLBerkey	#IBM has achieved 100% #recovery for clients who declared a disaster http://t.co/KoAZd3E3J
+331881391002370049	Tue, 07 May 2013 21:21:04 +0000	NathanielKhani	6 Benefits of Being a Social Business by @gregdorban http://t.co/RZ8vTmwBEx via @B2Community #IBM #SocBi
+331881390788468738	Tue, 07 May 2013 21:21:04 +0000	A_LaFountain6	Hear how personalized, social experiences can help activate your workforce. Reg for 5/15 broadcast http://t.co/oyutK8AnzV #ibm #socbi
+331881304188649473	Tue, 07 May 2013 21:20:43 +0000	IBM_GBSCareers	@CarnegieMellon Move mountains? How about move ATOMS? Your students can at #IBM! Please share this video with them http://t.co/gpt3XrYTS
+331880177242087426	Tue, 07 May 2013 21:16:14 +0000	CloseAmber	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/7Zd7N0B9YZ http://t.co/7Zd7N0B9YZ #IBM #SocBi
+331880053560463361	Tue, 07 May 2013 21:15:45 +0000	ewsheets	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/4p1SbEwq6M #IBM #SocBi
+331880017808207872	Tue, 07 May 2013 21:15:36 +0000	mariaborbones	RT @CloseAmber: #IBM launches MessageSight, appliance aimed at M2M http://t.co/tw9nRTfy03 #Mobile #IBMImpac
+331880011965542401	Tue, 07 May 2013 21:15:35 +0000	Nils_CSI	Comprehensive, integrated #APM solutions from #IBM http://t.co/kQzDdnvDd
+331879788774039554	Tue, 07 May 2013 21:14:42 +0000	mariaborbones	RT @AragonResearch1: Don't miss our coverage on #IBMimpact http://t.co/kh8BsmwHA6 #IBM #mobil
+331879751713181696	Tue, 07 May 2013 21:14:33 +0000	IBM_GBSCareers	@NorthwesternUCS Move mountains? Your students can move ATOMS at #IBM! Please share this video with them http://t.co/R0nfoVTnU
+331879644460625921	Tue, 07 May 2013 21:14:07 +0000	NOLAFusion	RT @ibmtechconfs: RT @nolafusion: 2013 IBM Systemz  Technical Symposium in New Orleans 5/8-5/10 #IBM #IBMtechU #NOLA #Support http://t.co/hA6jRGAC4
+331879434854465536	Tue, 07 May 2013 21:13:17 +0000	IBMImpact	RT @IBMSoftware: #Mobile isn't a device. It's data. Read #IBM perspective - Wall Street Journal (PDF): http://t.co/RIsYFj1Jsi  #ibmimpac
+331879404382863360	Tue, 07 May 2013 21:13:10 +0000	sarindio	La empresa #IBM también admitió un posible pago de #coimas en el país.. otra vez? http://t.co/QjYMraYnj
+331879236006727680	Tue, 07 May 2013 21:12:30 +0000	preciseTechno	#IBM wins $123 million HR contract for U.S. gov't http://t.co/Hv7PwYW8KF #tech #technology #enterprisesoftwar
+331879064220610561	Tue, 07 May 2013 21:11:49 +0000	cjywest	Think out of the Box! Enterprise File Sharing with IBM Connections: IBM Webinar May 21 12pm EST http://t.co/w4w2fF9CKf  #IBM #socbi
+331879030309679104	Tue, 07 May 2013 21:11:41 +0000	Bredlau	RT @eSpiritNA: Register for #IBM smarter commerce global summit  May 21 -23 in Nashville #CMS, #e-spirit  http://t.co/JxqSqg4Jq
+331878856971653120	Tue, 07 May 2013 21:11:00 +0000	sit60	5/8 @IBMConnect SanFran hear how to create a smarter workforce w/ #SocialBusiness technologies http://t.co/LO0D3BRSjI #IBM #SocBi
+331878847026974721	Tue, 07 May 2013 21:10:57 +0000	freeformLA	#InspiringStories - #IBM launch a Tumblr page, showcasing their tech smarts as well as a little personality! A great example of..
+331878815171219456	Tue, 07 May 2013 21:10:50 +0000	itmarketingwiz	7 Benefits of #Cloud Computing - Must know list for #IT admins of Midsize Enterprises http://t.co/G1A9mZG7kL --- #IBM #busines
+331877564786286592	Tue, 07 May 2013 21:05:52 +0000	salimaboo1	RT @IBMStorage: #IBM delivers high performance, low latency with #FlashSystems. New blog click here &gt; http://t.co/tWUirgaWHF #IT #FlashAhead #IBMStorag
+331877029681172481	Tue, 07 May 2013 21:03:44 +0000	LotusEvangelist	"@EugeneTheron: @LotusEvangelist: "http://t.co/LZixvDnGSC upgrading #ibm Domino in 3 minutes" halve that for Linux ;-)" hope s
+331876798717628416	Tue, 07 May 2013 21:02:49 +0000	feryong	#IBM busca aprovechar la #energía de 2000 soles http://t.co/hdWS7uBtD
+331876756741046274	Tue, 07 May 2013 21:02:39 +0000	Aivy_Iniguez	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/RdxrdzQpAW #IBM #SocBi
+331876627892039680	Tue, 07 May 2013 21:02:08 +0000	IBMSocialBiz	Hear how personalized, social experiences can help activate your workforce. Reg for 5/15 broadcast http://t.co/w396O4gXeJ #ibm #socbi
+331876440989659137	Tue, 07 May 2013 21:01:24 +0000	ewsheets	6 Benefits of Being a Social Business by @gregdorban http://t.co/cHVDA6SZ4T via @B2Community #IBM #SocBi
+331876440402440193	Tue, 07 May 2013 21:01:24 +0000	Nils_CSI	#Monitor the performance and availability of web-delivered applications running in the #cloud with #IBM http://t.co/07WOfOljI
+331876128241356804	Tue, 07 May 2013 21:00:09 +0000	IBMStorage	#IBM delivers high performance, low latency with #FlashSystems. New blog click here &gt; http://t.co/tWUirgaWHF #IT #FlashAhead #IBMStorag
+331876122872668160	Tue, 07 May 2013 21:00:08 +0000	MMORALES13	#IBM delivers high performance, low latency with #FlashSystems. New blog click here &gt; http://t.co/y5bNzXVSdQ #IT #FlashAhead #IBMStorag
+331875931683688450	Tue, 07 May 2013 20:59:22 +0000	stacimckee	RT @SeeIBMAnalytics: #IBM Biz #Analytics Summit is coming to your city! Featuring best practices, demos &amp; product expertise http://t.co/V5Jwrp8d0t #ibmbas1
+331875843439751168	Tue, 07 May 2013 20:59:01 +0000	jameskobielus	New #IBM jk blog "Data scientists need a cloud sandbox" (http://t.co/3E9cFqyvKa) #cloudcha
+331875462328487936	Tue, 07 May 2013 20:57:30 +0000	KayLoire	RT @Infor: Read CIO: "Infor Launches Version 10x, Plans IBM SmartCloud Launch for Its Apps" http://t.co/ltlBdGk3Eu @CIOonline #Infor #IBM #ens
+331875373597999104	Tue, 07 May 2013 20:57:09 +0000	ndgoodnight	#IBM IBM helps Security First Insurance turn social media into a communications channel. #Socbiz #IBMECM
+http://t.co/NIL6iGSyx
+331875032798208000	Tue, 07 May 2013 20:55:48 +0000	cjywest	IBM Portal Enterprises may be entitled to File Share with IBM Connections. Webinar May 21 12pm EST http://t.co/w4w2fF9CKf #IBM #socbi
+331874934609555456	Tue, 07 May 2013 20:55:25 +0000	IBMImpact	RT @AragonResearch1: Don't miss our coverage on #IBMimpact http://t.co/kh8BsmwHA6 #IBM #mobil
+331874701418831872	Tue, 07 May 2013 20:54:29 +0000	IBMImpact	RT @CloseAmber: #IBM launches MessageSight, appliance aimed at M2M http://t.co/tw9nRTfy03 #Mobile #IBMImpac
+331874651615662081	Tue, 07 May 2013 20:54:17 +0000	KinG_InFeT	RT @linux_at_ibm: The #Linux zone on #IBM developerWorks is the resource for info on Linux programming &amp; system administration: http://t.co/QqnZ8meBT
+331874541766840320	Tue, 07 May 2013 20:53:51 +0000	DineSouthAfrica	RT @walnutgroveSA: Another successful function. Thanks #ibm #walnutgrove #sandtoncity, it was a great evening! #events #function
+331873986109652992	Tue, 07 May 2013 20:51:38 +0000	IBMToronto	RT @IBMCanSystems: Join #IBM's keynote discussion on the data centre of the future @itechconference Montreal May 14 &amp; Toronto May 16 http://t.co/IQ2RUmJWj
+331873802071969793	Tue, 07 May 2013 20:50:54 +0000	SeeIBMAnalytics	#IBM Biz #Analytics Summit is coming to your city! Featuring best practices, demos &amp; product expertise http://t.co/V5Jwrp8d0t #ibmbas1
+331873786024566785	Tue, 07 May 2013 20:50:51 +0000	ricardogerardi	RT @ServMgmtConnect: Visit the new #IBM #SmartCloud Application Performance Management wiki http://t.co/ua1erMd3KS #IBMTivol #clou
+331873398265348097	Tue, 07 May 2013 20:49:18 +0000	suzawnek	Your impact with senior management can be measured in levels that increase as you evolve and transform as a CI analyst #SCIP #IBM 
+331872493834997761	Tue, 07 May 2013 20:45:43 +0000	ewsheets	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/TOxEH3v6zm #IBM #SocBi
+331872480056713217	Tue, 07 May 2013 20:45:39 +0000	IBMCanSystems	Join #IBM's keynote discussion on the data centre of the future @itechconference Montreal May 14 &amp; Toronto May 16 http://t.co/IQ2RUmJWj
+331872374557401088	Tue, 07 May 2013 20:45:14 +0000	BrunoGebarski	Amazing! Why Apple won’t be around as long as IBM #apple #IBM #socbiz #socIBM http://t.co/fNQJitWpg
+331872294672666624	Tue, 07 May 2013 20:44:55 +0000	ricardogerardi	RT @linux_at_ibm: The #Linux zone on #IBM developerWorks is the resource for info on Linux programming &amp; system administration: http://t.co/QqnZ8meBT
+331871792132145152	Tue, 07 May 2013 20:42:55 +0000	DevoteamNL	RT @marc_business: Morgenochtend uitgebreide sessie met klant bij #IBM over o.a. IBM #Rational #ALM @DevoteamN
+331871588507082752	Tue, 07 May 2013 20:42:07 +0000	arbastaki	#IBM IBM helps Security First Insurance turn social media into a communications channel. #Socbiz #IBMECM
+http://t.co/Wfe7xsG0p
+331871501101965312	Tue, 07 May 2013 20:41:46 +0000	marc_business	Morgenochtend uitgebreide sessie met klant bij #IBM over o.a. IBM #Rational #ALM @DevoteamN
+331871055012589568	Tue, 07 May 2013 20:40:00 +0000	salimaboo1	RT@IBMSocialBiz:Learn how to quickly ID the right people for the right jobs Register for 5/15 broadcast http://t.co/de37PLGUrv #ibm #socbiz
+331870661230333953	Tue, 07 May 2013 20:38:26 +0000	salimaboo1	RT @IBMStorage: Case study: how #IBM all #flash #storage array supports world's fastest #cloud hosting system http://t.co/ww3ucn5Y0q #FlashAhead #IBMStorag
+331870541935943681	Tue, 07 May 2013 20:37:57 +0000	Ephox	RT @dhrukrish: @Ephox #IBM Exceptional Web Experience Event Berlin June 11-13. View sessions directory. http://t.co/qnUWJMhNBr #ibmwebexperienc
+331870028448288768	Tue, 07 May 2013 20:35:55 +0000	jasonsturn	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/cLgMhmkdNI via @cmswire #IBM #SocBi
+331869486946848768	Tue, 07 May 2013 20:33:46 +0000	salimaboo1	RT @IBMSocialBiz: Download the paper "#IBM Connections Delivers ROI" - integrate social software w/existing investments http://t.co/s3Dk5yjSp6 #ibm #socbi
+331869221841666049	Tue, 07 May 2013 20:32:42 +0000	salimaboo1	RT @IBMStorage: #IBM's @zyrober explains benefits of #flashsystems from the #SAN point of view. Read new blog http://t.co/TnCxjo2Asp #FlashAhead #IBMStorag
+331869051498405888	Tue, 07 May 2013 20:32:02 +0000	dannywilks74	Anyone still not buying into Cloud? Cabinet Office confirms public cloud first policy http://t.co/iKl3NpHNN4 #Cloud #IBM #SmartCloud #Socbi
+331869025430814722	Tue, 07 May 2013 20:31:56 +0000	DCDFOCUS	Join us to learn more about how you can deliver #business-value with managed services and #cloud #IBM http://t.co/yao2dBn5I
+331868866600910848	Tue, 07 May 2013 20:31:18 +0000	salimaboo1	RT@IBMSocialBiz:Instant messaging with the #IBM community is easy using #Sametime!Check out @jadintx's blog. http://t.co/pAMziWEQgX #socbi
+331868831507165184	Tue, 07 May 2013 20:31:09 +0000	RajitaPatel	New #IBM #Storwize #V3700 easy to use, scalable #storage for SMBs. http://t.co/RhXDoqcl3
+331868783109099520	Tue, 07 May 2013 20:30:58 +0000	ewsheets	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/deiO5BDnDv Via NY Times #IBM #SocBi
+331868712699305985	Tue, 07 May 2013 20:30:41 +0000	salimaboo1	RT @ibmsaas: The evolved CIO closely aligned with LOB will thrive via @armennajarian on today's #SaaS webinar: http://t.co/n9y4pQQv3B  #ibmsaas #ibmclou
+331868619707383809	Tue, 07 May 2013 20:30:19 +0000	TheCineG	"Nothing so conclusively proves a man's ability to lead others as what he does from day to day to lead himself." Thomas Watson, #IB
+331867778883665920	Tue, 07 May 2013 20:26:58 +0000	infor_dbaker	.@CIOonline: .@Infor Launches Version 10x, Plans #IBM #SmartCloud Launch for Its Apps http://t.co/dhIDfkXmai  via  .@chriskanaracus #ens
+331867662529462274	Tue, 07 May 2013 20:26:31 +0000	franos1	#IBM #Analytics helping build smarter workforce: Big Data, Trying to Build Better Workers http://t.co/ONJvjTdrD
+331867198215823360	Tue, 07 May 2013 20:24:40 +0000	TiEcon	RT @DealmakerMedia: Some great speakers at #TIEcon 2013: #SAP #HP #Intel #Qualcomm, #IBM, #Linkedin http://t.co/vdCWbCbLC
+331867119102853121	Tue, 07 May 2013 20:24:21 +0000	TiEcon	RT @CamacConsulting: Some great speakers at #TIEcon 2013: #SAP #HP #Intel #Qualcomm, #IBM, #Linkedin http://t.co/L7IZLg8vq
+331866821852545024	Tue, 07 May 2013 20:23:10 +0000	GinaMcCrae	Did you hear? @nobrowncow is #IBM Premier | http://t.co/m4jbSI8r2
+331866780261818368	Tue, 07 May 2013 20:23:00 +0000	CollabDude	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/NSmtKZPfMq #IBMexperience #SocBi
+331866282783813633	Tue, 07 May 2013 20:21:02 +0000	Matt_McLochlin	Complimentary copy of #Gartner #ClientMangementToolsMQ from #IBM. http://t.co/pztNZVEol
+331866255696990208	Tue, 07 May 2013 20:20:55 +0000	NathanielKhani	MUST READ!! In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/yn0dxOOt1Q #IBM #SocBi
+331866164584136705	Tue, 07 May 2013 20:20:34 +0000	maartencloud	RT @ibmsaas: The evolved CIO closely aligned with LOB will thrive via @armennajarian on today's #SaaS webinar: http://t.co/n9y4pQQv3B  #ibmsaas #ibmclou
+331866062087933952	Tue, 07 May 2013 20:20:09 +0000	StacyLeidwinger	#IBM Helps Security First #Insurance Mine #BigData To Analyze, Prioritize &amp; Route Social Media Requests http://t.co/w3DbRgCnZ
+331865788841607170	Tue, 07 May 2013 20:19:04 +0000	IBM_GBSCareers	How do they do it?! #IBM researchers give a sneak peek into their labs in this short documentary #MadeWithAtoms http://t.co/WIgKiKq6U
+331865619903442945	Tue, 07 May 2013 20:18:24 +0000	LEMPERTsa	#IBM bajo la lupa por posibles actos de corrupción en la Argentina http://t.co/Iyr1J4HDq
+331865051097079808	Tue, 07 May 2013 20:16:08 +0000	CloseAmber	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/qBRwikTSVX via @cmswire #IBM #SocBi
+331865011586740225	Tue, 07 May 2013 20:15:59 +0000	IBMSocialBiz	Instant messaging with the #IBM community is easy using #Sametime! Check out @jadintx's blog. http://t.co/KJTxGONAsJ #socbi
+331865001918857217	Tue, 07 May 2013 20:15:56 +0000	ewsheets	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/6VSyRUkDD6 #IBM #SocBi
+331864588314365952	Tue, 07 May 2013 20:14:18 +0000	DavidePalermo2	First Google Glass @google ;-))
+http://t.co/24Mmvm9eoM @IBM @ibmdesign 
+#RivoluzDigitale #DigitalRevolution #GoogleGlass #IB
+331864409490194432	Tue, 07 May 2013 20:13:35 +0000	Smarter_Media	GM @stevecanepa on how #IBM scientists are forging new frontier to make #movies smaller, bigger &amp; better http://t.co/hj8zNTvV1
+331863760052572160	Tue, 07 May 2013 20:11:00 +0000	TxMQITSolutions	#IBM #WebSphere Application Server V8.5.5 has enhanced Liberty profile capabilities. http://t.co/qnJ3Gl48mc #WAS #Impact #LibertyCor
+331863749495508993	Tue, 07 May 2013 20:10:58 +0000	craigiffert	6 Benefits of Being a Social Business by @gregdorban http://t.co/DVhSZkAag5 via @B2Community #IBM #SocBi
+331863745972293632	Tue, 07 May 2013 20:10:57 +0000	sit60	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/8JudTxszEJ #IBMexperience #SocBi
+331863482133782528	Tue, 07 May 2013 20:09:54 +0000	FrannySchmidt	Did you miss the #tivoliug webcast Our Experience Implementing #FastBack - replay here http://t.co/lZWQXynVeR #IBM #IBMStorag
+331863426693480450	Tue, 07 May 2013 20:09:41 +0000	heidi_ambler	RT @IBMSocialBiz: Download the paper "#IBM Connections Delivers ROI" - integrate social software w/existing investments http://t.co/s3Dk5yjSp6 #ibm #socbi
+331863306971262976	Tue, 07 May 2013 20:09:12 +0000	EgpKwt	#IBM تطرح تطبيق لمساعدة ذوى الإعاقة للتصويت بانتخابات مصر http://t.co/ERScFKa8Py
+#Egyp
+331863027290869761	Tue, 07 May 2013 20:08:06 +0000	LisaRautenbach	RT @coastw: Want to understand millennials in the corporate world? Read this Forbes piece, from a millennial IBMer @pgergis #ibm http://t.co/hMxBzjigc
+331862714517450752	Tue, 07 May 2013 20:06:51 +0000	CaseyCrl	Nice overview of Kingland Systems an #IBM Premier business partner http://t.co/pqv5l87JnW via @KinglandSystems #BP #FS
+331862283712090115	Tue, 07 May 2013 20:05:08 +0000	IBMAnalytics	#IBM Helps Security First #Insurance Mine #BigData To Prioritize &amp; Route #SocialMedia Requests After Disasters http://t.co/dm2oKvucp
+331862283028426752	Tue, 07 May 2013 20:05:08 +0000	IBMStorage	#IBM's @zyrober explains benefits of #flashsystems from the #SAN point of view. Read new blog http://t.co/TnCxjo2Asp #FlashAhead #IBMStorag
+331862277097668608	Tue, 07 May 2013 20:05:07 +0000	MMORALES13	#IBM's @zyrober explains benefits of #flashsystems from the #SAN point of view. Read new blog http://t.co/sk5D7YVRKR #FlashAhead #IBMStorag
+331862206276853760	Tue, 07 May 2013 20:04:50 +0000	BrianKelley19	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/FR0KCqsVay Via NY Times #IBM #SocBi
+331862107333201920	Tue, 07 May 2013 20:04:26 +0000	MauricioRaul	“@SystemsandTech #IBM wins $123 million HR contract for U.S. gov't http://t.co/5y5HJZqVhn�
+331862004140740610	Tue, 07 May 2013 20:04:02 +0000	rawn	Why #socbiz for HR? 30% more talent searches completed, 25% less time to fill openings, 20% increased retention #ibm http://t.co/VqgXKiNX4
+331861857008750593	Tue, 07 May 2013 20:03:27 +0000	IBMSocialBiz	Download the paper "#IBM Connections Delivers ROI" - integrate social software w/existing investments http://t.co/s3Dk5yjSp6 #ibm #socbi
+331861829179539457	Tue, 07 May 2013 20:03:20 +0000	semanticfire	Always interesting to hear views about Smarter Cities from the #IBM Research People. very relevant to #rescinfo information awarene
+331861667094867970	Tue, 07 May 2013 20:02:41 +0000	AmandaRasor	Enable quicker #recovery from unanticipated #disasters #BCRS #IBM http://t.co/5wFonwp9Y
+331861478107914240	Tue, 07 May 2013 20:01:56 +0000	Nils_CSI	Quick, easy, lightweight and effective #monitoring solution from #IBM. Download &amp; deploy within minutes http://t.co/lErSkalTQ
+331861232967634946	Tue, 07 May 2013 20:00:58 +0000	TalkToJohnC	Advancing the #cloud to drive innovation with SmartCloud Orchestrator #IBM http://t.co/15DN48teu
+331861012666003459	Tue, 07 May 2013 20:00:05 +0000	EugeneTheron	@LotusEvangelist: "http://t.co/w2I46zyH8z upgrading #ibm Domino in 3 minutes" halve that for Linux ;-
+331860074429558784	Tue, 07 May 2013 19:56:22 +0000	RayFrohnhoefer	RT @dougorlando: RT @IBM: I think, therefore I am: http://t.co/PBu3neSBMe video with @Grady_Booch #leadership #pmot #project #IBM @RayFrohnhoefe
+331859577509384192	Tue, 07 May 2013 19:54:23 +0000	SystemsandTech	Look, #IBM is doing SQL on #Hadoop, too http://t.co/74y4HIdE9G via @gigao
+331859517530832896	Tue, 07 May 2013 19:54:09 +0000	kirstengraham	Why Apple Won't Be Around as Long as IBM http://t.co/HFDuFGZ3Xb via @CIOonline @Enderle #102years #IB
+331858949647237121	Tue, 07 May 2013 19:51:53 +0000	stacimckee	RT @SystemsandTech: #IBM wins $123 million HR contract for U.S. gov't http://t.co/yjtQVlT75
+331858727642726403	Tue, 07 May 2013 19:51:00 +0000	jasonsturn	#IBM launches MessageSight, appliance aimed at M2M http://t.co/NE2Ib7cDDo #Mobile #IBMImpac
+331858687675207681	Tue, 07 May 2013 19:50:51 +0000	sarahbswift	“@AliSlater14: Enjoying working @1000Lakeside  #ibm in the springtime! http://t.co/nSMQZruTgZ” how beautiful Ali! @ukcw_nhb
+331858620297920512	Tue, 07 May 2013 19:50:35 +0000	IBMSmrtCommerce	RT @edzuber: #IBM's @jpuleri named @Consulting_Mag Top 25 for #smarterretail http://t.co/D0k8l7W2U
+331857931425419264	Tue, 07 May 2013 19:47:51 +0000	HemsVallabh	Don't let your job definition define the boundaries of your job.Think broader,think beyond &amp; make what you do count! #PearlsOfWisdom #IB
+331857560506335232	Tue, 07 May 2013 19:46:22 +0000	ewsheets	How can orgs use #SocialBusiness practices &amp; capabilities to transform &amp; create a competitive advantage? http://t.co/cGL8VCcStG #IBM #SocBi
+331857530332536834	Tue, 07 May 2013 19:46:15 +0000	NathanielKhani	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/gsm6exnHsq Via NY Times #IBM #SocBi
+331857307610775553	Tue, 07 May 2013 19:45:22 +0000	timothy_tsao	RT @martafernandez: Cloud for Midsize Business: Public vs Private vs Hybrid Clouds. View differences: http://t.co/Yje9ET0wS8 #IBM #SM
+331856432091779072	Tue, 07 May 2013 19:41:53 +0000	SystemsandTech	#IBM wins $123 million HR contract for U.S. gov't http://t.co/yjtQVlT75
+331856310045908992	Tue, 07 May 2013 19:41:24 +0000	jan_valdman	Nejmenší film na světě: A boy and his atom. http://t.co/KjcbuuA7iW #ib
+331856271995187201	Tue, 07 May 2013 19:41:15 +0000	midicat	RT @Kenexa: Join #IBM executives, clients &amp; industry experts for the Creating a Smarter Workforce webcast on 5/15. More info: http://t.co/kIVdpFzYr
+331855662097256448	Tue, 07 May 2013 19:38:50 +0000	ajitbelani	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/U80ejvDq7
+331855589531586563	Tue, 07 May 2013 19:38:32 +0000	martafernandez	Cloud Architecture for Midsize Business Requirements: Public vs Private vs Hybrid Clouds. View differences: http://t.co/Av8Hnpq9jK #IBM #SM
+331855150987751424	Tue, 07 May 2013 19:36:48 +0000	Kenexa_HR_Inst	RT @Kenexa: Join #IBM executives, clients &amp; industry experts for the Creating a Smarter Workforce webcast on 5/15. More info: http://t.co/kIVdpFzYr
+331854901745442816	Tue, 07 May 2013 19:35:48 +0000	TamaraPMoya	Learn about how @IBM is Reinventing the Services Relationship on 5/13 with @IBMCAI &amp; experts. https://t.co/n4VriumJhN #vPanel #IB
+331854892668948480	Tue, 07 May 2013 19:35:46 +0000	CollabGuyDon	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/IbiWfujFhn #IBM #SocBi
+331853938125074432	Tue, 07 May 2013 19:31:59 +0000	Kenexa	Join #IBM executives, clients &amp; industry experts for the Creating a Smarter Workforce webcast on 5/15. More info: http://t.co/kIVdpFzYr
+331853670046134272	Tue, 07 May 2013 19:30:55 +0000	ewsheets	@grahamgk says What's a Social Business? Look Beyond the Tweets and Likes http://t.co/0LQbyRSMIW via @HuffingtonPost #IBM #SocBi
+331853626047877120	Tue, 07 May 2013 19:30:44 +0000	IBMStorage	Case study: how #IBM all #flash #storage array supports world's fastest #cloud hosting system http://t.co/ww3ucn5Y0q #FlashAhead #IBMStorag
+331853620473630720	Tue, 07 May 2013 19:30:43 +0000	MMORALES13	Case study: how #IBM all #flash #storage array supports world's fastest #cloud hosting system http://t.co/0A3re6UtC1 #FlashAhead #IBMStorag
+331853535505440768	Tue, 07 May 2013 19:30:23 +0000	DjYuung	#IBM http://t.co/sg7rtozhq
+331853136052494336	Tue, 07 May 2013 19:28:47 +0000	TotalSol_Inc	RT @KodakDI: #Kodak Document Imaging adds #IBM keynote to Global Directions '13: http://t.co/o14jyJuhAg -- #gd13 #future #ecm #docmgm
+331853085288833024	Tue, 07 May 2013 19:28:35 +0000	seanloconnell	RT @IBMEMM: Individual customer insights are the new table stakes in first-class #digitalmarketing. New intro video from #IBM: http://t.co/5ji0h2XPc
+331853058231386112	Tue, 07 May 2013 19:28:29 +0000	BortolussiMike1	RT @CarrieBendzsa: Veterans Affairs uses #cloud to deliver new #IBM built HR system to 300K employees http://t.co/h4CuT3pjq
+331852886185218048	Tue, 07 May 2013 19:27:48 +0000	flinden68	RT @XPageDeveloper: Check out the cool IBM Champion video. 
+http://t.co/iyhIwdttPh
+#ibmchampion #xpages #ics #ib
+331852812780711937	Tue, 07 May 2013 19:27:30 +0000	XPageDeveloper	Check out the cool IBM Champion video. 
+http://t.co/iyhIwdttPh
+#ibmchampion #xpages #ics #ib
+331852375302217728	Tue, 07 May 2013 19:25:46 +0000	KodakDI	#Kodak Document Imaging adds #IBM keynote to Global Directions '13: http://t.co/o14jyJuhAg -- #gd13 #future #ecm #docmgm
+331852218460434432	Tue, 07 May 2013 19:25:09 +0000	IBMTechline	Go-To-Webinar "Simplify your IT with #IBM PureFlex and IBM Flex System Manager" May 8th +more dates: http://t.co/g0qxPYDo5
+331852010930442240	Tue, 07 May 2013 19:24:19 +0000	RLezon	RT @IBMSocialBiz: Learn how to quickly ID the right people for the right jobs. Register for 5/15 broadcast http://t.co/w396O4gXeJ #ibm #socbi
+331851895675158530	Tue, 07 May 2013 19:23:52 +0000	PRNTech	New guide: http://t.co/phdeY1m3X8 #compliance #riskmanagement #governance software. Compare to #Oracle, #IBM. http://t.co/BVjM25fge
+331851809092145153	Tue, 07 May 2013 19:23:31 +0000	RLezon	RT @craigiffert: Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/hCE91MtL4O #IBM #SocBi
+331851795716530176	Tue, 07 May 2013 19:23:28 +0000	science_buzz	From the Buzz blog:  Minuscule Motion Picture http://t.co/ad6DcHDef3 #atom #ibm #nano #scanningtunnelingmicroscop
+331851425804066816	Tue, 07 May 2013 19:22:00 +0000	CollabDude	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/zIBycbvKwY via @cmswire #IBM #SocBi
+331851353729167360	Tue, 07 May 2013 19:21:42 +0000	KatherineOlear	Moving to #cloudcomputing can be a smart decision for governments and companies http://t.co/Zv29lJBLCZ #IBM #SmartClou
+331851293159211009	Tue, 07 May 2013 19:21:28 +0000	mjcardenasusa	Video: http://t.co/KZo2EUESnE  #IBM SmartCloud offering keeps your #data secure and available at all times. #BCR
+331851179741020160	Tue, 07 May 2013 19:21:01 +0000	shetalau	Understand performance of applications running in #IBM #WebSphere environment with #APD Lite, download at no cos
+331851072517840897	Tue, 07 May 2013 19:20:35 +0000	Hperrin1982	RT @AsyDarlyn: .iSwear @phynofino sld release his IGBO dictionary!! #Ghostmode #ManOfTheYear #Eziokwu His Igbo tunes make sense die! #IB
+331850663564816384	Tue, 07 May 2013 19:18:58 +0000	NAMANDISTRO	Interior #Storage Heads to the #Cloud: Award
+to Verizon, #IBM and others was slowed by a
+contract dis... http://t.co/9ToGUnLg6x #infose
+331850571235618816	Tue, 07 May 2013 19:18:36 +0000	KlausPlanton	#SmartCloud Orchestrator makes the list of #OpenStack's hottest products http://t.co/gpzM6RHaZY  #cloud #IB
+331850556303880194	Tue, 07 May 2013 19:18:32 +0000	KlausPlanton	Join #IBM’s cloud beta program and shape the future of the open #cloud: http://t.co/tRuO0P9S2
+331850413160685568	Tue, 07 May 2013 19:17:58 +0000	theycallmegin	RT @AsyDarlyn: .iSwear @phynofino sld release his IGBO dictionary!! #Ghostmode #ManOfTheYear #Eziokwu His Igbo tunes make sense die! #IB
+331850394240167937	Tue, 07 May 2013 19:17:54 +0000	kirstengraham	Atomic Star Trek Fan Art Goes Where No Fan Art Has Gone Before http://t.co/3S6UbgLJTK via @wired #madewithatoms #IB
+331850294147293185	Tue, 07 May 2013 19:17:30 +0000	AsyDarlyn	.iSwear @phynofino sld release his IGBO dictionary!! #Ghostmode #ManOfTheYear #Eziokwu His Igbo tunes make sense die! #IB
+331850250270695424	Tue, 07 May 2013 19:17:19 +0000	EktaROC	My batman utility belt. #IBM #CE #nerd #pants http://t.co/1KTwbASgK
+331850152283357184	Tue, 07 May 2013 19:16:56 +0000	RiczWest	@scottwambler Didn’t know you’re ! #IBM or mean to say you weren’t allowed own opinion. Interested what you think of http://t.co/kpUjJ0PLz
+331849989561126916	Tue, 07 May 2013 19:16:17 +0000	CloseAmber	#IBM launches MessageSight, appliance aimed at M2M http://t.co/tw9nRTfy03 #Mobile #IBMImpac
+331849852143157248	Tue, 07 May 2013 19:15:44 +0000	walnutgroveSA	Another successful function. Thanks #ibm #walnutgrove #sandtoncity, it was a great evening! #events #function
+331849826587258880	Tue, 07 May 2013 19:15:38 +0000	ewsheets	Effective Social Media Marketing Strategies Need a Powerful Content Plan http://t.co/u0DZuXTYLD via @B2Community #IBM #SocBi
+331849720999854080	Tue, 07 May 2013 19:15:13 +0000	jgptec	RT @Infor: Read CIO: "Infor Launches Version 10x, Plans IBM SmartCloud Launch for Its Apps" http://t.co/ltlBdGk3Eu @CIOonline #Infor #IBM #ens
+331849317738483712	Tue, 07 May 2013 19:13:37 +0000	Enlace_Geek	IBM: "Hay que cuantificar el valor de los empleados de las empresas" http://t.co/jEqDBewD8q #IBM #news vía @gtpintad
+331849223605739520	Tue, 07 May 2013 19:13:15 +0000	KlausPlanton	Comprehensive, integrated #APM solutions from #IBM http://t.co/PlVyk1HpG
+331849095981457408	Tue, 07 May 2013 19:12:44 +0000	KlausPlanton	#Monitor the performance and availability of web-delivered applications running in the #cloud with #IBM http://t.co/CGVTxkVkL
+331849090432385025	Tue, 07 May 2013 19:12:43 +0000	dougorlando	RT @IBM: I think, therefore I am: http://t.co/PBu3neSBMe video with @Grady_Booch #leadership #pmot #project #IBM @RayFrohnhoefe
+331849037869355008	Tue, 07 May 2013 19:12:30 +0000	KlausPlanton	Quick, easy, lightweight and effective #monitoring solution from #IBM. Download &amp; deploy within minutes http://t.co/37bIF131g
+331849034421653507	Tue, 07 May 2013 19:12:29 +0000	Alexa_Movil	IBM: "Hay que cuantificar el valor de los empleados de las empresas" http://t.co/xWvs1Efyxg #IBM #new
+331849024648912896	Tue, 07 May 2013 19:12:27 +0000	AlexaInfo	IBM: "Hay que cuantificar el valor de los empleados de las empresas" http://t.co/qa6rMxfIJt #IBM #new
+331849017556340736	Tue, 07 May 2013 19:12:25 +0000	gtpintado	IBM: "Hay que cuantificar el valor de los empleados de las empresas" http://t.co/XOXD3Ag3x6 #IBM #new
+331848665620697089	Tue, 07 May 2013 19:11:01 +0000	craigiffert	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/hCE91MtL4O #IBM #SocBi
+331848661212483584	Tue, 07 May 2013 19:11:00 +0000	sit60	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/nOGzKn2W21 http://t.co/nOGzKn2W21 #IBM #SocBi
+331848654799376387	Tue, 07 May 2013 19:10:59 +0000	BakerNabaker	@grahamgk says What's a Social Business? Look Beyond the Tweets and Likes http://t.co/KxbUbq1Eq7 via @HuffingtonPost #IBM #SocBi
+331848530039820288	Tue, 07 May 2013 19:10:29 +0000	kathycashen	Reduce costs #IBM Real-time #Compression and #SAN Volume Controller
+Read the Taneja Group report http://t.co/p4LTPzeZd
+331847882619621378	Tue, 07 May 2013 19:07:55 +0000	thomasogi	Hi there! “@MoserMaCH: Welcome to the #IBM #socbiz Club @Sash_Innovation @deraufmerksam  /cc @thomaSchulz @stfunk @DardaneMorina @mriedweg�
+331847457103282177	Tue, 07 May 2013 19:06:13 +0000	LawsonTalk1	RT @Infor: Read CIO: "Infor Launches Version 10x, Plans IBM SmartCloud Launch for Its Apps" http://t.co/ltlBdGk3Eu @CIOonline #Infor #IBM #ens
+331847355190091776	Tue, 07 May 2013 19:05:49 +0000	gourleymslc	#IBM #Mobility 2 day workshop for only $5K. Sign up or discuss further with me @ http://t.co/9iqNhVAzP
+331846903157366785	Tue, 07 May 2013 19:04:01 +0000	debkasdan	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/v7E8lKzIb
+331846786245345281	Tue, 07 May 2013 19:03:33 +0000	rjwissin	Article #throwback: "#IBM #SmartCloud #Storage: Drive Up Performance Availability &amp; #ROI for #Cloud Models" http://t.co/7UAVdYc85
+331846586999123968	Tue, 07 May 2013 19:02:46 +0000	travis6595	Justice Department Broadens Probe of IBM: http://t.co/IybxHA9wAM #IBM #FCPA #la
+331846574332329984	Tue, 07 May 2013 19:02:43 +0000	IBMSocialBiz	Learn how to quickly ID the right people for the right jobs. Register for 5/15 broadcast http://t.co/w396O4gXeJ #ibm #socbi
+331846536218677248	Tue, 07 May 2013 19:02:34 +0000	cmhegarty	Visit the new #IBM #SmartCloud Application Performance Management wiki http://t.co/qcaghuLiWc  #IBMTivol #clou
+331846495630422016	Tue, 07 May 2013 19:02:24 +0000	PaxtonLawGroup	Justice Department Broadens Probe of IBM: http://t.co/rbihtVGkn4 #IBM #FCPA #la
+331846229526978561	Tue, 07 May 2013 19:01:21 +0000	LB_Butler	@forbes examines #IBM solutions that help customers recruit and assess talent. http://t.co/1fZOCvQ8Z8 #IBM #socbiz #IBMSocialBi
+331846051180990464	Tue, 07 May 2013 19:00:38 +0000	pblange1	I got it. CO2 reductions shall be combined with energy reduction to reduce the cost of the transformation of the supply chain #scccph #ib
+331845995753246720	Tue, 07 May 2013 19:00:25 +0000	linux_at_ibm	The #Linux zone on #IBM developerWorks is the resource for info on Linux programming &amp; system administration: http://t.co/QqnZ8meBT
+331845405782441984	Tue, 07 May 2013 18:58:04 +0000	udionline	Ma töltöttem be az első évemet az #ibm -nél. Megjutalmazom magam egy Humble Double Fine Bundle-lel. No meg egy sörrel :)
+331845367064821760	Tue, 07 May 2013 18:57:55 +0000	IBMSAPAlliance	RT @Partha_Bop: Analyze #SAP transactional business operations in real time w/ #IBM #eX5 http://t.co/XGVQJSFsOB #SAPHANA #sapphireno
+331845210881536000	Tue, 07 May 2013 18:57:18 +0000	AlvaroQuijadaB	RT @ibmcognos: #IBM #Vision13 offers more than 100 sessions in four main tracks, customer success stories &amp; hands-on workshops http://t.co/mDYZhBLGz
+331844885281902594	Tue, 07 May 2013 18:56:00 +0000	TamaraGunter	6 Benefits of Being a Social Business by @gregdorban http://t.co/Vni2RUBvll via @B2Community #IBM #SocBi
+331844755447222272	Tue, 07 May 2013 18:55:29 +0000	vijayan_rect	RT @jeffjudy123: #IBM's open #cloud has arrived: http://t.co/wHXvVlB1Ck #OpenStac
+331844742386184192	Tue, 07 May 2013 18:55:26 +0000	ibmcognos	#IBM #Vision13 offers more than 100 sessions in four main tracks, customer success stories &amp; hands-on workshops http://t.co/mDYZhBLGz
+331844445735620609	Tue, 07 May 2013 18:54:15 +0000	praveenmishram	RT @History_Pics: A 5 megabyte IBM harddisk is loaded into an airplane. It weighed over a 1000kg! 1956 http://t.co/JAbGl01INb #IB
+331844391876575232	Tue, 07 May 2013 18:54:03 +0000	MirzaMB	RT @tamicann: “IBM's Jon Iwata speaks on building endurable Brand Value” via @coastw on Vimeo http://t.co/ebAL4N2acK #Vimeo #ibm #smartermarketin
+331844295692804096	Tue, 07 May 2013 18:53:40 +0000	Christine_McG	At #AcordLoma? Be sure to stop by #IBM Meeting Space on the exhibit floor #AcordLoma2013 #insuranc
+331843608443502592	Tue, 07 May 2013 18:50:56 +0000	Aivy_Iniguez	6 Benefits of Being a Social Business by @gregdorban http://t.co/ZwFnPj7cO0 via @B2Community #IBM #SocBi
+331843597836091393	Tue, 07 May 2013 18:50:53 +0000	NathanielKhani	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/EjDfILBlru #IBM #SocBi
+331842745469632514	Tue, 07 May 2013 18:47:30 +0000	Infor	Read CIO: "Infor Launches Version 10x, Plans IBM SmartCloud Launch for Its Apps" http://t.co/ltlBdGk3Eu @CIOonline #Infor #IBM #ens
+331842598580924418	Tue, 07 May 2013 18:46:55 +0000	webspacecraft	IBM PowerHA SystemMirror 7.1.2 Enterprise Edition for AIX: Redbook, published: Mon, 6 May 2013
+... http://t.co/g46WRjFR0g #IBM #Redbook
+331842553622171648	Tue, 07 May 2013 18:46:44 +0000	jasonsturn	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/NVreE5ZD8p #IBM #SocBi
+331842472466587648	Tue, 07 May 2013 18:46:25 +0000	ewsheets	At #IBMConnect SoCal hear how to create a smarter workforce w/ #SocialBusiness technologies http://t.co/4p1SbEwq6M #IBM #SocBi
+331842467366318080	Tue, 07 May 2013 18:46:24 +0000	EdwinDerksen	#IBM's #AnalyticsZone has a new look &amp; feel - check it out &amp; all the latest content http://t.co/wVhzYYtZh1 #ibmanalytics�
+331842104861020160	Tue, 07 May 2013 18:44:57 +0000	AndyShuttleUK	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/5rhm2mbEz
+331842072329994241	Tue, 07 May 2013 18:44:50 +0000	jeffjudy123	#IBM's open #cloud has arrived: http://t.co/wHXvVlB1Ck #OpenStac
+331841982840320001	Tue, 07 May 2013 18:44:28 +0000	holgermu	Interesting - 70% of #Hana machines are #IBM, 100 #HP sytems, Some #Cisco. #SimplyHan
+331841861230669826	Tue, 07 May 2013 18:43:59 +0000	IBMQuebec	Québec ville intelligente: des experts #IBM lui fourniront un plan pour l'aider à mieux rejoindre ses citoyens http://t.co/NCeIv9VF3
+331841098207080448	Tue, 07 May 2013 18:40:57 +0000	carlossm68	Presentación de trabajos del #IBM CSC team a funcionarios del gobierno de Puebla http://t.co/Y84JwX5xi
+331840561101275137	Tue, 07 May 2013 18:38:49 +0000	ian_iandmoore	Durham University signs #IBM deal (From The Northern Echo) http://t.co/ot7tyPQ1DZ #UCISA #tivol
+331840529476222976	Tue, 07 May 2013 18:38:42 +0000	LotusEvangelist	Who knew this would get over 5,000 hits on youtube? http://t.co/LZixvDnGSC upgrading #ibm Domino in 3 minute
+331840352782807040	Tue, 07 May 2013 18:38:00 +0000	IBMErickson	How can #Oracle #STK tape clients continue to spend money on existing #mainframe VTL equipment? http://t.co/dYhc7WE2cQ #ib
+331840131990425600	Tue, 07 May 2013 18:37:07 +0000	cperanandam	Managing the #cloud made simple: Webcast May 21 - http://t.co/DqO6HaPZQ0 #IBM #OpenStac
+331840075535101952	Tue, 07 May 2013 18:36:53 +0000	PageViral	RT @Vio_thoughts: Video: IBM's Own Data Center Efficiency Transformation #ibm http://t.co/Hmd8U1RejQ #DataCenter #transformation #efficiency #analytic
+331838838731333635	Tue, 07 May 2013 18:31:59 +0000	k2weets	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/42boFw79H
+331838709727100929	Tue, 07 May 2013 18:31:28 +0000	ewsheets	Check out Sandy Carter's #SocialBusiness Coffee Break featuring CAT! (No, not grumpy Cat!) http://t.co/h3j3Jr4AaC #IBM #SocBi
+331838707961307139	Tue, 07 May 2013 18:31:27 +0000	AragonResearch1	Don't miss our coverage on #IBMimpact http://t.co/kh8BsmwHA6 #IBM #mobil
+331838624637272064	Tue, 07 May 2013 18:31:08 +0000	WithLoveSRenee	RT @ewsheets: Find out the Value of Improved Collaboration in your #Cloud #Engineering Environment. Join #IBM in Miami, May 14th! http://t.co/Wycv0Liie
+331838261230174208	Tue, 07 May 2013 18:29:41 +0000	Nils_CSI	Are you ready for the next generation of #cloud application #monitoring? Try free trial today #IBM http://t.co/RKzdBHtKc
+331838126488166400	Tue, 07 May 2013 18:29:09 +0000	armennajarian	RT @ibmsaas: The evolved CIO closely aligned with LOB will thrive via @armennajarian on today's #SaaS webinar: http://t.co/n9y4pQQv3B  #ibmsaas #ibmclou
+331838067008733185	Tue, 07 May 2013 18:28:55 +0000	MarkTaggart1	Comprehensive, integrated #APM solutions from #IBM http://t.co/ZLSIvCm5Q
+331837343080259589	Tue, 07 May 2013 18:26:02 +0000	CamacConsulting	Some great speakers at #TIEcon 2013: #SAP #HP #Intel #Qualcomm, #IBM, #Linkedin http://t.co/L7IZLg8vq
+331837328526032897	Tue, 07 May 2013 18:25:59 +0000	Vio_thoughts	Video: IBM's Own Data Center Efficiency Transformation #ibm http://t.co/Hmd8U1RejQ #DataCenter #transformation #efficiency #analytic
+331836620301029376	Tue, 07 May 2013 18:23:10 +0000	yesi79	#IBM Scientists Create #StarTrek Fan Art Out of of Atoms #nano http://t.co/4abSlVIIn
+331836603372797955	Tue, 07 May 2013 18:23:06 +0000	alanseiden	RT @DawnMayiCan: On the way to New Orleans for the #IBM #PowerSystems Technical Symposium. Will be giving three #IBM Systems Director presentations
+331835972893425665	Tue, 07 May 2013 18:20:35 +0000	IBMPowerSystems	How can #BigData help retailers and how can #IBM help? Check it out@ http://t.co/3q7FDz25XG @IBMSmrtrCmptn
+331834876695310337	Tue, 07 May 2013 18:16:14 +0000	CloseAmber	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/T7hmjhHgIs #IBM #SocBi
+331834857950953472	Tue, 07 May 2013 18:16:09 +0000	Frank_English	2013 #IBM #PowerSystems Technical Symposium, May 8-10 in New Orleans
+331834844055216128	Tue, 07 May 2013 18:16:06 +0000	collabtek	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/TUiYZ2BODP #IBM #SocBi
+331834804020604928	Tue, 07 May 2013 18:15:57 +0000	ewsheets	WEBCAST: 5/15 Learn how leading orgs deal w/ today’s changing workforce, economic challenges &amp; tech advances http://t.co/Trs9vmA5FC #IBM 
+331834063134547968	Tue, 07 May 2013 18:13:00 +0000	DawnMayiCan	On the way to New Orleans for the #IBM #PowerSystems Technical Symposium. Will be giving three #IBM Systems Director presentations
+331833535772127233	Tue, 07 May 2013 18:10:54 +0000	craigiffert	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/1V3cPmLr6v #IBM #SocBi
+331833531925946368	Tue, 07 May 2013 18:10:53 +0000	sit60	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/cs2PiCi59t via @cmswire #IBM #SocBi
+331833527794540545	Tue, 07 May 2013 18:10:52 +0000	atharafzal	An interesting view on the impact of #ibm #mobilefirst from the partner view via @edbrill http://t.co/5osZ4v7vf
+331833524489433089	Tue, 07 May 2013 18:10:52 +0000	BakerNabaker	Effective Social Media Marketing Strategies Need a Powerful Content Plan http://t.co/5x0JbVLKQV via @B2Community #IBM #SocBi
+331833196897513473	Tue, 07 May 2013 18:09:33 +0000	ckrichar	Had a great meeting with Miracle Software! Great partner to team with #IBM #Collaboratio
+331832494032822273	Tue, 07 May 2013 18:06:46 +0000	CelineMKTG	RT @CarrieBendzsa: #IBM #CMO Jon Iwata on brand - defined by corporate character not what you sell: http://t.co/V6L7YwgKV
+331832449623539712	Tue, 07 May 2013 18:06:35 +0000	Smarter_Media	#IBM is pushing science at the atomic level to make #movies smaller, bigger &amp; better #smarter_media http://t.co/hj8zNTvV1
+331832166705135618	Tue, 07 May 2013 18:05:28 +0000	noootsab	RT @Devoxx4Kids: As for last year, #IBM #Belgium will support the 2013 sessions of #Devoxx4Kids #BE by providing laptops and #Lego #Mindstorms. Thanks IB
+331832099889876993	Tue, 07 May 2013 18:05:12 +0000	TxMQITSolutions	Are your systems running properly. #TxMQ is running a deal on our HealthCheck services. Schedule today. http://t.co/781ypFOZQI #IBM #WA
+331832022282674176	Tue, 07 May 2013 18:04:53 +0000	JeffatBigBlue	Veterans Affairs uses #cloud to deliver new #IBM built HR system to 300K employees http://t.co/Iu2etk5O6P #Mainframe #SystemzS
+331831764693684224	Tue, 07 May 2013 18:03:52 +0000	WojciechBialy	Read All about #BigBlue -&gt; https://t.co/ebvTbHtYof  #IBM #socbiz #innovatio
+331831719713984512	Tue, 07 May 2013 18:03:41 +0000	TheCloudNetwork	Cloud Expo | IBM &amp; OpenStack Together: Accelerating Cloud Adoption &amp; ROI - SYS-CON Media (... http://t.co/5AZxbxlfAZ #ITNews #Cloud #IB
+331831713250566145	Tue, 07 May 2013 18:03:40 +0000	ewsheets	Find out the Value of Improved Collaboration in your #Cloud #Engineering Environment. Join #IBM in Miami, May 14th! http://t.co/Wycv0Liie
+331831710536835073	Tue, 07 May 2013 18:03:39 +0000	mandingabcn	#IBM presenta la #película más pequeña del mundo http://t.co/ByO4ToDZH
+331831591162769408	Tue, 07 May 2013 18:03:11 +0000	Natasha_D_G	The Next Big "H" in #BigData: Hybrid Architectures —  http://t.co/4g4neHr2o2 by @jameskobielus #IBM cc @ibmbigdat
+331831533512032256	Tue, 07 May 2013 18:02:57 +0000	ibmcognos	#IBM's #AnalyticsZone has a new look &amp; feel - check it out &amp; all the latest content http://t.co/By61fRPgtj #ibmanalytic
+331831432026673153	Tue, 07 May 2013 18:02:33 +0000	ewsheets	#IBM #BigData &amp; Analytics: How bigger data creates better decisions-Watch video here: http://t.co/mqppuXVRQa #SocBi
+331831353299570688	Tue, 07 May 2013 18:02:14 +0000	IBMSocialBiz	Download the paper: E-forms &amp; process automation http://t.co/4J7XjJUgwT #ibm #socbi
+331831337885511682	Tue, 07 May 2013 18:02:10 +0000	AJ_at_Work	#TivoliUserGroup 16 May 2013, #IBM South Bank.  Register Now http://t.co/HQEm6ZS3Gj #developerworks #tivoliug #ibmeam #smarterinfrastructur
+331830855624450048	Tue, 07 May 2013 18:00:15 +0000	tivoliug	Last day until the Northern California #MAXIMO User Group meeting! #IBM #TivoliU
+331830829116436480	Tue, 07 May 2013 18:00:09 +0000	Matt_McLochlin	#IBM a Leader in 2013 #Gartner Client Management Tools #MagicQuadrant. http://t.co/pztNZVEol
+331829499102646272	Tue, 07 May 2013 17:54:52 +0000	mriedweg	Willkommen“@MoserMaCH: Welcome to the #IBM #socbiz Club @Sash_Innovation @deraufmerksam  /cc @thomaSchulz @thomasogi @stfunk @DardaneMorin
+331829385575415809	Tue, 07 May 2013 17:54:25 +0000	brlothian	A technology revolution for the world of HR that takes some of the guesswork out of HR http://t.co/7oN4KiKGXn via Forbes #IBM #SocBi
+331829250795651072	Tue, 07 May 2013 17:53:53 +0000	ThatTivoliChick	#SmartCloud Orchestrator makes the list of #OpenStack's hottest products http://t.co/k5jAVyMizM  #cloud #IB
+331829160316112897	Tue, 07 May 2013 17:53:31 +0000	JohnVogel112	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/cKCE48AUEL via @cmswire #IBM #SocBi
+331828992086798336	Tue, 07 May 2013 17:52:51 +0000	themikestern	Here's something you don't see every day.  A movie made from atoms. #IBM #movie #stopmotion http://t.co/V1r3HEuXC
+331828819101114368	Tue, 07 May 2013 17:52:10 +0000	ThatTivoliChick	Quick, easy, lightweight and effective #monitoring solution from #IBM. Download &amp; deploy within minutes http://t.co/WIpwnAz4v
+331828815816957952	Tue, 07 May 2013 17:52:09 +0000	marysolkt	#IBM Global Financing #IGF considered one of the more creative IT financing companies, http://t.co/D4A2FI08Tn @IBM_Financin
+331828571427459075	Tue, 07 May 2013 17:51:11 +0000	gotoinput	Das #IBM Pure System find ich sehr interessant. @mye
+331828494369705984	Tue, 07 May 2013 17:50:52 +0000	SeeIBMAnalytics	#IBM Finance Forum coming to a city near you! Events feature #analytics solutions in perf mgmt, #risk &amp; #SPM http://t.co/ZkCoeNm6Ev #ibmff1
+331828487512018945	Tue, 07 May 2013 17:50:51 +0000	WorldCompliance	#IBM discloses broad new #DOJ #investigation http://t.co/xQNU1Q7a1
+331828000867893248	Tue, 07 May 2013 17:48:55 +0000	CarrieBendzsa	Veterans Affairs uses #cloud to deliver new #IBM built HR system to 300K employees http://t.co/h4CuT3pjq
+331827833942974465	Tue, 07 May 2013 17:48:15 +0000	JohnVogel112	6 Benefits of Being a Social Business by @gregdorban http://t.co/rhLs65zFvz via @B2Community #IBM #SocBi
+331827345902161920	Tue, 07 May 2013 17:46:18 +0000	ewsheets	Will u be left behind? See why 4 out of 5 orgs plan to invest in #SocialBusiness tech http://t.co/FxZtGKUN2u 5/8-San Franciso #IBM #SocBi
+331826592739381248	Tue, 07 May 2013 17:43:19 +0000	DardaneMorina	Welcome! “@MoserMaCH: Welcome to the #IBM #socbiz Club @Sash_Innovation @deraufmerksam  /cc @thomaSchulz @thomasogi @stfunk @mriedweg�
+331826134528450560	Tue, 07 May 2013 17:41:30 +0000	JohnVogel112	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/wQhKIIi2Jw Via NY Times #IBM #SocBi
+331826030790705153	Tue, 07 May 2013 17:41:05 +0000	TivoliSupport	Visit the new #IBM #SmartCloud Application Performance Management wiki http://t.co/JAUW9JxH1s #IBMTivol #clou
+331826026944552960	Tue, 07 May 2013 17:41:04 +0000	Aivy_Iniguez	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/GVylK6Oh75 #IBM #SocBi
+331826005306122240	Tue, 07 May 2013 17:40:59 +0000	kalgyimesi	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/QEGEaGOHH
+331825965401534464	Tue, 07 May 2013 17:40:49 +0000	ServMgmtConnect	Visit the new #IBM #SmartCloud Application Performance Management wiki http://t.co/ua1erMd3KS #IBMTivol #clou
+331825886150148096	Tue, 07 May 2013 17:40:30 +0000	MoserMaCH	Welcome to the #IBM #socbiz Club @Sash_Innovation @deraufmerksam  /cc @thomaSchulz @thomasogi @stfunk @DardaneMorina @mriedwe
+331825760224550912	Tue, 07 May 2013 17:40:00 +0000	kbacak	RT @LaurentMduC: Join #IBM’s cloud beta program and shape the future of the open #cloud: http://t.co/EwNh7oDm8
+331825722677145600	Tue, 07 May 2013 17:39:51 +0000	TFM_CH	#IBM #Nanotech "IBM Creates The World’s Smallest Stop-Motion Film With Atoms - http://t.co/WjMWKUShtY" http://t.co/HoEgpRKT3
+331825668893573120	Tue, 07 May 2013 17:39:39 +0000	bnhall	RT @LaurentMduC: Join #IBM’s cloud beta program and shape the future of the open #cloud: http://t.co/EwNh7oDm8
+331825614279548928	Tue, 07 May 2013 17:39:26 +0000	LaurentMduC	Join #IBM’s cloud beta program and shape the future of the open #cloud: http://t.co/EwNh7oDm8
+331825557325111297	Tue, 07 May 2013 17:39:12 +0000	AMonsef82	Improve Your Deployment Process to #IBM #WebSphere http://t.co/SUiBmK5sc
+331825541994913793	Tue, 07 May 2013 17:39:08 +0000	LaurentMduC	#SmartCloud Orchestrator makes the list of #OpenStack's hottest products http://t.co/r7OvEbW0N6  #cloud #IB
+331825313531179008	Tue, 07 May 2013 17:38:14 +0000	arcogent	Here supporting the future of #businessanalytics @ #IBM BA Summit DC #SPSS #Cogno
+331825272582197249	Tue, 07 May 2013 17:38:04 +0000	LaurentMduC	Quick, easy, lightweight and effective #monitoring solution from #IBM. Download &amp; deploy within minutes http://t.co/FH8LfOrC0
+331824853390852097	Tue, 07 May 2013 17:36:24 +0000	martinmacleod	RT @IBM_System_z: MT @IBMSTG: All set for the 2013 #IBM #Systemz Tech Symposium? Have a great event! Haven't registered? YOU STILL CAN! http://t.co/9o6TmQEjR
+331824795010347008	Tue, 07 May 2013 17:36:10 +0000	jasonsturn	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/2eGhKlXlcc #IBM #SocBi
+331824722910277632	Tue, 07 May 2013 17:35:53 +0000	jmcaton	RT @IBMAnalytics: Try The First Recipe Devised By #IBM’s Supercomputer Chef http://t.co/iDdJ1juiYv (via @FastCompany) #ibmanalytic
+331824692086329344	Tue, 07 May 2013 17:35:46 +0000	TheNameIsDoctor	Star Trek fan art that IBM scientists created out of atoms:  
+#StarTrek #IBM #art http://t.co/IE8KuFzhm
+331824378771820544	Tue, 07 May 2013 17:34:31 +0000	dotteson	Good News! Quick, easy, lightweight and effective #monitoring solution from #IBM. Download &amp; deploy within minutes http://t.co/ZLfyjnbsj
+331824352746151936	Tue, 07 May 2013 17:34:25 +0000	IBMPowerSystems	RT @IBMCanSystems: Register for #IBM #Systemz and #PowerSystems Technical Symposium, May 8-10 &amp; attend both events at no additional cost http://t.co/c3D4csfue
+331823824007995392	Tue, 07 May 2013 17:32:19 +0000	IBM_System_z	MT @IBMSTG: All set for the 2013 #IBM #Systemz Tech Symposium? Have a great event! Haven't registered? YOU STILL CAN! http://t.co/9o6TmQEjR
+331823651777298433	Tue, 07 May 2013 17:31:38 +0000	ewsheets	Don't miss the Social Analytics and Intelligence Webcast! 5/30 @12:45pmET-Reg now! http://t.co/6VSyRUkDD6 #IBM #SocBi
+331823580432179200	Tue, 07 May 2013 17:31:21 +0000	StorageWonk	#emc now claims 30% mkt share of xtrnl storage mkt , with #ibm, #netap, #hds following #emcworl
+331823306472833025	Tue, 07 May 2013 17:30:15 +0000	birkett_matthew	Look, #IBM is doing #SQL on #Hadoop, too http://t.co/XHPrDBcbpL via @gigao
+331822478039060480	Tue, 07 May 2013 17:26:58 +0000	BasVlugt	RT @MediaNetwerk: #Infor-oplossingen beschikbaar op #IBM #SmartCloud -  
+http://t.co/De0ESurBH
+331822430848946176	Tue, 07 May 2013 17:26:47 +0000	andresferrerd	Remember when instead of touchpads laptops had those keyboard nipole things #tech #nipple #ib
+331822224082358272	Tue, 07 May 2013 17:25:57 +0000	KschafferL	#IBM VDI with Flex or Pure Flex check it ou
+331822206952800257	Tue, 07 May 2013 17:25:53 +0000	ruudvanreede	RT @shmullen: Thanks goodness for #IBM #Domino  Clustering. That is all
+331822052472414208	Tue, 07 May 2013 17:25:16 +0000	MediaNetwerk	#Infor-oplossingen beschikbaar op #IBM #SmartCloud -  
+http://t.co/De0ESurBH
+331821830635651072	Tue, 07 May 2013 17:24:24 +0000	luif24	RT @allyjaco: #Monitor the performance and availability of web-delivered applications running in the #cloud with #IBM http://t.co/Ka3tE5EMaM  RT@allyjac
+331821699232329728	Tue, 07 May 2013 17:23:52 +0000	PRNAlert	New guide: http://t.co/0YEBKRuuYQ #compliance #riskmanagement #governance software. Compare to #Oracle, #IBM. http://t.co/0z260IMMT
+331821407317135360	Tue, 07 May 2013 17:22:43 +0000	allyjaco	#Monitor the performance and availability of web-delivered applications running in the #cloud with #IBM http://t.co/Ka3tE5EMaM  RT@allyjac
+331821376111538176	Tue, 07 May 2013 17:22:35 +0000	livermore13	Up to some #mischief at #IBM HQ @ IBM http://t.co/c3emHUufN
+331821227347943424	Tue, 07 May 2013 17:22:00 +0000	CollabDude	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/2fn4L8Ok3l #IBM #SocBi
+331821022774976514	Tue, 07 May 2013 17:21:11 +0000	Perficient_IBM	New blog post: #IBM #Emptoris Strategic Supply Management V10 http://t.co/nYLgAPrmx
+331820984556482560	Tue, 07 May 2013 17:21:02 +0000	IBMSTG	All set for the 2013 #IBM #Systemz Tech Symposium? Have a great event &amp; if you haven't registered, YOU STILL CAN. http://t.co/e8otwBaUT
+331820846505148417	Tue, 07 May 2013 17:20:29 +0000	IBM_NEWS	RT @ebarbini: Veterans Affairs uses #cloud to deliver new #IBM built HR system to 300K employees http://t.co/QNpyZxel7G #IBMFedera
+331820569110646784	Tue, 07 May 2013 17:19:23 +0000	AnnetteBauerle	Looks good. #IBM #IBMResearch Try The First Recipe Devised By IBM’s Supercomputer Chef http://t.co/CyYEfZoRVF via @FastCoDesig
+331819911313768450	Tue, 07 May 2013 17:16:46 +0000	Nils_CSI	Advancing the #cloud to drive innovation with SmartCloud Orchestrator #IBM http://t.co/cVVTm2LTO
+331819872659058689	Tue, 07 May 2013 17:16:37 +0000	danieldeluca	RT @Devoxx4Kids: As for last year, #IBM #Belgium will support the 2013 sessions of #Devoxx4Kids #BE by providing laptops and #Lego #Mindstorms. Thanks IB
+331819739456364544	Tue, 07 May 2013 17:16:05 +0000	Devoxx4Kids	As for last year, #IBM #Belgium will support the 2013 sessions of #Devoxx4Kids #BE by providing laptops and #Lego #Mindstorms. Thanks IB
+331819704807194624	Tue, 07 May 2013 17:15:57 +0000	IBM_Financing	Please sign up for an #IBM BP Webinar 5/14 11am ET-persuasive proposals 4 decision makers http://t.co/EZNpx5hOqp  @IBM_Financin
+331819470333046784	Tue, 07 May 2013 17:15:01 +0000	DoyleKnows	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/w7on6Gn61p via @cmswire #IBM #SocBi
+331819116732223489	Tue, 07 May 2013 17:13:37 +0000	Nils_CSI	RT @JanineSneed: “@cmfrancese: Advancing the #cloud to drive innovation with SmartCloud Orchestrator http://t.co/nKxlPmuc4Z #IBM” #ibmsmartclou
+331818714129383424	Tue, 07 May 2013 17:12:01 +0000	MaureenOGara	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818627709939713	Tue, 07 May 2013 17:11:40 +0000	VirtualizationE	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818559024021504	Tue, 07 May 2013 17:11:24 +0000	DealmakerMedia	Some great speakers at #TIEcon 2013: #SAP #HP #Intel #Qualcomm, #IBM, #Linkedin http://t.co/vdCWbCbLC
+331818559019819008	Tue, 07 May 2013 17:11:24 +0000	Ulitzer	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818558629740544	Tue, 07 May 2013 17:11:23 +0000	sit60	#IBM launches MessageSight, appliance aimed at M2M http://t.co/eufhwpgs94 #Mobile #IBMImpac
+331818558558449664	Tue, 07 May 2013 17:11:23 +0000	CloseAmber	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/nlUiEMlmfO #IBM #SocBi
+331818553399455746	Tue, 07 May 2013 17:11:22 +0000	craigiffert	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/QcIoMdr1fh via @cmswire #IBM #SocBi
+331818546873110528	Tue, 07 May 2013 17:11:21 +0000	DaniShields	5/8 @IBMConnect SanFran hear how to create a smarter workforce w/ #SocialBusiness technologies http://t.co/fEi69ZtRwg #IBM #SocBi
+331818545270894593	Tue, 07 May 2013 17:11:20 +0000	ToneDefSocial	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/Q5zsz0YFR8 #IBM #SocBi
+331818483312631810	Tue, 07 May 2013 17:11:06 +0000	SDNExpo	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818401871826944	Tue, 07 May 2013 17:10:46 +0000	sysconmedia	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818352840413185	Tue, 07 May 2013 17:10:34 +0000	SOAWorldExpo	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818301812510720	Tue, 07 May 2013 17:10:22 +0000	GonzalezCarmen	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818244950343682	Tue, 07 May 2013 17:10:09 +0000	cfoundryexpo	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818196439011329	Tue, 07 May 2013 17:09:57 +0000	hermione1	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/vKN2VsHU6
+331818181633114114	Tue, 07 May 2013 17:09:54 +0000	CloudJobFair	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818119825854464	Tue, 07 May 2013 17:09:39 +0000	BigDataExpo	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818067103449089	Tue, 07 May 2013 17:09:26 +0000	AjaxRIAexpo	RT @CloudExpo: Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331818020915789825	Tue, 07 May 2013 17:09:15 +0000	davistruk	Hey, @cityforward won a Webby!-  http://t.co/X3QeegM45B #ib
+331817962413641728	Tue, 07 May 2013 17:09:01 +0000	CloudExpo	Cloud Expo™ Session | @IBM’s Andrew Trossman “#IBM &amp; #OpenStack Together” at #CloudExpo NY [June 10-13] ▸ http://t.co/cnRmCfSwKR #Cloud #SD
+331817856905924608	Tue, 07 May 2013 17:08:36 +0000	WebSphereMag	RT @CaraHoganWI: #IBM mines #bigdata to analyze social media after a disaster: http://t.co/9vCyriu0p
+331817637631897600	Tue, 07 May 2013 17:07:44 +0000	ingermyklebust	My latest blog on interesting conversations with leaders on CREATIVE LEADERSHIP http://t.co/HHAmcVG4Zo #IBM #IBMNorge #CEO #CM
+331817633949298688	Tue, 07 May 2013 17:07:43 +0000	EmanuelStanciu	RT @DavidJKay: #IBM #MessageSight; great Infographic in here too on explosion of Machine to Machine #BigData #M2M http://t.co/4vnVQsIf6
+331817493419143168	Tue, 07 May 2013 17:07:09 +0000	CiberespacioVE	IBM lidera el mercado mundial de software social empresarial por 4to. año consecutivo http://t.co/ad7mOwUQ6o #software #ib
+331817086051549184	Tue, 07 May 2013 17:05:32 +0000	NathanielKhani	How can orgs use #SocialBusiness practices &amp; capabilities to transform &amp; create a competitive advantage? http://t.co/WfbXVew3Hx #IBM #SocBi
+331816906262720515	Tue, 07 May 2013 17:04:49 +0000	jennifertaylor	RT @ebarbini: Why more government orgs are turning to social business, and how they expect to benefit http://t.co/sTSNlsoAgx #IB
+331816713345716224	Tue, 07 May 2013 17:04:03 +0000	Partha_Bop	5 Things #X86 expert @DavidAtRedbooks wants you to Know about #IBM #eX5 #Servers Blog Post http://t.co/YzPiVd109
+331816706374766592	Tue, 07 May 2013 17:04:02 +0000	IBMSTG	5 Things #X86 expert @DavidAtRedbooks wants you to Know about #IBM #eX5 #Servers Blog Post http://t.co/AtB1mrfoc
+331816620437692417	Tue, 07 May 2013 17:03:41 +0000	ebarbini	Why more government orgs are turning to social business, and how they expect to benefit http://t.co/sTSNlsoAgx #IB
+331816547423236097	Tue, 07 May 2013 17:03:24 +0000	roomiranda17	#Oracle vs #IBM (hardware
+331816203972648960	Tue, 07 May 2013 17:02:02 +0000	scottwambler	@RiczWest @Grady_Booch I am not an #IBM employee.  Even when I was, I was allowed to have my own opinions
+331816187845554176	Tue, 07 May 2013 17:01:58 +0000	IBMSocialBiz	Meet: The man who gave up email, Luis Suarez, @elsua - http://t.co/0PYwIsWYuD #ibm #socbiz #h
+331816178064449537	Tue, 07 May 2013 17:01:56 +0000	eSpiritNA	Register for #IBM smarter commerce global summit  May 21 -23 in Nashville #CMS, #e-spirit  http://t.co/s2lSNVyLS
+331815927727415296	Tue, 07 May 2013 17:00:56 +0000	g_manav	Another presentation kickoff at #ibm c-suite success class. Time flies when you're having #fu
+331815665457573889	Tue, 07 May 2013 16:59:54 +0000	jfww	RT @Infor: . @eWEEKNews: "IBM, Infor Partner to Deliver Enterprise Apps on IBM SmartCloud" http://t.co/O25tYVOFyV #Infor #IBM #ens
+331815468094599168	Tue, 07 May 2013 16:59:07 +0000	flupzor	RT @conformal: #IBM open sources new approach to #crypto http://t.co/mwT4SyD04
+331815239760900096	Tue, 07 May 2013 16:58:12 +0000	GKHouston	Just added to our Houston training schedule through 2013 #itil #ibm #voip #ccna #pmp http://t.co/n4DShq9QVJ #ia
+331814936978284544	Tue, 07 May 2013 16:57:00 +0000	anandw3	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/LsJW41Kly
+331814698351751168	Tue, 07 May 2013 16:56:03 +0000	jeannewmanglock	#IBM on Brand by Jon Iwata (@coastw) http://t.co/8lbdcsuejQ  via @waywire via @lastbabyboome
+331814694497173504	Tue, 07 May 2013 16:56:02 +0000	frisch2at	RT @AndrejHunko: #IBM stellte #BKA seine "Crime Information Platform" zur Vorhersage von Straftaten vor: http://t.co/HVxRKrZ4lt #PredictivePolicin
+331814647198015490	Tue, 07 May 2013 16:55:51 +0000	SoftlineCol	Inscribete en este Innovador Webcast #IBM  Tecnología Cloud que te Sorprendera! http://t.co/ioQoSBAIw
+331814444671827969	Tue, 07 May 2013 16:55:03 +0000	dfraim	When Governments Go Social, Positive Citizen Experiences Can Follow http://t.co/CGSy9LXOFU #IBM #socbi
+331814415684993025	Tue, 07 May 2013 16:54:56 +0000	BortolussiMike1	RT @LesliePlant: Attendees at #NSCC skills fair take on #IBM #Watson in Jeopardy challenge. http://t.co/W0BWH0Lx6
+331813557345849344	Tue, 07 May 2013 16:51:31 +0000	DaniShields	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/83VItdFuJ5 #IBMexperience #SocBi
+331813208736292864	Tue, 07 May 2013 16:50:08 +0000	Dynamic_Music	#IBM Ginni Rometty: Hear, the #music you have been missing. http://t.co/aib8Wl9gg
+331813139752579072	Tue, 07 May 2013 16:49:51 +0000	conformal	#IBM open sources new approach to #crypto http://t.co/mwT4SyD04
+331812953521283072	Tue, 07 May 2013 16:49:07 +0000	shakthimaan	Math and Analytics at IBM Research: 50+ Years http://t.co/cALXo7YANc #ib
+331812401051746305	Tue, 07 May 2013 16:46:55 +0000	LisaSmith92	#IBM's @jpuleri -"We’ve crossed over from IT in support of biz strategy to IT as biz strategy." http://t.co/05vmET02e
+331812378922590210	Tue, 07 May 2013 16:46:50 +0000	nigelcameron	RT @MikeNelson: Interesting: Sam Palmisano, ex-#IBM, Dave Kappos, ex #USPTO &amp; Chris Caine launch Center for Global Enterprise http://t.co/tIAonbqElE @BGO
+331812320005193728	Tue, 07 May 2013 16:46:36 +0000	cleanrevolution	New #IBM #solar collector magnifies #sun by 2,000x and costs 3x less than similar systems. #cleanrevolution http://t.co/Ceo904RJy
+331812291194535936	Tue, 07 May 2013 16:46:29 +0000	MikeNelson	Interesting: Sam Palmisano, ex-#IBM, Dave Kappos, ex #USPTO &amp; Chris Caine launch Center for Global Enterprise http://t.co/tIAonbqElE @BGO
+331810954385977344	Tue, 07 May 2013 16:41:10 +0000	SystemsandTech	Register now for the #IBM Webcast on May 15: Software-Defined #IT
+#Storage  http://t.co/68iqXloIxe Enhance #datacenter storage increase #RO
+331810878250971136	Tue, 07 May 2013 16:40:52 +0000	joegaeta	#Monitoring simplified with #IBM SmartCloud Monitoring - Application Insight, Try it for free with our 30 day trial! http://t.co/CR0asWWm7
+331810861859622912	Tue, 07 May 2013 16:40:48 +0000	TxMQITSolutions	#IBM #DataPower XB62 Appliance: proven technology for on-boarding &amp; validating trading partners. Contact #TxMQ for more information
+331810397092982784	Tue, 07 May 2013 16:38:58 +0000	HBMFIT	#IBM Awarded $123 Million Veterans Affairs Contract http://t.co/NliQIMfhGt @TheMotleyFoo
+331810295116865537	Tue, 07 May 2013 16:38:33 +0000	martinmacleod	RT @ibmsysxblade: Join us tomorrow! Simplify your IT w/ #IBM #PureFlex &amp; #FlexSystemManager Webcast 5/8 1pmET http://t.co/aTFqa6uK9
+331809636242055168	Tue, 07 May 2013 16:35:56 +0000	CollabGuyDon	Check out Sandy Carter's #SocialBusiness Coffee Break featuring CAT! (No, not grumpy Cat!) http://t.co/2X6pQiaKfV #IBM #SocBi
+331809283882758145	Tue, 07 May 2013 16:34:32 +0000	MaggieEMCTV	RT @915w: #emcworld the #pivotal vision is SO much broader than anything I have seen from the likes of #IBM, #Oracle, #SAP or #Teradata
+331809121533833217	Tue, 07 May 2013 16:33:53 +0000	RobertaAlgeri	RT @jameskobielus: New #IBM #SmarterAnalytics jk blog: "Ambient Analytics: Will Wearable Gadgets Open the Floodgates to Glut?" (http://t.co/deQQao4UQV
+331809024314052608	Tue, 07 May 2013 16:33:30 +0000	Infor	. @eWEEKNews: "IBM, Infor Partner to Deliver Enterprise Apps on IBM SmartCloud" http://t.co/O25tYVOFyV #Infor #IBM #ens
+331808549938290689	Tue, 07 May 2013 16:31:37 +0000	TecTriadeBrasil	A #IBM criou a menor animação do mundo feita de #átomos: http://t.co/Ecr3CRFeC
+331808499304628226	Tue, 07 May 2013 16:31:25 +0000	joegaeta	Monitor Physical, virtual and cloud based components of your environment #IBM SmartCloud #Monitoring http://t.co/ZKqRAluJN
+331808493285810176	Tue, 07 May 2013 16:31:24 +0000	IBMAnalytics	#IBM Biz #Analytics Summit is coming to your city! Featuring best practices, demos &amp; product expertise http://t.co/xbHaMjLA4z #ibmbas1
+331808490572103680	Tue, 07 May 2013 16:31:23 +0000	carlosCantab	Missed #IBM event assuming it would be at 7 PM (as usual). Darn it. There goes a free lunch
+331808479230717953	Tue, 07 May 2013 16:31:20 +0000	joe_kasz	Register now for #IBM #Vision13 (May 19-22) Drive growth. Manage risk. Optimize performance. http://t.co/PtNTQTdhHV #ibmanalytic
+331808475866886144	Tue, 07 May 2013 16:31:20 +0000	NathanielKhani	@grahamgk says What's a Social Business? Look Beyond the Tweets and Likes http://t.co/3wFveVwS8F via @HuffingtonPost #IBM #SocBi
+331808459135807488	Tue, 07 May 2013 16:31:16 +0000	ChargeAheadMktg	hhhmmm RT @sermo: Can a supercomputer like #IBM's #Watson replace a skilled #physician in the near future? http://t.co/nOK4X00p6q #sermopol
+331808258681614336	Tue, 07 May 2013 16:30:28 +0000	IBM_GBSCareers	RT @TFMJ_Charlotte: RT @TechExpoJobFair: @TFMJ_Charlotte #IBM #HIRING EVENT 5/8 in #Charlotte!  Click 4 details! http://t.co/pjc0NstjN3 @IBM_GBSCareer
+331808212087095296	Tue, 07 May 2013 16:30:17 +0000	IBM_GBSCareers	RT @TechExpoJobFair: @TFMJ_Charlotte #IBM #HIRING EVENT 5/8 in #Charlotte!  Click 4 details! http://t.co/4I5wqzfPz2 @IBM_GBSCareer
+331808107183349761	Tue, 07 May 2013 16:29:52 +0000	WiredInsights	RT @rjwissin: '#IBM Scientists Unveil #Prototype That Will Put #Smart #Mobility Into #MRO' Blog by @RalphRio here: http://t.co/LbwZpQ7sA9 #ibmea
+331807878279217154	Tue, 07 May 2013 16:28:57 +0000	AndiK_PowerMan	#IBM schafft #StarTrek -Fankunst aus Atomen: http://t.co/3CIMQvW7h
+331807669256077312	Tue, 07 May 2013 16:28:07 +0000	jonnyfmalvanley	RT @915w: #emcworld the #pivotal vision is SO much broader than anything I have seen from the likes of #IBM, #Oracle, #SAP or #Teradata
+331807660498362368	Tue, 07 May 2013 16:28:05 +0000	nlparkerIBM	Congrats #IBM The greenest company in the US for the second year in a row and number 4 globally in Newsweek's Top 500 Green Company list
+331807463445770240	Tue, 07 May 2013 16:27:18 +0000	socialwebabcs	RT @socbiz2day Winning friends, sales and influencing people with social business #lotusphere #ibm #socbiz http://t.co/ATWGrwsYa
+331807286236422144	Tue, 07 May 2013 16:26:36 +0000	rjwissin	'#IBM Scientists Unveil #Prototype That Will Put #Smart #Mobility Into #MRO' Blog by @RalphRio here: http://t.co/LbwZpQ7sA9 #ibmea
+331807282851610625	Tue, 07 May 2013 16:26:35 +0000	jasonsturn	6 Benefits of Being a Social Business by @gregdorban http://t.co/h4e2Zya8EP via @B2Community #IBM #SocBi
+331807200689397762	Tue, 07 May 2013 16:26:15 +0000	ajcnj56	RT @maartencloud: What is cloud computing and why should you care? Part 2  #Cloud #IBM http://t.co/yWHey1EJ5
+331807172126187521	Tue, 07 May 2013 16:26:09 +0000	aragunde	RT @IBMSocialBiz: Download Notes Social Edition V9 http://t.co/eCFvmzMzEg #ibm #socbiz &gt;&gt; Es una BOMBA
+331807135816093697	Tue, 07 May 2013 16:26:00 +0000	joe_kasz	Learn best practices in performance management from #IBM at Finance Forum in #Cleveland (5/16) http://t.co/h2WVvS2i83 #ibmff1
+331807115935100929	Tue, 07 May 2013 16:25:55 +0000	IBMSWAmericas	On 5/16 Join #IBM @ MS Braves baseball game to hear about the hottest #SocialBusiness products http://t.co/L2v1Cy8Mx
+331807061199441920	Tue, 07 May 2013 16:25:42 +0000	915w	#emcworld the #pivotal vision is SO much broader than anything I have seen from the likes of #IBM, #Oracle, #SAP or #Teradata
+331806906593189889	Tue, 07 May 2013 16:25:05 +0000	CloudBuzzNet	RT @maartencloud: What is cloud computing and why should you care? Part 2  #Cloud #IBM http://t.co/yWHey1EJ5
+331806793720266752	Tue, 07 May 2013 16:24:38 +0000	maartencloud	What is cloud computing and why should you care? Part 2  #Cloud #IBM http://t.co/yWHey1EJ5
+331806644671479808	Tue, 07 May 2013 16:24:03 +0000	IBM_GBSCareers	RT @TechExpoJobFair: @IBM_GBSCareers Hiring Event May 8th in Charlotte, NC! For details and registration click here! #IBM #Hiring #Jobs http://t.co/4I5wqzfPz
+331806468019978240	Tue, 07 May 2013 16:23:21 +0000	MilanatIBM	RT @james_mccaskie: Jerry Cuomo on #IBM #PureApplication System vs. Exalogic (Part II): http://t.co/Zycd6movh
+331806443164549121	Tue, 07 May 2013 16:23:15 +0000	MilanatIBM	RT @james_mccaskie: Jerry Cuomo on #IBM #PureApplication System vs. Exalogic (Part I): http://t.co/hlyDCRZuv
+331806240940376064	Tue, 07 May 2013 16:22:27 +0000	Sermo	Can a supercomputer like #IBM's #Watson replace a skilled #physician in the near future? http://t.co/ktgGpdwKo3 #sermopol
+331806131540357122	Tue, 07 May 2013 16:22:01 +0000	CollabDude	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/SmBhAYgJaP #IBM #SocBi
+331806109037907968	Tue, 07 May 2013 16:21:55 +0000	Sbomag	Contrasts in innovation #IBM #HP #Ernest von Simson http://t.co/0oSQ8PxOr
+331806106722652161	Tue, 07 May 2013 16:21:55 +0000	DaniShields	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/j3zepXDPlW http://t.co/j3zepXDPlW #IBM #SocBi
+331805823594536960	Tue, 07 May 2013 16:20:47 +0000	joegaeta	Deploy a dynamic, services-oriented #cloud for your business - http://t.co/WSn59iPIGG #IB
+331805795371065344	Tue, 07 May 2013 16:20:40 +0000	EvidenceSoup	RT @jameskobielus: New #IBM #SmarterAnalytics jk blog: "Ambient Analytics: Will Wearable Gadgets Open the Floodgates to Glut?" (http://t.co/deQQao4UQV
+331805650021666816	Tue, 07 May 2013 16:20:06 +0000	lucaspetit	"@Cronistacom: Estados Unidos investiga a #IBM por corrupción en Argentina. http://t.co/vjP8qYB2t0" @FedeLotitto hasta las manos! !
+331805300652924929	Tue, 07 May 2013 16:18:42 +0000	cfiessinger	Social Migrator for SharePoint @quest &gt; migrate your social content from #IBM Connections to #SharePoint #socbiz http://t.co/JD1aE0lbe
+331804712129159168	Tue, 07 May 2013 16:16:22 +0000	ibmsysxblade	Join us tomorrow! Simplify your IT w/ #IBM #PureFlex &amp; #FlexSystemManager Webcast 5/8 1pmET http://t.co/aTFqa6uK9
+331804596727083008	Tue, 07 May 2013 16:15:55 +0000	joegaeta	For cloud computing, open means agile http://t.co/BezH6ZIi50 #IBM #clou
+331804582793588738	Tue, 07 May 2013 16:15:51 +0000	jameskobielus	New #IBM #SmarterAnalytics jk blog: "Ambient Analytics: Will Wearable Gadgets Open the Floodgates to Glut?" (http://t.co/deQQao4UQV
+331804545795649536	Tue, 07 May 2013 16:15:43 +0000	reportefinal	Estados Unidos investiga a #IBM por #corrupción en Argentina http://t.co/R33XWw0w3
+331804544130486273	Tue, 07 May 2013 16:15:42 +0000	ultimocable	Estados Unidos investiga a #IBM por #corrupción en Argentina http://t.co/GYltK7Rb4
+331804021784461313	Tue, 07 May 2013 16:13:38 +0000	rodneyforeman	RT @jeffjudy123: #SmartCloud Orchestrator makes the list of #OpenStack's hottest products http://t.co/0Z0aDl2PtG  #cloud #IB
+331803530455293952	Tue, 07 May 2013 16:11:40 +0000	kescherich	Internet of Things? IBM Has an Appliance for That | CIO Today http://t.co/IgPYTIUUph #iot #ib
+331803475069509632	Tue, 07 May 2013 16:11:27 +0000	CloseAmber	6 Benefits of Being a Social Business by @gregdorban http://t.co/IRqbCY36ZN via @B2Community #IBM #SocBi
+331803471412088832	Tue, 07 May 2013 16:11:26 +0000	sit60	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/WptTid5dMU #IBM #SocBi
+331803312921927680	Tue, 07 May 2013 16:10:49 +0000	joegaeta	Struggling with the complexities of managing the #cloud? Learn how to simplify - webcast May 21: #IBM http://t.co/v9vhnzvuv
+331803000454668289	Tue, 07 May 2013 16:09:34 +0000	s_alhayani	VCE has 75% of integrated system compare to #Dell , #HP #Hitachi , #IBM
+#EMCWorld http://t.co/HP05nivR2
+331802739594121217	Tue, 07 May 2013 16:08:32 +0000	IBMQuebec	RT @pgmartin: La Ville de Québec veut favoriser l'accès au numérique avec l'aide d'#IBM   http://t.co/gtYisX8P1M #QCtechn
+331802682098597889	Tue, 07 May 2013 16:08:18 +0000	psncardsupply	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331802491190648833	Tue, 07 May 2013 16:07:33 +0000	Digitalnaiv	Personalmanagement: What is the most powerful computer in the world? via @silicon_de - http://t.co/6MgOllDxGg #SmarterWorkforce #IBM #SocBi
+331802398144204802	Tue, 07 May 2013 16:07:10 +0000	jkozak84	RT @Juanjimrod: #IBM Drives Enterprise Adoption of #BigData, #Cloud, #Mobile and #Social Business Technologies http://t.co/ZoYzuERWU
+331802033705320449	Tue, 07 May 2013 16:05:44 +0000	GregoryJGreben	#IBM to upgrade @DeptVetAffairs 50 year old HR system  | @ZDNet http://t.co/FEbiByEmKs #SmarterGovernmen
+331801914889101317	Tue, 07 May 2013 16:05:15 +0000	Dynamic_Music	#IBM Ginni Rometty: Discover #music with more dramatic impact, excitement and with more dynamics. http://t.co/aib8Wl9gg
+331801402915557377	Tue, 07 May 2013 16:03:13 +0000	miriampb	RT @toniramirez82: Coneixeu la Sega TeraDrive o l'Amstrad Mega PC? http://t.co/rzA54B1PFL #sega #amstrad #ib
+331801386381606912	Tue, 07 May 2013 16:03:09 +0000	Rachelle_kimjs	Webcast Replay: Creating a New Decision Service in 30 Minutes or Less with #IBM #ODM V8.0.1 http://t.co/putscagWAu #GW
+331801329527844866	Tue, 07 May 2013 16:02:56 +0000	ellisbooker	RT @AllAnalytics: #UCLA and #IBM team up to apply #bigdata #analytics to the study of brain trauma. http://t.co/kUgrtmWZJl #ibmanalytic
+331801323106357248	Tue, 07 May 2013 16:02:54 +0000	Emma_Proctor_UK	Tivoli's intelligent back up &amp; restore uses revolutionary backup &amp; restore strategy where only new &amp; used files are backed up #IBM #TS
+331801263857598464	Tue, 07 May 2013 16:02:40 +0000	WirelessShow	Why #BlackBerry and #IBM make the top employer list in Canada, http://t.co/Wa4CI316V1, #CANWTS201
+331801134517850112	Tue, 07 May 2013 16:02:09 +0000	IBMSocialBiz	Download Notes Social Edition V9 http://t.co/7G8uywEwuA #ibm #socbi
+331801104365015041	Tue, 07 May 2013 16:02:02 +0000	AJ_at_Work	#TivoliUserGroup 16 May 2013, #IBM South Bank.  Register Now http://t.co/ZW5WAHc5DJ #developerworks #tivoliug #ibmeam #smarterinfrastructur
+331801087222890498	Tue, 07 May 2013 16:01:58 +0000	CLdeWinter	key Do's and Don'ts for assessing comp plan #effectiveness (5/30 @ 1:00pm ET) Join @Fred_Sass &amp; Shawn Rossi http://t.co/r98zjhJZmN #IB
+331801030473953282	Tue, 07 May 2013 16:01:44 +0000	WilliamPaxton	Justice Department Broadens Probe of IBM: http://t.co/MObokkE3jM #IBM #FCPA #la
+331800954640936961	Tue, 07 May 2013 16:01:26 +0000	me2resh	Informatique is looking for Database Solution Designer in egypt http://t.co/mwoe5EB2Xg #egypt #designer #database #fb #in #job #oracle #ib
+331800949809115136	Tue, 07 May 2013 16:01:25 +0000	AllAnalytics	RT @terrykiernan: #UCLA and #IBM team up to apply #bigdata #analytics to the study of brain trauma. http://t.co/F7L6OEA9mD #ibmanalytic
+331800938081841152	Tue, 07 May 2013 16:01:22 +0000	Nils_CSI	New #IDC report on the value of cloud orchestration in the data center: http://t.co/tsBCkmdbXG #IBM #OpenStac
+331800921958916096	Tue, 07 May 2013 16:01:19 +0000	toniramirez82	Coneixeu la Sega TeraDrive o l'Amstrad Mega PC? http://t.co/rzA54B1PFL #sega #amstrad #ib
+331800761782657024	Tue, 07 May 2013 16:00:40 +0000	Juanjimrod	#IBM Drives Enterprise Adoption of #BigData, #Cloud, #Mobile and #Social Business Technologies http://t.co/ZoYzuERWU
+331800754224517121	Tue, 07 May 2013 16:00:39 +0000	IBMStorageUKI	#IBM Storwize #V7000 Unified #storage – file and block storage guidance for Mac OS X http://t.co/gtDBM5M8TK via @rogerlueth
+331800693209960448	Tue, 07 May 2013 16:00:24 +0000	Emma_Proctor_UK	Live chat with me at http://t.co/wo08gzt4hU … #IB
+331800516654952448	Tue, 07 May 2013 15:59:42 +0000	YemaCoker	@IBMSocialBiz has married the power of #analytics and #SocialTech to help companies identify talent. #IB
+331800176467509248	Tue, 07 May 2013 15:58:21 +0000	DirkNC	RT @laurie_winkless: #IBM produce the world's smallest movie http://t.co/85MJLnOTK2 - just awesome #ABoyAndHisAto
+331799838968643586	Tue, 07 May 2013 15:57:00 +0000	jcfrech	#SmartCloud Orchestrator makes the list of #OpenStack's hottest products http://t.co/EO4gOXDQCH  #cloud #IB
+331799744739414016	Tue, 07 May 2013 15:56:38 +0000	JacobTheIBMer	Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/eaELTUgY4E  @IBM_Financin
+331799566196297729	Tue, 07 May 2013 15:55:55 +0000	MMRambo	#Monitor the performance and availability of web-delivered applications running in the #cloud with #IB
+331799531358412801	Tue, 07 May 2013 15:55:47 +0000	IBMdatamag	Changing the economics of IT with #IBM #PureSystems offerings: A new IBM #video http://t.co/pgcJmDEuq
+331799342321106944	Tue, 07 May 2013 15:55:02 +0000	sundreshcr	RT @DaniShields: #IBM launches MessageSight, appliance aimed at M2M http://t.co/FVmnhbRtMn #Mobile #IBMImpac
+331799005120036866	Tue, 07 May 2013 15:53:42 +0000	IBM_PME	RT @IBMQuebec: RT @ibmcloud: 7 avantages du #cloud comuting pour les directeurs #IT des #PME (en anglais) http://t.co/dHyFTdz7AF #IB
+331798723170533377	Tue, 07 May 2013 15:52:34 +0000	WebMobileGuru	IBM has married the power of analytics and social technologies to help companies identify talent. #IBM @IBMSocialBi
+331798381578031104	Tue, 07 May 2013 15:51:13 +0000	DaniShields	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/KJJ8fSLpnY via @cmswire #IBM #SocBi
+331798211318661121	Tue, 07 May 2013 15:50:32 +0000	leisure	RT @graemeknows: INCREDIBLE: #StarTrek Art #IBM Created Out of Atoms http://t.co/JcnciIljiM cc @nerdist, @wilw, @WilliamShatner, @SirPatStew #nerdaler
+331798118813278208	Tue, 07 May 2013 15:50:10 +0000	john_franson	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/PckOsrFv3X Via NY Times #IBM #SocBi
+331798050609696768	Tue, 07 May 2013 15:49:54 +0000	ptchoquette	“@joplam: La ville intelligente passe d'abord par les citoyens mobilisés, pas les contrats d'infrastructure http://t.co/VuYgU4mc2H #ibm�
+331797987883896832	Tue, 07 May 2013 15:49:39 +0000	graemeknows	INCREDIBLE: #StarTrek Art #IBM Created Out of Atoms http://t.co/JcnciIljiM cc @nerdist, @wilw, @WilliamShatner, @SirPatStew #nerdaler
+331797977624633344	Tue, 07 May 2013 15:49:37 +0000	freebalance	Does artificial intelligence have any taste? The First Recipe Devised By #IBM Supercomputer Chef http://t.co/67gX1Y2GT
+331797934544932864	Tue, 07 May 2013 15:49:26 +0000	joplam	La ville intelligente passe d'abord par les citoyens mobilisés, pas les contrats d'infrastructure http://t.co/QfKKm5mBbH #ib
+331797711491833857	Tue, 07 May 2013 15:48:33 +0000	GStewy39	RT @jfabcells: @Panduit #whq visit #nisource #ibs #ibm http://t.co/CN36zlLKT
+331797657217531904	Tue, 07 May 2013 15:48:20 +0000	webspacecraft	Introducing MicroXML, Part 1: Explore the basic principles of MicroXML: Parts of the XML comm... http://t.co/tISndi1lKo #IBM #OpenSourc
+331797527303172097	Tue, 07 May 2013 15:47:49 +0000	holgermu	MyPOV on #IBM &amp; VA 100+M deal: 1st bad news end of 2013, live in 2016 - best case. Not product / SI issue - but the customer. #HRTech #HC
+331797259274567681	Tue, 07 May 2013 15:46:45 +0000	IBM_Financing	RT @james_mccaskie: Understanding #IBM #PureSystems for Business Partners: http://t.co/qVXEeX0mMu  #PureApp @IBM_Financin
+331797162092535808	Tue, 07 May 2013 15:46:22 +0000	IBMBAEdu	Register now for #IBM #Vision13 May 19-22 Drive growth. Manage risk. Optimize performance #ibmanalytics - http://t.co/qHjjG79lr
+331797161199144960	Tue, 07 May 2013 15:46:22 +0000	NathanielKhani	Effective Social Media Marketing Strategies Need a Powerful Content Plan http://t.co/iL5y0nLGsw via @B2Community #IBM #SocBi
+331797139661414402	Tue, 07 May 2013 15:46:17 +0000	JamesLBerkey	Video: What can I learn at #IBM #Impact 2013? Watch the video: http://t.co/KoAZd3E3J7 #IBMimpac
+331796232823533569	Tue, 07 May 2013 15:42:41 +0000	tomilover	#Embraer, #RalphLauren y ahora también #IBM admitieron el pago de coimas a funcionarios argentinos para agilizar la importacion desde 200
+331795891885322241	Tue, 07 May 2013 15:41:19 +0000	jasonsturn	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/y7otvMNO7V #IBM #SocBi
+331795813044998145	Tue, 07 May 2013 15:41:00 +0000	staceytabor	#IBM is hosting an upcoming webinar on Software-Defined #Storage: the details to register are here: http://t.co/sMayjw3pc
+331795448027299840	Tue, 07 May 2013 15:39:33 +0000	laperlamaria	RT @Cronistacom: Estados Unidos investiga a #IBM por corrupción en Argentina. http://t.co/FQ0VgRtPU
+331795426820907008	Tue, 07 May 2013 15:39:28 +0000	youthrage	#IBM creates world's smallest movie by moving individual atoms: http://t.co/iJ4lIE0ATv #science #tech #animation #stopmotion #physic
+331795423691960320	Tue, 07 May 2013 15:39:28 +0000	phil_dipietro	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/9kCyUWwG1R  Via NY Times #IBM #SocBi
+331794919456899073	Tue, 07 May 2013 15:37:27 +0000	IBMCanSystems	Register for #IBM #Systemz and #PowerSystems Technical Symposium, May 8-10 &amp; attend both events at no additional cost http://t.co/c3D4csfue
+331794811646517248	Tue, 07 May 2013 15:37:02 +0000	ibm_mx	RT @jczampra: Luego del corto "atómico" la semana pasada, ahora viene arte de Star Trek hecho por #IBM con átomos. ---&gt;  http://t.co/Phkf2aPxr
+331794760434057216	Tue, 07 May 2013 15:36:49 +0000	CarolBuie	RT @IBMEdge: Hot topics like #Deduplication &amp; Tape for #IT #Storage are featured in the #IBM Magazine&gt; http://t.co/899q4cN7nh On the agenda at #IBMEdg
+331794558159572992	Tue, 07 May 2013 15:36:01 +0000	LaurenMicheleDe	Atomic #StarTrek Fan Art Goes Where No Fan Art Has Gone Before! #IBM Scientists moving those atoms! http://t.co/07sEb6NBx
+331794522218569728	Tue, 07 May 2013 15:35:53 +0000	simonlporter	MSPs - Addressing the uniqueness of #Mobile Access #Security with #IBM Security Access Manager for Mobile https://t.co/ZqKw2CJuZ4 #sm
+331794386155343873	Tue, 07 May 2013 15:35:20 +0000	maartencloud	IBM Helps Security First Insurance Mine Big Data To Analyze, Prioritize And Route Social M #IB
+331794367503282178	Tue, 07 May 2013 15:35:16 +0000	Bundestalker	RT @AndrejHunko: #IBM stellte #BKA seine "Crime Information Platform" zur Vorhersage von Straftaten vor: http://t.co/HVxRKrZ4lt #PredictivePolicin
+331794355616624640	Tue, 07 May 2013 15:35:13 +0000	Multimodalweb	RT @Cronistacom: Estados Unidos investiga a #IBM por corrupción en Argentina. http://t.co/FQ0VgRtPU
+331794298385350656	Tue, 07 May 2013 15:34:59 +0000	sprabakar70	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331794027596881921	Tue, 07 May 2013 15:33:55 +0000	H_IT_D	RT @JoinGROUP2013Neu auf dem #GBS #Blog: #App des Monats - Mit #IBM #Connections zum #mobilen #Social Business... http://t.co/8xiMQO34c
+331793985515438080	Tue, 07 May 2013 15:33:45 +0000	JaDeOstia	RT @Cronistacom: Estados Unidos investiga a #IBM por corrupción en Argentina. http://t.co/FQ0VgRtPU
+331793775154298880	Tue, 07 May 2013 15:32:55 +0000	hellroy	World's smallest movie...made with ATOMS! http://t.co/lPd9CoOd4d #science #IBM #vide
+331793699161927680	Tue, 07 May 2013 15:32:36 +0000	MalloryJWhite	Want to see how #IBM made the worlds smallest movie with ATOMS? Visit http://t.co/N54xs3oRI
+331793696188137476	Tue, 07 May 2013 15:32:36 +0000	Aivy_Iniguez	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/4pEkFO6qmp #IBM #SocBi
+331793497663352832	Tue, 07 May 2013 15:31:48 +0000	MBerdenazi	RT @Cronistacom: Estados Unidos investiga a #IBM por corrupción en Argentina. http://t.co/FQ0VgRtPU
+331793489018900480	Tue, 07 May 2013 15:31:46 +0000	ETM360	IBM will launch big data and cloud computing in the Philippine market. Find out more about it http://t.co/XzRTus651y  #IBM #EM36
+331793461340680192	Tue, 07 May 2013 15:31:40 +0000	wanee_ssa	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331793365588910080	Tue, 07 May 2013 15:31:17 +0000	stevaldo18	RT @IBMStorage: Read and download new best practices paper for DBAs: Oracle ASM and #IBM #flash http://t.co/P3YmLNYK3e #FlashAhead #IT #IBMStorag
+331793359192596480	Tue, 07 May 2013 15:31:15 +0000	MidmarketIBM	RT @CollabDude: 6 Benefits of Being a Social Business by @gregdorban http://t.co/DfKgjh2bmG via @B2Community #IBM #SocBi
+331793270374010881	Tue, 07 May 2013 15:30:54 +0000	Cronistacom	Estados Unidos investiga a #IBM por corrupción en Argentina. http://t.co/FQ0VgRtPU
+331793234336571392	Tue, 07 May 2013 15:30:46 +0000	SmtrComputing	A solution deployment that assures higher value.#IBM @thinkpowerlinux solutions are what your organizations seek! http://t.co/4J9Jx15He
+331793040249348096	Tue, 07 May 2013 15:29:59 +0000	NickChopperDigg	RT @thescarletdogma @lastbabyboomer: #IBM on Brand by Jon Iwata (@coastw) http://t.co/RJwMOxXdOZ via @waywir
+331792728105033728	Tue, 07 May 2013 15:28:45 +0000	g_manav	Day 2 of #ibm c-suite class. Head spinning after being grilled by 3 CEOs..
+331791902812823552	Tue, 07 May 2013 15:25:28 +0000	sanjeevpriyam	Wondering if IOC wud've helped Wankhede Stadium avoid this delay. Read while u wait - http://t.co/EysWRYnD7n #IBM #IPL @ibmsoftware_i
+331791771010990080	Tue, 07 May 2013 15:24:57 +0000	TheScarletDogma	RT @lastbabyboomer: #IBM on Brand by Jon Iwata (@coastw) http://t.co/9J7UUTeIIW via @waywir
+331790928475992064	Tue, 07 May 2013 15:21:36 +0000	DaniShields	#IBM launches MessageSight, appliance aimed at M2M http://t.co/FVmnhbRtMn #Mobile #IBMImpac
+331790776310824961	Tue, 07 May 2013 15:21:00 +0000	CollabDude	6 Benefits of Being a Social Business by @gregdorban http://t.co/DfKgjh2bmG via @B2Community #IBM #SocBi
+331790710237954049	Tue, 07 May 2013 15:20:44 +0000	ibmtechconfs	RT @nolafusion: 2013 IBM Systemz  Technical Symposium in New Orleans 5/8-5/10 #IBM #IBMtechU #NOLA #Support http://t.co/hA6jRGAC4
+331790331957882881	Tue, 07 May 2013 15:19:14 +0000	IkaroJean	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331790231172952066	Tue, 07 May 2013 15:18:50 +0000	gipfelsoli	RT @AndrejHunko: #IBM stellte #BKA seine "Crime Information Platform" zur Vorhersage von Straftaten vor: http://t.co/HVxRKrZ4lt #PredictivePolicin
+331789955867217920	Tue, 07 May 2013 15:17:44 +0000	Bundestalker_li	RT @AndrejHunko: #IBM stellte #BKA seine "Crime Information Platform" zur Vorhersage von Straftaten vor: http://t.co/HVxRKrZ4lt #PredictivePolicin
+331789791643443200	Tue, 07 May 2013 15:17:05 +0000	julianinza	zcrypt: Add support for CEX4 crypto card http://t.co/gQmp9Sv81A #IBM CryptoExpress 4 on System Z supported y @Sus
+331789756105105408	Tue, 07 May 2013 15:16:56 +0000	webspacecraft	Introducing MicroXML, Part 1: Explore the basic principles of MicroXML: Parts of the XML communit... http://t.co/DfmyJ9dZ91 #IBM #WebDe
+331789681010286592	Tue, 07 May 2013 15:16:38 +0000	DzsembaDzsemba	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331789661972344832	Tue, 07 May 2013 15:16:34 +0000	IBMTransport	RT @kalgyimesi: Next #IBM #autonews webinar; Improving Customer Experience &amp; #Brand Relevance via #ConnectedVehicles, https://t.co/8vOdYqYwHI  #MQT
+331789618427072513	Tue, 07 May 2013 15:16:24 +0000	SauravSinglaT	#IBM developing amazing video analytics product - an artificially intelligent #CCTV camera if you will!
+331789569945120769	Tue, 07 May 2013 15:16:12 +0000	kalgyimesi	Next #IBM #autonews webinar; Improving Customer Experience &amp; #Brand Relevance via #ConnectedVehicles, https://t.co/8vOdYqYwHI  #MQT
+331789441838489601	Tue, 07 May 2013 15:15:41 +0000	linux_at_ibm	Everything you have always wanted to know about the #IBM #Linux Technology Center (LTC) in one convenient spot:  http://t.co/JqIuXeClW
+331789029894926337	Tue, 07 May 2013 15:14:03 +0000	Panduit	RT @jfabcells: @Panduit #whq visit #nisource #ibs #ibm http://t.co/amy9Iy6h9
+331788940875030528	Tue, 07 May 2013 15:13:42 +0000	AndrejHunko	#IBM stellte #BKA seine "Crime Information Platform" zur Vorhersage von Straftaten vor: http://t.co/HVxRKrZ4lt #PredictivePolicin
+331788830652899328	Tue, 07 May 2013 15:13:16 +0000	jczampra	Luego del corto "atómico" la semana pasada, ahora viene arte de Star Trek hecho por #IBM con átomos. ---&gt;  http://t.co/Phkf2aPxr
+331788373368901632	Tue, 07 May 2013 15:11:27 +0000	CloseAmber	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/PM1mNSjzRw #IBM #SocBi
+331788370923638784	Tue, 07 May 2013 15:11:26 +0000	craigiffert	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/WIpM3xqsSc #IBMexperience #SocBi
+331788369564680193	Tue, 07 May 2013 15:11:26 +0000	sit60	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/PoxihsjeWY #IBM #SocBi
+331788270742687745	Tue, 07 May 2013 15:11:02 +0000	SeeIBMAnalytics	Learn best practices in performance management from #IBM at Finance Forum in #Minneapolis (6/12) http://t.co/3QWaeCzxvD #ibmff1
+331787875739922432	Tue, 07 May 2013 15:09:28 +0000	itmarketingwiz	7 Benefits of #Cloud Computing - Must know list for #IT admins of Midsize Enterprises http://t.co/G1A9mZG7kL --- #IBM #busines
+331787567668264961	Tue, 07 May 2013 15:08:15 +0000	CamacConsulting	Video: Infinity Property &amp; Casualty #Insurance reduces fraud, improves customer service w/ #IBM  http://t.co/8uUresWnL
+331787426920030208	Tue, 07 May 2013 15:07:41 +0000	IBMFRecrutement	L'avenir du cloud computing ... #IBM #cloud
+http://t.co/UbECA0kC2
+331787396645543936	Tue, 07 May 2013 15:07:34 +0000	mbizovi	#IBM's @jpuleri named @Consulting_Mag Top 25 for #smarterretail http://t.co/5iS05sQGY
+331787339976278016	Tue, 07 May 2013 15:07:20 +0000	jopocop	#IBM wins $123 million HR contract for U.S. gov't http://t.co/nOYtB3Ie6
+331786988728487940	Tue, 07 May 2013 15:05:57 +0000	AaronW_NC	RT @IBMSoftware: Infographic: #IBM named worldwide market share leader in social software for fourth consecutive year - http://t.co/sHAoucwR92 #socbi
+331786467938549760	Tue, 07 May 2013 15:03:52 +0000	shamitb	RT @IBMSPSS: #IBM's #AnalyticsZone has a new look &amp; feel - check it out &amp; all the latest content http://t.co/OXgRpzoVGH #ibmanalytic
+331786102530777089	Tue, 07 May 2013 15:02:25 +0000	UKOCN	#Oracle and #IBM in War Over Sparc-Claim Hyperbole - http://t.co/F5slZj52P
+331786090623156224	Tue, 07 May 2013 15:02:22 +0000	roshnib	#IBM launches MessageSight, appliance aimed at M2M http://t.co/XC5947fVlV #Mobile #IBMImpac
+331786021496819713	Tue, 07 May 2013 15:02:06 +0000	harimenath	#IBM #BigSQL allows to query #HDFS or #HBase data
+http://t.co/EL372hM8d
+331785977410498560	Tue, 07 May 2013 15:01:56 +0000	jfabcells	@Panduit #whq visit #nisource #ibs #ibm http://t.co/CN36zlLKT
+331785760527241217	Tue, 07 May 2013 15:01:04 +0000	MichealeBartee	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/u1MOE2nPJf Via NY Times #IBM #SocBi
+331785756290981889	Tue, 07 May 2013 15:01:03 +0000	Dynamic_Music	#IBM Ginni Rometty: Let's provide #movie lovers with more compelling experiences. http://t.co/aib8Wl9gg
+331785529765023745	Tue, 07 May 2013 15:00:09 +0000	linux_at_ibm	Check out this video on the Power of Enterprise Linux made Easy with #IBM ELS &amp; CSL-WAVE: http://t.co/BxiEtODtAm #ibmsystem
+331785516716552192	Tue, 07 May 2013 15:00:06 +0000	TomH_dW	@KateBomz #Nairobi #IBM Innovation Centre opens May 8, a meeting place for technology, business &amp; academic innovators. #IBMNairobi #Afric
+331785109072125952	Tue, 07 May 2013 14:58:28 +0000	LotusEvangelist	RT @shmullen: Thanks goodness for #IBM #Domino  Clustering. That is all
+331785090524913664	Tue, 07 May 2013 14:58:24 +0000	IBM_Service	RT @IBMSPSS: #IBM's #AnalyticsZone has a new look &amp; feel - check it out &amp; all the latest content http://t.co/OXgRpzoVGH #ibmanalytic
+331784626446163968	Tue, 07 May 2013 14:56:33 +0000	toustad	@chrisbros var som jeg skulle sagt det selv,.... Better go #IBM ;)
+331784611002716160	Tue, 07 May 2013 14:56:30 +0000	apishungry	#IBM #opensources #new #approach to #crypto @ http://t.co/gvd49ZQzJ
+331784473802842113	Tue, 07 May 2013 14:55:57 +0000	DaniShields	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/dvPYm1CBu0 #IBM #SocBi
+331784266834907136	Tue, 07 May 2013 14:55:08 +0000	IBMSPSS	#IBM's #AnalyticsZone has a new look &amp; feel - check it out &amp; all the latest content http://t.co/OXgRpzoVGH #ibmanalytic
+331783900219183104	Tue, 07 May 2013 14:53:40 +0000	Wajnblom	Välkommen till #IBM Smartare Analys, ditt smörgårdsbord till hur du kan använda data för att få nya insikter http://t.co/73OG0W59J
+331783851519115264	Tue, 07 May 2013 14:53:29 +0000	jeffjudy123	#SmartCloud Orchestrator makes the list of #OpenStack's hottest products http://t.co/0Z0aDl2PtG  #cloud #IB
+331783510450896896	Tue, 07 May 2013 14:52:07 +0000	LotusEvangelist	oops, maxed out a tweetdeck list, who knew there were 500+ ibmers on here #ibm :-
+331783208150650881	Tue, 07 May 2013 14:50:55 +0000	PunditGuruGeek	Public Clouds vs. Private Clouds vs. Hybrid Clouds. Here is a brief discussion on their differences: http://t.co/WryyvZFfSW #IBM #SM
+331783189481795585	Tue, 07 May 2013 14:50:51 +0000	GeorgeSaites	RT @MattRMorrison: BIG Win! #IBM wins $123 million #HR contract for U.S. gov't http://t.co/w486xO3MSv via @ZDNet #Saa
+331783155503730688	Tue, 07 May 2013 14:50:43 +0000	javierjardon	RT @helisulbaran: El #IBM 704 ejecutó el 'MUSIC 1' el primer programa de música para computadora!. http://t.co/EEGCahNSKU cc, @caligulaelsant
+331783007004393472	Tue, 07 May 2013 14:50:07 +0000	helisulbaran	El #IBM 704 ejecutó el 'MUSIC 1' el primer programa de música para computadora!. http://t.co/EEGCahNSKU cc, @caligulaelsant
+331782860300226560	Tue, 07 May 2013 14:49:32 +0000	SIMMETHOD	Tangible/Intangible resources such as #data contributes to cost but not necessarily to Business objectives  http://t.co/LEPmKg03l5 #IBM #SA
+331782857653620736	Tue, 07 May 2013 14:49:32 +0000	womarketing	Sounds interesting the #IBM BusinessConnect 2013 in Italy http://t.co/Ab3RWHfrR
+331782665185398785	Tue, 07 May 2013 14:48:46 +0000	shmullen	Thanks goodness for #IBM #Domino  Clustering. That is all
+331782655584649217	Tue, 07 May 2013 14:48:43 +0000	JoinGROUP	Neu auf dem #GBS #Blog: #App des Monats - Mit #IBM #Connections zum #mobilen #Social Business #IBMSocialBiz http://t.co/GwsN51ISW
+331782602329563136	Tue, 07 May 2013 14:48:31 +0000	cferstat	@enderle on http://t.co/LhhNM18G8M: Why Apple Won't Be Around as Long as IBM - http://t.co/rV4x80jer9 #IBM #Apple via @gabyaccad @CIOonlin
+331782581630685184	Tue, 07 May 2013 14:48:26 +0000	MattRMorrison	BIG Win! #IBM wins $123 million #HR contract for U.S. gov't http://t.co/w486xO3MSv via @ZDNet #Saa
+331782404182257664	Tue, 07 May 2013 14:47:44 +0000	CLdeWinter	Learn how to improve #sales performance in your organization with insights from @Fred_Sass http://t.co/TcaoVgElj1 #IBM #CognosSP
+331782388109688832	Tue, 07 May 2013 14:47:40 +0000	HarryDougherty	RT @IBM_GBSCareers: The world's smallest movie brought to you by #IBM! #MadeWithAtoms http://t.co/ehU6KpvvS
+331782256165277696	Tue, 07 May 2013 14:47:08 +0000	Ldhenward	Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/XKZStNH6in  @IBM_Financin
+331782161894092800	Tue, 07 May 2013 14:46:46 +0000	IBMSoftware_es	RT @IBMWebSphere_es: MT @pedrorobledoBP: #IBM refuerza apuesta x tecnologías móviles, sociales y de gestión de grandes volúmenes de datos http://t.co/joGuG6Ukv
+331782145720872960	Tue, 07 May 2013 14:46:42 +0000	IBMWebSphere_es	MT @pedrorobledoBP: #IBM refuerza apuesta x tecnologías móviles, sociales y de gestión de grandes volúmenes de datos http://t.co/joGuG6Ukv
+331782013587697666	Tue, 07 May 2013 14:46:10 +0000	pgrifhorst	How cloud can transform your company. CEO’s about  #cloudcomputing http://t.co/2tyt6ylWhk #IBM #Cloud #CE
+331781927252152321	Tue, 07 May 2013 14:45:50 +0000	Svartorn	Atomic Star Trek Fan Art Goes Where No Fan Art Has Gone Before http://t.co/RrSln2Jfnr #IBM #StarTre
+331781778530512896	Tue, 07 May 2013 14:45:14 +0000	Matt_McLochlin	Included the #temmailfail on our #IBM social tips of the week
+331781668375494657	Tue, 07 May 2013 14:44:48 +0000	IBMToronto	RT @IBMWebSphereBPs: Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/Gd339OFg5G  @IBM_Financin
+331781308869136384	Tue, 07 May 2013 14:43:22 +0000	simonlporter	Improving #supplychain: Who is more important - Suppliers or Customers? http://t.co/Ox1N319nKE #IBM #SMB #smartercommerc
+331781077226098689	Tue, 07 May 2013 14:42:27 +0000	Nils_CSI	RT @rjwissin: Video: "#Technology Expansion with @Prolifics and #IBM #SmartCloud solutions" Watch: http://t.co/k5q4lrwqw
+331781000038318080	Tue, 07 May 2013 14:42:09 +0000	SMBMM	Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/KEhV9Rte9T  @IBM_Financin
+331780798556553216	Tue, 07 May 2013 14:41:21 +0000	JLeashellWright	RT @IBMPowerSystems: Wanna try the first recipe created by #IBM's supercomputer chef? Details http://t.co/5cfaKC1Xq
+331780722408955905	Tue, 07 May 2013 14:41:03 +0000	adama_z	If you missed Impact, here is the video breakdown http://t.co/FNGWFHaFdJ #ibm #systemz #impact 201
+331780626485219328	Tue, 07 May 2013 14:40:40 +0000	AdamGryshin	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331780576916946945	Tue, 07 May 2013 14:40:28 +0000	TivoliPartners	Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/meyvTWepZy  @IBM_Financin
+331780575373434881	Tue, 07 May 2013 14:40:28 +0000	IBMWebSphereBPs	Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/Gd339OFg5G  @IBM_Financin
+331780573435674625	Tue, 07 May 2013 14:40:27 +0000	IBM_SOA_BP	Register now! #IBM Webinar 5/14 Better proposals, bigger profits with IBM Global Financing http://t.co/SAyTF6dQK4  @IBM_Financin
+331780569996337154	Tue, 07 May 2013 14:40:26 +0000	TomH_dW	Join us #Africa May 8 for a LIVE broadcast from #Nairobi #IBM Innovation Centre opening, 14:00-18:00 #IBMNairobi http://t.co/l9pjdfGl4
+331780118424997888	Tue, 07 May 2013 14:38:39 +0000	IBMITAR	#IBM helps Security First Insurance turn social media into a communications channel. #Socbiz #IBMECM http://t.co/YktqN5QGt
+331779701142065152	Tue, 07 May 2013 14:36:59 +0000	CarrieBendzsa	#IBM #CMO Jon Iwata on brand - defined by corporate character not what you sell: http://t.co/V6L7YwgKV
+331779239437279232	Tue, 07 May 2013 14:35:09 +0000	hanbonjovi	#IBM is the top company of choice in Singapore and #SingTel is top local firm S'pore execs want to work for - http://t.co/n0p1qNAIO
+331779065168134145	Tue, 07 May 2013 14:34:27 +0000	RSAdd1	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331778786431475716	Tue, 07 May 2013 14:33:21 +0000	abaum67	RT @ebarbini: How #IBM Made a Movie Out of 5,000 Atoms http://t.co/CxiEcMYFCI #CM
+331778701022879744	Tue, 07 May 2013 14:33:01 +0000	OJaeger	Learn how to empower your marketing and advertising teams through content management #IBM #SmarterCommerce #CMS http://t.co/roSsTp39k
+331778698736975873	Tue, 07 May 2013 14:33:00 +0000	espirit_news	Learn how to empower your marketing and advertising teams through content management #IBM #SmarterCommerce #CMS http://t.co/X2Dt2TuoP
+331778659675414529	Tue, 07 May 2013 14:32:51 +0000	ChristineCushwa	RT @ebarbini: How #IBM Made a Movie Out of 5,000 Atoms http://t.co/CxiEcMYFCI #CM
+331778580348542976	Tue, 07 May 2013 14:32:32 +0000	mundopconline	#IBM: “Seis pasos para integrar las Comunicaciones Sociales” http://t.co/mWVMtCbqDl vía @CWVen @IBMV
+331778542834683906	Tue, 07 May 2013 14:32:23 +0000	DaniShields	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/yhe9pSVFqI #IBM #SocBi
+331778525197643777	Tue, 07 May 2013 14:32:19 +0000	CaraHoganWI	#IBM mines #bigdata to analyze social media after a disaster: http://t.co/UUNRCq6ja
+331778448135700481	Tue, 07 May 2013 14:32:00 +0000	ztag_girl	Advancing the #cloud to drive innovation with SmartCloud Orchestrator http://t.co/nkPZ53oCA3 #IB
+331778229629227010	Tue, 07 May 2013 14:31:08 +0000	linux_at_ibm	Good paper on why infrastructure choice matters when deploying a big data solution:http://t.co/7WXxIh5XMh #ibm #powerlinu
+331777961323798529	Tue, 07 May 2013 14:30:04 +0000	Asponte	Solve your #webexperience or #socialbiz problem @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/Ouak1W72pU  #IBMexperienc
+331777779676889088	Tue, 07 May 2013 14:29:21 +0000	IBMCCGer	RT @IBMPresseteam: #Software-Event des Jahres: die #IBM  #SolutionsConnect am 13. und 14. Juni in Bad Nauheim http://t.co/UO975dCKi
+331777744960643073	Tue, 07 May 2013 14:29:13 +0000	BGraham_MA	David Ferrucci: Life After Watson http://t.co/gIHl26zAzS #IBM #bigdat
+331777675100295168	Tue, 07 May 2013 14:28:56 +0000	itmarketingwiz	The future of #healthcare, #IBM's #Watson, #mobile #apps better than doctors, and everything will have a sensor --- http://t.co/CoTobDL2j
+331777605764268035	Tue, 07 May 2013 14:28:40 +0000	IBMCCGer	RT @IBMSocialBizDE: Nur noch knapp 2 Wochen bis zur Smarter Workforce Konferenz von #IBM &amp; Kenexa in München! Infos und Anmeldung http://t.co/ggggdQ4z0T #socbi
+331776966980169728	Tue, 07 May 2013 14:26:07 +0000	hnybnyhugmonstr	Experientially true! QQ cachew! #facebook #IB
+331776925427200000	Tue, 07 May 2013 14:25:57 +0000	yatobu	I guess I should eat the #cookie so I will remember the date #invitation #conference #expo #ibm http://t.co/5qJ53xzF2
+331776735932715008	Tue, 07 May 2013 14:25:12 +0000	Dynamic_Music	#IBM Ginni Rometty: Let's provide #consumers with more compelling experiences for greater satisfaction. http://t.co/aib8Wl9gg
+331776699907858432	Tue, 07 May 2013 14:25:04 +0000	michellelowe	Video: Gadens Lawyers optimizes operations and IT agility with #IBM Endpoint Manager and IBM Virtual Recovery System http://t.co/vogEmrzkI
+331775986628702210	Tue, 07 May 2013 14:22:13 +0000	sllengua	Moving Atoms: Movie: Making  http://t.co/3EIaVhapaf /Making off The World's Smallest Movie http://t.co/ynZexpNCNs #video #movie #ib
+331775984594481152	Tue, 07 May 2013 14:22:13 +0000	NewsNeus	Moving Atoms: Movie: Making  http://t.co/r1sQqCsk2q /Making off The World's Smallest Movie http://t.co/PNt7o1Fa02 #video #movie #ib
+331775726988697600	Tue, 07 May 2013 14:21:12 +0000	jasonsturn	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/rIGF08PkfC Via NY Times #IBM #SocBi
+331775711864037376	Tue, 07 May 2013 14:21:08 +0000	samsallstarz	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331775705815846914	Tue, 07 May 2013 14:21:07 +0000	Partha_Bop	Analyze #SAP transactional business operations in real time w/ #IBM #eX5 http://t.co/sTAvhloWNF #SAPHAN
+331775701134999552	Tue, 07 May 2013 14:21:05 +0000	IBMSTG	Analyze #SAP transactional business operations in real time w/ #IBM #eX5 http://t.co/ZCxAjvAi4S #SAPHAN
+331775682705244160	Tue, 07 May 2013 14:21:01 +0000	DNB_AM	DNB TMT Absolute Return - monthly update #REC #Microsoft #IBM #Verizon http://t.co/Fg0giq8dU
+331775678016012288	Tue, 07 May 2013 14:21:00 +0000	MikeJudith	DNB TMT Absolute Return - monthly update #REC #Microsoft #IBM #Verizon http://t.co/z8wLUP3zd
+331775620780539904	Tue, 07 May 2013 14:20:46 +0000	BGraham_MA	RT @chrisscottlamb: Nucleus Research: #IBM Smarter Commerce pays back $12.05 for every dollar spent http://t.co/pLGaYvRzLn #cr
+331775483630993408	Tue, 07 May 2013 14:20:14 +0000	IBMAnalytics	Don't forget to "like" and follow #IBM Analytics on Facebook: http://t.co/LcrYm6qmWT #ibmanalytics #bigdata #analytic
+331775438470914049	Tue, 07 May 2013 14:20:03 +0000	PaminaPiegsa	RT @MattRMorrison: That's crazy! #IBM predicts #Google #Glass in a 2000 commercial http://t.co/u4EnFp005O via @sysconmedi
+331775354811338752	Tue, 07 May 2013 14:19:43 +0000	pbouillaud	#IBM has set a new world record per the 3-Tier SAP SD benchmark
+331774866376228865	Tue, 07 May 2013 14:17:46 +0000	CbassStorage	#IBM #Social #B2B http://t.co/wlyJoMSV5
+331774741201428480	Tue, 07 May 2013 14:17:17 +0000	tmichele7	Stay ahead! Register for Innovate 2013 today http://t.co/wU4EgsGQHA @ibm #ib
+331774605272428546	Tue, 07 May 2013 14:16:44 +0000	WebSphereFrance	RT @etopolski Internet of things enables us to make decisions on demand. #IBM #analytics http://t.co/7SJbxNYy5O… #smarterenerg
+331774603317882880	Tue, 07 May 2013 14:16:44 +0000	IBMMobileFr	RT @etopolski Internet of things enables us to make decisions on demand. #IBM #analytics http://t.co/7Vc4R2seK2… #smarterenerg
+331774507889086464	Tue, 07 May 2013 14:16:21 +0000	Keehbauch	#IBM has achieved 100% #recovery for clients who declared a #disaster http://t.co/cMo3lkLkO
+331774413689196544	Tue, 07 May 2013 14:15:58 +0000	Alexa_Movil	IBM: tecnologías móviles, sociales gestión de datos http://t.co/dKL69XcYon #IBM #new
+331774407087382530	Tue, 07 May 2013 14:15:57 +0000	AlexaInfo	IBM: tecnologías móviles, sociales gestión de datos http://t.co/NvhoNFBIhW #IBM #new
+331774400938516480	Tue, 07 May 2013 14:15:55 +0000	gtpintado	IBM: tecnologías móviles, sociales gestión de datos http://t.co/9XKjikrD48 #IBM #new
+331774192041197568	Tue, 07 May 2013 14:15:06 +0000	MPBarrientos	Trekkie art created out of atoms by #IBM scientist. Shows there are trekkies everywhere ...  http://t.co/7DRJVzpDj
+331773971269832706	Tue, 07 May 2013 14:14:13 +0000	MattRMorrison	That's crazy! #IBM predicts #Google #Glass in a 2000 commercial http://t.co/u4EnFp005O via @sysconmedi
+331773951158132737	Tue, 07 May 2013 14:14:08 +0000	TheRealCherylM	The future of medicine: IBM's Watson goes to medical school... #ibm #watson http://t.co/7VWumjtLY
+331773585544851456	Tue, 07 May 2013 14:12:41 +0000	CherylYetz	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/F6xRgupkP5 #IBMexperience #SocBi
+331773573645598721	Tue, 07 May 2013 14:12:38 +0000	holannlehr	RT @IBMSocialBiz: Register for 5/15 broadcast: Creating a Smarter Workforce w/Bowden, @jaferrar, Wright  http://t.co/w396O4gXeJ #ibm #socbi
+331773524689686528	Tue, 07 May 2013 14:12:26 +0000	CherylYetz	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/xWvC6MIgeA http://t.co/xWvC6MIgeA #IBM #SocBi
+331773484227260416	Tue, 07 May 2013 14:12:17 +0000	CherylYetz	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/l9uel7Gun3 via @cmswire #IBM #SocBi
+331773416619257857	Tue, 07 May 2013 14:12:01 +0000	CherylYetz	#IBM launches MessageSight, appliance aimed at M2M http://t.co/Rkf8ayAJrG #Mobile #IBMImpac
+331773375011774464	Tue, 07 May 2013 14:11:51 +0000	CherylYetz	Register today for the Social Communications Webcast 5/30 @11amET http://t.co/o5koqA2ZAG #IBM #SocBi
+331773332699619330	Tue, 07 May 2013 14:11:41 +0000	CherylYetz	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/2ZBYfu8DBt #IBM #SocBi
+331773278341439490	Tue, 07 May 2013 14:11:28 +0000	CherylYetz	6 Benefits of Being a Social Business by @gregdorban http://t.co/wCtzo8odfw via @B2Community #IBM #SocBi
+331773227753938944	Tue, 07 May 2013 14:11:16 +0000	CherylYetz	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/dWNQsUkDal #IBM #SocBi
+331773194551844864	Tue, 07 May 2013 14:11:08 +0000	craigiffert	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/oeaCjQtd5g Via NY Times #IBM #SocBi
+331773180966494208	Tue, 07 May 2013 14:11:05 +0000	CherylYetz	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/02glVFzv2m Via NY Times #IBM #SocBi
+331773134413897728	Tue, 07 May 2013 14:10:53 +0000	CherylYetz	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/jfdZWo6tD3 #IBM #SocBi
+331773078772281344	Tue, 07 May 2013 14:10:40 +0000	GovEventsGroup	The U.S. #healthcare industry loses about $180 billion annually; #Fraud being the #1 cause. #IBM has a solution &gt; http://t.co/yDdkBOhxR
+331773069632872449	Tue, 07 May 2013 14:10:38 +0000	IBMStorage	Is #IBM #FlashSystems ready for mainstream CIOs? Read @Wikibon blog and assessment  http://t.co/JQkl42bec8 #FlashAhead #IBMStorag
+331773064046055424	Tue, 07 May 2013 14:10:37 +0000	MMORALES13	Is #IBM #FlashSystems ready for mainstream CIOs? Read @Wikibon blog and assessment  http://t.co/YVuuqD3jFn #FlashAhead #IBMStorag
+331773049785438208	Tue, 07 May 2013 14:10:33 +0000	TechExpoJobFair	@IBM_GBSCareers Hiring Event May 8th in Charlotte, NC! For details and registration click here! #IBM #Hiring #Jobs http://t.co/4I5wqzfPz
+331772511643635713	Tue, 07 May 2013 14:08:25 +0000	fabriballarino	#IBM también admitió que la investigan por corrupción en #Argentina http://t.co/RJrpAN5gyf vía @LAVOZcoma
+331772409755615232	Tue, 07 May 2013 14:08:01 +0000	TalkToJohnC	Join #IBM’s cloud beta program and shape the future of the open #cloud: http://t.co/0M984SBzU
+331772156457402369	Tue, 07 May 2013 14:07:00 +0000	PaminaPiegsa	RT @IBMStorage: It's time to talk #software-defined #storage with #IBM! Join our webcast 5/15 at 1pm ET to learn more http://t.co/V4EyzXmdS6 #IBMStorag
+331772036437389316	Tue, 07 May 2013 14:06:32 +0000	SoftlineCol	Webcast, Negocios en la nube Inscribete sin ningun costo! #tecnologia #IBM # http://t.co/yhPBQMJPkK Comparte esta Gran Experienci
+331771945198706688	Tue, 07 May 2013 14:06:10 +0000	SoftlineCol	Innovador Webcast, Negocios en la nube Inscribete sin ningun costo! #tecnologia #IBM # http://t.co/yhPBQMJPkK Comparte esta Gran Experienci
+331771924281688064	Tue, 07 May 2013 14:06:05 +0000	DaniShields	6 Benefits of Being a Social Business by @gregdorban http://t.co/j6TK34PZKT via @B2Community #IBM #SocBi
+331771888055492610	Tue, 07 May 2013 14:05:56 +0000	TivoliSupport	Register for the Tivoli User community, get the monthly newsletter for education events and more! http://t.co/OwB76kuuKo #IBMTivoli #ib
+331771886574923776	Tue, 07 May 2013 14:05:56 +0000	ServMgmtConnect	Register for the Tivoli User community, get the monthly newsletter for education events and more! http://t.co/oSbQxNVP52 #IBMTivoli #ib
+331771751849660418	Tue, 07 May 2013 14:05:24 +0000	terrykiernan	#UCLA and #IBM team up to apply #bigdata #analytics to the study of brain trauma. http://t.co/Ntun5h7Yc8 #ibmanalytic
+331771484940951552	Tue, 07 May 2013 14:04:20 +0000	FozzieHere	#IBM Smarter Cities: City in Motion - 4 in a series: http://t.co/3bCZP7gWI
+331771387838595072	Tue, 07 May 2013 14:03:57 +0000	thinkstrategies	Don't forget to attend today's #IBM webinar re: Leveraging #SaaS to Turbocharge Your Business @ 1pm ET, http://t.co/B4wQjM3pp
+331771372072235009	Tue, 07 May 2013 14:03:53 +0000	ripjay	#IBM #SmarterCommerce Summit ISV Tip #1: Attend breakout Mon May 20th at 2:45 "Inside Insights Around Smarter Commerce Business"..
+331771237120499712	Tue, 07 May 2013 14:03:21 +0000	tjferre	6 Benefits of Being a Social Business by @gregdorban http://t.co/OO1B79PTsj via @B2Community #IBM #SocBi
+331770900464685056	Tue, 07 May 2013 14:02:01 +0000	SMBMM	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/vJHnCnSS6l #IBM #SocBi
+331770868428578816	Tue, 07 May 2013 14:01:53 +0000	IBMSocialBiz	Register for 5/15 broadcast: Creating a Smarter Workforce w/Bowden, @jaferrar, Wright  http://t.co/w396O4gXeJ #ibm #socbi
+331770759431196672	Tue, 07 May 2013 14:01:27 +0000	SMBMM	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/hiBI2dLtBr Via NY Times #IBM #SocBi
+331770744843403266	Tue, 07 May 2013 14:01:24 +0000	MaxMusil	Wenn in Baden-Württemberg die Welt untergeht... http://t.co/IMczS1FgKm #it #software #marketing #werbung #text #ibm #kreativ #agentur #waa
+331770735859220483	Tue, 07 May 2013 14:01:22 +0000	BillMew	Public Clouds vs. Private Clouds vs. Hybrid Clouds. Here is a brief discussion on their differences: http://t.co/7lfjCjC4Qj #IBM #SM
+331770645274841089	Tue, 07 May 2013 14:01:00 +0000	james_mccaskie	#IBM Client was able to achieve 78% or $5.5M estimated IT cost reduction and 66% or $6.8M estimated Business loss avoidance with #PureAp
+331770631945330688	Tue, 07 May 2013 14:00:57 +0000	SMBMM	On May 15 @11am ET Don't miss #IBM Creating a Smarter Workforce webcast http://t.co/HxRSLfckLO #IBM #SocBi
+331770590061015040	Tue, 07 May 2013 14:00:47 +0000	reportefinal	Estados Unidos investiga a #IBM por #corrupción en Argentina http://t.co/R33XWw0w3
+331770588014182400	Tue, 07 May 2013 14:00:46 +0000	ultimocable	Estados Unidos investiga a #IBM por #corrupción en Argentina http://t.co/GYltK7Rb4
+331770054083477504	Tue, 07 May 2013 13:58:39 +0000	CLdeWinter	Where can you make improvements in your #sales #compensation plan? Attend this session 5/30 1:00pm ET http://t.co/r98zjhJZmN #IB
+331769941298651137	Tue, 07 May 2013 13:58:12 +0000	kimberlyduffy	Celebrating the Web; an Atomic Movie and a Hurricane Over Saturn http://t.co/JizKMUciv6 #madewithatoms #ib
+331769366725140481	Tue, 07 May 2013 13:55:55 +0000	shetalau	http://t.co/CwGrllO1nC #ib
+331769346374397953	Tue, 07 May 2013 13:55:50 +0000	derkleinetomi	Kann man mit Atomen was cooleres machen? Nein! #IBM #StarTrek http://t.co/1EmmiW1I8
+331769134943711234	Tue, 07 May 2013 13:55:00 +0000	Atech_Speaks	Join Us For A Casual Happy Hour Reception during the 2013 Exceptional Web Conference on 5/21 4-6pm http://t.co/KDjpUwH1Ff #ib
+331769134931140608	Tue, 07 May 2013 13:55:00 +0000	TamaraGunter	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/rk29WBR08n via @cmswire #IBM #SocBi
+331769056929660928	Tue, 07 May 2013 13:54:41 +0000	LefevreDiane	Tomorrow - Discover the 5 Steps to Nurture Customer Loyalty &amp; Increase Profitability. #IBM webinar 5/8 http://t.co/TnfHtcI2dT  #ibmanalytic
+331768699239424000	Tue, 07 May 2013 13:53:16 +0000	WebSphereMag	#IBM will help modernize Department of Veteran Affairs HR technology: http://t.co/F67p2QyeD
+331768271663661059	Tue, 07 May 2013 13:51:34 +0000	ajerlarioja	RT @leobilanski: #EEUU. investiga a #IBM y #RalphLauren por corrupción en la Argentina http://t.co/Nc7N4q892V &lt; ejemplo de empresas SIN CONCIENCIA SOCIAL
+331768268589244416	Tue, 07 May 2013 13:51:33 +0000	win_nalini	RT @IBMAnalytics: Tomorrow - Discover the 5 Steps to Nurture Customer Loyalty &amp; Increase Profitability. #IBM webinar 5/8 http://t.co/7XBAHs6fPv #ibmanalytic
+331768225085915137	Tue, 07 May 2013 13:51:23 +0000	abaum67	RT @IBMAnalytics: Tomorrow - Discover the 5 Steps to Nurture Customer Loyalty &amp; Increase Profitability. #IBM webinar 5/8 http://t.co/7XBAHs6fPv #ibmanalytic
+331768205636952066	Tue, 07 May 2013 13:51:18 +0000	win_nalini	http://t.co/2LYL816h3B - #IBM #Innovate 2013: The IBM Technical Summit #ibmtivol
+331768116340215809	Tue, 07 May 2013 13:50:57 +0000	IBMAnalytics	Tomorrow - Discover the 5 Steps to Nurture Customer Loyalty &amp; Increase Profitability. #IBM webinar 5/8 http://t.co/7XBAHs6fPv #ibmanalytic
+331767960735719424	Tue, 07 May 2013 13:50:20 +0000	leobilanski	#EEUU. investiga a #IBM y #RalphLauren por corrupción en la Argentina http://t.co/Nc7N4q892V &lt; ejemplo de empresas SIN CONCIENCIA SOCIAL
+331767367522725888	Tue, 07 May 2013 13:47:59 +0000	TxMQITSolutions	New #TxMQ webinar just announced: What WAS 6.1 End Of Support Means for You. Register today. #IBM http://t.co/ECJdIgQIiP #IBM #WASv6.
+331767365761114114	Tue, 07 May 2013 13:47:58 +0000	LB_Butler	@NYTimes reports that companies are using Big Data to build a Smarter Workforce.  http://t.co/iGyJgiqEeV #socbiz #IB
+331767321200832512	Tue, 07 May 2013 13:47:47 +0000	CbassStorage	Download the report: The #IBM Institute for Business Value executive report on social business. http://t.co/i0CVWlAIBI #socbi
+331767101197017088	Tue, 07 May 2013 13:46:55 +0000	CbassStorage	It's time to talk #software-defined #storage with #IBM! Join our webcast 5/15 at 1pm ET to learn more http://t.co/DCJlyHZdot  #IBMStorag
+331766738066735104	Tue, 07 May 2013 13:45:28 +0000	AMA_WM	Friday is your last day to register! Discover how to deliver value to empowered customers May 14th w/ #iBM. http://t.co/7AvNP7Ue2
+331766268170469379	Tue, 07 May 2013 13:43:36 +0000	HPCwire	News: #Solarflare's High-Performance 10GbE Ethernet Adapters Selected for #IBM Servers #HPC http://t.co/DYPZtG2CD
+331765921330888704	Tue, 07 May 2013 13:42:14 +0000	_EndeavourLDN	The world's smallest movie
+
+http://t.co/a06UOcDd7G
+
+#ibm #atoms #movi
+331765785838112768	Tue, 07 May 2013 13:41:41 +0000	RiaHyman	Interesting piece on how the rise of big data is being applied to improve workforce talent http://t.co/wVM9BVcFAA Via NY Times #IBM..
+331765669106429953	Tue, 07 May 2013 13:41:14 +0000	ShradhaNayak	#SmarterPlanet How Digital Marketing Helped Decide the Outcome of the Presidential Election: Teddy Goff
+A... http://t.co/iKs5JH2KPc #IB
+331765636525088768	Tue, 07 May 2013 13:41:06 +0000	jasonsturn	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/jFiiLS2jxV #IBM #SocBi
+331765484041146369	Tue, 07 May 2013 13:40:29 +0000	AscentPeople	#Hiring - Operations Team Leader (#Linux / #IBM / #Oracle) 45-48k #Job in #WarringtonJobs - http://t.co/Fx1m85LCF
+331765124450881537	Tue, 07 May 2013 13:39:04 +0000	zstanard	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/wX80JrWMm6 #IBM #Securit
+331764903465598978	Tue, 07 May 2013 13:38:11 +0000	rdkugelvr	Constellation Leads Canada Tech Revival http://t.co/5RjF4t2DYO Huh? Plenty of great software &amp; growth in Canada with #IBM #SAP etc
+331764673529667584	Tue, 07 May 2013 13:37:16 +0000	EPatton4	Atomic Star Trek Fan Art Goes Where No Fan Art Has Gone Before http://t.co/vJIKDtUkfO #IBM @graeme
+331764396428771328	Tue, 07 May 2013 13:36:10 +0000	SyscomCipher	#IBM presentó el video más pequeño del mundo http://t.co/8mYokb93x5 #cine #tecnologí
+331764129259999232	Tue, 07 May 2013 13:35:06 +0000	Dynamic_Music	#IBM Ginni Rometty: Let's provide #gamers with more compelling experiences for greater satisfaction. http://t.co/aib8Wl9gg
+331763348838420481	Tue, 07 May 2013 13:32:00 +0000	Sapphire_Winks	I see your  http://t.co/Y5T5eYNr0J and i raise you a http://t.co/3ET3QqUsQs. #90s? #ibm #mysterysolve
+331763302105501697	Tue, 07 May 2013 13:31:49 +0000	sflouzat	Prochain webinar #IBM Smart Cloud Entreprise le 16 mai sur les nouvelles fonctionnalités de SCE https://t.co/DfWlJZq8E
+331762795207081984	Tue, 07 May 2013 13:29:48 +0000	KeithBraswell	It's time to talk #software-defined #storage with #IBM! Join our webcast 5/15 at 1pm ET to learn more http://t.co/9r5wSBIc0S #IBMStorag
+331762476318326785	Tue, 07 May 2013 13:28:32 +0000	PhyliciaProctor	@TheMotleyFool: #IBM Gets Top Social Software Ranking From #IDC http://t.co/MzKjD1G5cn #SocBi
+331762361373429760	Tue, 07 May 2013 13:28:05 +0000	IBMStorage	It's time to talk #software-defined #storage with #IBM! Join our webcast 5/15 at 1pm ET to learn more http://t.co/V4EyzXmdS6 #IBMStorag
+331762355375570945	Tue, 07 May 2013 13:28:04 +0000	MMORALES13	It's time to talk #software-defined #storage with #IBM! Join our webcast 5/15 at 1pm ET to learn more http://t.co/3Oih1Vdpj0 #IBMStorag
+331762123552206848	Tue, 07 May 2013 13:27:08 +0000	belen_af	RT @EmprenderRS: #EEUU. investiga a #IBM y #RalphLauren por corrupción en la Argentina http://t.co/oWm0qSwYWe &lt; ejemplo de empresas SIN CONCIENCIA SOCIAL
+331761762909184000	Tue, 07 May 2013 13:25:42 +0000	EmprenderRS	#EEUU. investiga a #IBM y #RalphLauren por corrupción en la Argentina http://t.co/oWm0qSwYWe &lt; ejemplo de empresas SIN CONCIENCIA SOCIAL
+331761716369190912	Tue, 07 May 2013 13:25:31 +0000	phcdesign	#IBM #TRIRIGA -  an integrated workplace system for real estate, capital projects, facilities planning &amp; management http://t.co/OAeeIVmSJ
+331761595891994625	Tue, 07 May 2013 13:25:02 +0000	rdkugelvr	#IBM probed by US Justice Dept. over bribery allegations http://t.co/sfictStiG6 #CFA #GARP  Co's need better software to detect violations
+331761238755397632	Tue, 07 May 2013 13:23:37 +0000	justinbhanks	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/Sdj8yGLEsc #IBM #SocBi
+331761153128660993	Tue, 07 May 2013 13:23:17 +0000	RedHatPartners	Check out our sponsor #IBM @RedHatSummit Learn about ongoing innovations + contributions to Linux. IBM &amp; Red Hat help build a Smarter Plane
+331760917467496448	Tue, 07 May 2013 13:22:21 +0000	WhoisIntheZone	@TKsBBQ what's old is new again.  @OJHeroForHire and I worked at an #IBM FACILITY 16yrs ago --- #PON will make them relevant again - #BIG
+331760639490011140	Tue, 07 May 2013 13:21:14 +0000	ross_dreher	Understand performance of applications running in #IBM #WebSphere environment with #APD Lite, download at no cos
+331760638936354817	Tue, 07 May 2013 13:21:14 +0000	IBMRegionais	Torne-se social e faça mais negócios. Acesses alguns recursos sobre como começar http://t.co/2uPbf0jPTX #ibm #ibmpme #colaboraçã
+331760466999246848	Tue, 07 May 2013 13:20:33 +0000	ICSEducation	Learn how to create an exceptional customer experience at today's #IBMConnect SoCal-&gt; http://t.co/vDga62vdsj #IBM #SocBiz #icsed
+331760369863385090	Tue, 07 May 2013 13:20:10 +0000	Dynamic_Music	#IBM Ginni Rometty: Fans can decide. Let's provide interactive #social experiences. http://t.co/aib8Wl9gg
+331759785961721857	Tue, 07 May 2013 13:17:51 +0000	GuiJo_CarGo	Ocorrendo a palestra da #IBM na #secot2013 nesse moment
+331759782975389696	Tue, 07 May 2013 13:17:50 +0000	KateBuczkowska	#IBM makes a movie out of the individual #atoms- words's smallest film http://t.co/kdoLpFqEQ
+331759670811324416	Tue, 07 May 2013 13:17:23 +0000	ITDoVe	Reached 15,000+ views on http://t.co/EeKAdUAwCO -&gt; tips and tricks on #IBM #SmartCloud Enterprise and App. Services. #IBMClou
+331759412605755392	Tue, 07 May 2013 13:16:22 +0000	DaniShields	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/CD59hGwGsI #IBM #SocBi
+331759168832802817	Tue, 07 May 2013 13:15:24 +0000	ComputerSite	Will #Apple survive as long as #IBM? Maybe not - http://t.co/lMENTUbGR
+331759066948976640	Tue, 07 May 2013 13:15:00 +0000	win_nalini	Missed #IBM #Pulse or IBM #Impact? Attend #Innovate 2013 and get the IT insights you need http://t.co/4GoUEk4DR
+331758884194754561	Tue, 07 May 2013 13:14:16 +0000	dwclement	The world's smallest magnetic memory bit, made of just 12 atoms. Watch #IBM research epic short video  http://t.co/xPtoSjgO8z #BI #bigdat
+331758695685967872	Tue, 07 May 2013 13:13:31 +0000	BrianKelley19	Cloud Security: It’s Not Just for IT Anymore- Join the discussion 5/22 @2pmET http://t.co/BaNZbPQEMG http://t.co/BaNZbPQEMG #IBM #SocBi
+331758483298979840	Tue, 07 May 2013 13:12:40 +0000	eliobastias	RT @openkvm: @linuxfoundation blog: IBM Makes Push for Open Source Virtualization with KVM http://t.co/6MWzNZZisf #openkvm #ib
+331758106293960704	Tue, 07 May 2013 13:11:10 +0000	CloseAmber	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/O4C1T2yrNr Via NY Times #IBM #SocBi
+331757985909075970	Tue, 07 May 2013 13:10:42 +0000	OpenKVM	@LinuxFoundation blog: IBM Makes Push for Open Source Virtualization with KVM http://t.co/sOzNUZsapl #openkvm #ib
+331757897744777216	Tue, 07 May 2013 13:10:21 +0000	ChristofRad	#IBM you are the best! Atomic size #StarTrek stuff, ya! http://t.co/YXIS7pCh6
+331756811772383232	Tue, 07 May 2013 13:06:02 +0000	Aivy_Iniguez	More Than a Game: Introducing Game Mechanics to the Workforce http://t.co/Wr2vE0FhFq via @cmswire #IBM #SocBi
+331756798874877952	Tue, 07 May 2013 13:05:59 +0000	sit60	In her blog, @Sandy_Carter opens up about a personal impact of the power of social http://t.co/Z1lPeoA9os #IBM 
+331756718499454976	Tue, 07 May 2013 13:05:40 +0000	BakerNabaker	#IBM #BigData &amp; Analytics: How bigger data creates better decisions-Watch video here: http://t.co/KfACGah6A9 #SocBi
+331756712346390528	Tue, 07 May 2013 13:05:38 +0000	amjimenezm	41 of the #Fortune 500 companies are tech companies, #IBM is here, position 20  http://t.co/xLGEwJVEAV http://t.co/rGmuvqGn5
+331756362373689345	Tue, 07 May 2013 13:04:15 +0000	ICSEducation	SNAPPS Announces SnappLinks for IBM Connections via @lbenitez http://t.co/dSu5FcGhtb #icsedu #ibm #socbiz #ibmsocialbi
+331755812139712512	Tue, 07 May 2013 13:02:03 +0000	AJ_at_Work	David Cunningham #Innovise - Taking back control of your Network's Compliance @ #TivoliUserGroup 16th May 2013, #IBM South Bank #tivoliu
+331755675837403136	Tue, 07 May 2013 13:01:31 +0000	AnaliaDigital	#IBM y #Lenovo ponen fin a una operación de compra #TyNLatinoamérica http://t.co/NvsPB3QJy0 @TyNMagazine @IB
+331755404570796032	Tue, 07 May 2013 13:00:26 +0000	IBMSocialBiz	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/nibDVT0sQ2 Via NY Times #IBM #SocBi
+331755386283638784	Tue, 07 May 2013 13:00:22 +0000	BillMew	RT @ebarbini: How #IBM Made a Movie Out of 5,000 Atoms http://t.co/YycunCuzcy #CM
+331755355078008834	Tue, 07 May 2013 13:00:15 +0000	asabiliaAR	RT @ebarbini: How #IBM Made a Movie Out of 5,000 Atoms http://t.co/CxiEcMYFCI #CM
+331754815006846976	Tue, 07 May 2013 12:58:06 +0000	Geovannalv	"@lanacioncom: #EE.UU. investiga a #IBM por #corrupción en la #Argentina http://t.co/FUgmhaNydX
+331754792219181056	Tue, 07 May 2013 12:58:00 +0000	ebarbini	How #IBM Made a Movie Out of 5,000 Atoms http://t.co/CxiEcMYFCI #CM
+331754753170227200	Tue, 07 May 2013 12:57:51 +0000	DKCERT	#IBM's version af #Java til Linux er sårbar. Også gamle huller kan fortsat udnyttes, skønt de skulle være lukket. https://t.co/gUALdqRr9
+331754692684161024	Tue, 07 May 2013 12:57:37 +0000	FlemChrist	Seven reasons you need a Social Media Command Center http://t.co/z4H2iwln8L #ibm #socbiz #bigdata #analytics #socialmedi
+331754248310231040	Tue, 07 May 2013 12:55:51 +0000	sflouzat	#IBM &amp; #Média : Découvrez les derniers articles, études, solutions, événements et témoignages clients http://t.co/9tY2j0K0L
+331754214449627137	Tue, 07 May 2013 12:55:43 +0000	IBMpartnerSpain	¿Necesitas una solución para tu negocio? #IBM te presenta un gran portfolio http://t.co/xvFJ9mzTE5 #ibmpwe
+331753932948897794	Tue, 07 May 2013 12:54:35 +0000	PugovkinP	В книгу рекордов гиннеса попал самый маленький мультфильм
+http://t.co/vquc7zj6FJ #IB
+331753568954626048	Tue, 07 May 2013 12:53:09 +0000	securityinsight	#BIOkey ID Director and #IBM #Security Access Manager for Web 7.0 http://t.co/D0uqxUB9u
+331753214032613376	Tue, 07 May 2013 12:51:44 +0000	sbeloussov	RT @dnevnik_ru: Мальчик из атомов, который играет с мячиком-атомом - это про мультик от #IBM, который попал в книгу рекордов Гиннеса: http://t.co/nEofso9zb
+331753044268167169	Tue, 07 May 2013 12:51:04 +0000	DaniShields	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/YjgxBgU2JW Via NY Times #IBM #SocBi
+331752885270482944	Tue, 07 May 2013 12:50:26 +0000	AliSlater14	Enjoying working @1000Lakeside  #ibm in the springtime! http://t.co/3JhuNZWit
+331751848727945216	Tue, 07 May 2013 12:46:19 +0000	midicat	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/pSH5OEh9NC #IBMexperience #SocBi
+331751717223948288	Tue, 07 May 2013 12:45:47 +0000	BillMew	How to pick an IT data center for your midsized company: http://t.co/hOeOzTOYBn #IBM #SB
+331751181405806592	Tue, 07 May 2013 12:43:39 +0000	JoniTX	Latest #IBM #IBV IdeaWatch: Reports on new #IT era include #social SW delivery, #cloud and #security topics http://t.co/hwXc4QNwM
+331751089420513280	Tue, 07 May 2013 12:43:18 +0000	FangFeng88	International Business Machines Corp Stock Buy Recommendation Reiterated (IBM) http://t.co/uV3M2Fl6XB  via @TheStreet #ibm #stoc
+331750783173406722	Tue, 07 May 2013 12:42:04 +0000	dnevnik_ru	Мальчик из атомов, который играет с мячиком-атомом - это про мультик от #IBM, который попал в книгу рекордов Гиннеса: http://t.co/nEofso9zb
+331750478855688193	Tue, 07 May 2013 12:40:52 +0000	Edwin_Power	#IBM Webcast coming 5/15 on How to motivate employees to make a difference, &amp; empower them w/ the tools to perform http://t.co/IxUahdWZX
+331750272785326080	Tue, 07 May 2013 12:40:03 +0000	mercytalic	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331750105755574273	Tue, 07 May 2013 12:39:23 +0000	SIMMETHOD	SIMMETHOD's 7 Laws of Best Practices, Business Growth and Value Creation Hot on #LinkedIn and #Facebook http://t.co/LEPmKg03l5 #IBM #SAP #H
+331749938344099842	Tue, 07 May 2013 12:38:43 +0000	andremr_santos	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331749793539952640	Tue, 07 May 2013 12:38:09 +0000	mickie_anolue	Yea i'm #IBM, #aww cute"@Dulcet44: mickie_anolue So u;r igbo?
+331749711881048066	Tue, 07 May 2013 12:37:49 +0000	SeverineLienard	Vous souhaitez connaitre les nouvelles fonctionnalités de #IBM SmartCloud Entreprise? webinar le 16 mai https://t.co/dOx67IkaC0 @IBMCloudF
+331749158652350464	Tue, 07 May 2013 12:35:37 +0000	phcdesign	RT @rjwissin: Video: "#Technology Expansion with @Prolifics and #IBM #SmartCloud solutions" Watch: http://t.co/k5q4lrwqw
+331748867282464768	Tue, 07 May 2013 12:34:28 +0000	matlamb	Zetsche sieht IBM als Vorbild: Vielleicht ist Daimler irgendwann ähnlich erfolgreich ohne Autos wie IBM ohne Mainframes #Daimler #IBM #rp1
+331748541670227969	Tue, 07 May 2013 12:33:10 +0000	ITMredaktion	RT @IBMPresseteam: Nachgefragt:Christoph Heitjans über #IBM IT-Finanzierung und Remarketing http://t.co/iwW393IDGg @ITMredaktio
+331748465405227009	Tue, 07 May 2013 12:32:52 +0000	gabyaccad	"@davidmetcalfe12: RT “Why #Apple Won't Be Around as Long as IBM http://t.co/Qr9xvgfMSE @CIOonline” #ibm
+331748319506350080	Tue, 07 May 2013 12:32:17 +0000	DVDredaktion	#IBM nennt Details zur #Wartungsverlängerung im Herbst: Extended Support für IBM i V5R4 http://t.co/dtdiJiBHw
+331748246265397248	Tue, 07 May 2013 12:32:00 +0000	rjwissin	Video: "#Technology Expansion with @Prolifics and #IBM #SmartCloud solutions" Watch: http://t.co/k5q4lrwqw
+331748233300807681	Tue, 07 May 2013 12:31:57 +0000	CaroleTurner9	Understand performance of applications running in #IBM #WebSphere environment with #APD Lite, download at no cos
+331747835231993856	Tue, 07 May 2013 12:30:22 +0000	Dynamic_Music	#IBM Ginni Rometty: Deliver #music with more dramatic impact, excitement and with more dynamics. http://t.co/aib8Wl9gg
+331747813971066880	Tue, 07 May 2013 12:30:17 +0000	RBaranger	Les atomes jouent la comédie dans le "plus petit film du monde" http://t.co/B72lm6b1jC #IB
+331747485724848128	Tue, 07 May 2013 12:28:58 +0000	Claudio_ODZ	RT @fpaisdigital: #IBM usa #smartphones como sensores para monitorear tránsito:
+http://t.co/VWTYG671w
+331747306997166080	Tue, 07 May 2013 12:28:16 +0000	Nahuenaufal	Investigación a #IBM http://t.co/xw5tRvDu9
+331746918965317632	Tue, 07 May 2013 12:26:43 +0000	vidarsvendsen	RT @IBMSocialBiz: Download the report: The #IBM Institute for Business Value executive report on social business. http://t.co/79spLbP7W4 #socbi
+331746672419942400	Tue, 07 May 2013 12:25:44 +0000	DaniShields	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/deQGE46qbk #IBM #SocBi
+331746575577645057	Tue, 07 May 2013 12:25:21 +0000	LambillotteB	Download the #IBM Institute for Business Value executive report on social business. http://t.co/D9FRMETEj1 #socbi
+331746272476291072	Tue, 07 May 2013 12:24:09 +0000	Nidia_2013	EEUU investiga a #IBM por corrupción en #Argentina @elpais_america @elmundoamerica @ObservadorU
+331745396206481409	Tue, 07 May 2013 12:20:40 +0000	A_LaFountain6	Orgs who engage, motivate their people can achieve significant differentiation. Reg for 5/15 broadcast http://t.co/oyutK8AnzV #ibm #socbi
+331745344322932736	Tue, 07 May 2013 12:20:28 +0000	FerdinandKobelt	RT @SalomeWagner: Inspired by @sandy_carter, my role model for: RT "Mobile first. Social Always. Mind the data. http://t.co/b9W72yCkHz #ibmsymp #socbiz
+331745290380001282	Tue, 07 May 2013 12:20:15 +0000	hilbasfo	RT @IBMSocialBiz: Download the report: The #IBM Institute for Business Value executive report on social business. http://t.co/79spLbP7W4 #socbi
+331744769812348928	Tue, 07 May 2013 12:18:11 +0000	AliceDesainjean	#IBM #Cloud IBM to Modernize Department of Veteran Affairs Human Resources Technology: IBM announced it h... http://t.co/8WphoZUeYG #TC
+331744769703288832	Tue, 07 May 2013 12:18:11 +0000	JeromeRAGUILLET	#IBM #Cloud IBM to Modernize Department of Veteran Affairs Human Resources Technology: IBM announced it h... http://t.co/CV2gYMlJnY #TC
+331744763873210368	Tue, 07 May 2013 12:18:09 +0000	Majetech	#IBM #Cloud IBM to Modernize Department of Veteran Affairs Human Resources Technology: IBM announced it h... http://t.co/UWo1YJ7NLv #TC
+331744760236748800	Tue, 07 May 2013 12:18:09 +0000	yuweiquan	RT @KDelin: #StarTrek #Enterprise shrunk to the scale of atoms by #IBM.  #tech #physics http://t.co/tdqJA8RX8
+331744693018820608	Tue, 07 May 2013 12:17:53 +0000	eusoubeta2013	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331744323429335044	Tue, 07 May 2013 12:16:24 +0000	KeithBraswell	Download the report: The #IBM Institute for Business Value executive report on social business. http://t.co/5E154hxXIY #socbi
+331744298083168257	Tue, 07 May 2013 12:16:18 +0000	wilsonpedrero	RT @fpaisdigital: #IBM usa #smartphones como sensores para monitorear tránsito:
+http://t.co/VWTYG671w
+331744180479074304	Tue, 07 May 2013 12:15:50 +0000	fpaisdigital	#IBM uses #smartphones as sensors to monitor transit http://t.co/VWTYG671w
+331744013801627648	Tue, 07 May 2013 12:15:11 +0000	TechExpoJobFair	@TFMJ_Charlotte #IBM #HIRING EVENT 5/8 in #Charlotte!  Click 4 details! http://t.co/4I5wqzfPz2 @IBM_GBSCareer
+331743979739693061	Tue, 07 May 2013 12:15:02 +0000	SocMedScientist	RT @lastbabyboomer: #IBM on Brand by Jon Iwata (@coastw) http://t.co/9J7UUTeIIW via @waywir
+331743934495744000	Tue, 07 May 2013 12:14:52 +0000	fpaisdigital	#IBM usa #smartphones como sensores para monitorear tránsito:
+http://t.co/VWTYG671w
+331743858662719488	Tue, 07 May 2013 12:14:34 +0000	KenexaIndia	RT @simonlporter: How does “Bring Your Own Device” affect businesses? Join the LinkedIn conversation here: http://t.co/2nxjSlhG23 #IBM #SMB #byo
+331743476460957696	Tue, 07 May 2013 12:13:02 +0000	Anna_Wilson	#IBM works with #Orange and turns mobile phones into sensors to monitor public transport http://t.co/STEhOS1ZO
+331743468772786180	Tue, 07 May 2013 12:13:01 +0000	PatWanner81	Technical #Support and #Maintenance for your #IBM products. Contact your Client Representative directly online! http://t.co/y5H3TYULq
+331742947265626112	Tue, 07 May 2013 12:10:56 +0000	CloseAmber	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/N59U5FmeNC #IBM #SocBi
+331742689462743040	Tue, 07 May 2013 12:09:55 +0000	sg_frontier	Look, #IBM is doing SQL on Hadoop, too
+http://t.co/ABLnK3J3z
+331742561536450561	Tue, 07 May 2013 12:09:24 +0000	maartencloud	IBM to Modernize Department of Veteran Affairs Human Resources Technology  #IB
+331742264718147584	Tue, 07 May 2013 12:08:14 +0000	leyrer	RT @IBMSocialBizDE: Nur noch knapp 2 Wochen bis zur Smarter Workforce Konferenz von #IBM &amp; Kenexa in München! Infos und Anmeldung http://t.co/ggggdQ4z0T #socbi
+331742262423863298	Tue, 07 May 2013 12:08:13 +0000	AJ_at_Work	#TivoliUserGroup 16th May 2013, #IBM South Bank #tivoliug http://t.co/iySri9Q6ty Take back control of your Network's Compliance - #Innovis
+331741970257018880	Tue, 07 May 2013 12:07:03 +0000	leyrer	Teddy Goff, digital director Obamas, kommt am 5. Juni zum #IBM connected event nach Wien http://t.co/Av5QeQTk3V #IBMBCAT #f
+331741702484283393	Tue, 07 May 2013 12:05:59 +0000	sit60	5/30- Social Analytics &amp; Intelligence Webcast: See an integrated demo across 6 functional categories! http://t.co/zB696273Px #IBM #SocBi
+331741655839408128	Tue, 07 May 2013 12:05:48 +0000	jameskobielus	Big BI? Measuring the business value of #bigdata (http://t.co/KLKKaIxWDJ) Tuesday's #IBM quick-hi
+331741392596512768	Tue, 07 May 2013 12:04:46 +0000	ACoulombeau	RT @IBM_PME: La Minute #PME : Avec #IBM Cognos BI, @feuillatte_fr analyse au quotidien son activité et les tendances du marché http://t.co/pKH7NOACi
+331740866010038272	Tue, 07 May 2013 12:02:40 +0000	PunditGuruGeek	How to pick an IT data center for your midsized company: http://t.co/VDsPhNMiS0 #IBM #SB
+331740784179167233	Tue, 07 May 2013 12:02:21 +0000	itph	#IBM biedt IT’er meer grip op informatie http://t.co/u75RrCz7B
+331740736984862720	Tue, 07 May 2013 12:02:09 +0000	ICSEducation	#IBM Services Grants Help Nonprofits like WWF Operate More Effectively  http://t.co/AjcQ18gJ2K #icsed
+331740678814048256	Tue, 07 May 2013 12:01:55 +0000	IBMSocialBiz	Download the report: The #IBM Institute for Business Value executive report on social business. http://t.co/79spLbP7W4 #socbi
+331740585692131329	Tue, 07 May 2013 12:01:33 +0000	BakerNabaker	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/o9xoqWxBph Via NY Times #IBM #SocBi
+331740486421323776	Tue, 07 May 2013 12:01:10 +0000	matt_yorke	Mobile first. Social Always. Mind the data. http://t.co/uWgnvYHS0B via @zite #ib
+331740431316566017	Tue, 07 May 2013 12:00:56 +0000	IBMSocialBizDE	Nur noch knapp 2 Wochen bis zur Smarter Workforce Konferenz von #IBM &amp; Kenexa in München! Infos und Anmeldung http://t.co/ggggdQ4z0T #socbi
+331740215318282240	Tue, 07 May 2013 12:00:05 +0000	DarmonDav	IBM fait de la mobilité la priorité n°1 des entreprises
+http://t.co/6pA6a8MLmc via @LeMagIT #IB
+331740214143881216	Tue, 07 May 2013 12:00:05 +0000	IBM_PME	#PME, RDV le 14 mai pr un webinar dédié à la solution collaborative #IBM #Connections. Renseignements &amp; inscriptions: http://t.co/GE2buPmJZ
+331740198692081664	Tue, 07 May 2013 12:00:01 +0000	IBMIndiaJobs	Career Opportunities at #IBM: Application Developer: FileNet (BAO) - GBS; #ITSpecialist; Bangalore, Pune. http://t.co/qRqVh5NjV
+331740064092667905	Tue, 07 May 2013 11:59:29 +0000	Nils_CSI	RT @AJ_at_Work: #TivoliUserGroup 16th May 2013, #IBM Southbank. Agenda http://t.co/p052uBCAbA #tivoliug #developerwork
+331739815961829376	Tue, 07 May 2013 11:58:30 +0000	ReleaseTEAMInc	RT @eCommerceGuyUK: Win, not by surviving the storm, but by changing the game - Sam Palmisano (CEO, IBM) #IBM #bizital
+331739096546414593	Tue, 07 May 2013 11:55:38 +0000	MikeGreen67	#IBM guarantees #storage savings of at least 50% with real-time #compression Act now! http://t.co/LxQLyZd0X
+331738965356978176	Tue, 07 May 2013 11:55:07 +0000	Dynamic_Music	#IBM Ginni Rometty: Let's enrich the relationships between artists and #fans. http://t.co/aib8Wl9gg
+331738772439973889	Tue, 07 May 2013 11:54:21 +0000	ShimalThakrar	@Eagle_force_555 Analysts suggested in 2011 that by 2015 you will not know if #IBM was an American or Indian company
+331738338484695040	Tue, 07 May 2013 11:52:37 +0000	Jodie_Wells1	Ready, set and start living the #sustainable lifestyle #SustainableJourney #IBM #Campaign http://t.co/FO52TTB5D
+331738279290482688	Tue, 07 May 2013 11:52:23 +0000	MariaSouthgate1	Monitor Physical, virtual and cloud based components of your environment #IBM SmartCloud #Monitoring http://t.co/4sKDOVqrJ
+331737159520354304	Tue, 07 May 2013 11:47:56 +0000	TheCloudNetwork	#IBM #Cloud IBM to Modernize Department of Veteran Affairs Human Resources Technology: IBM announced it h... http://t.co/qlfAbzFPLT #TC
+331736584103792640	Tue, 07 May 2013 11:45:39 +0000	ArrowECS_IBMSW	RT @poloniecki: Pleased to announce Dennis Turner former chief economist at HSBC as the Guest Speaker @ the #IBM Software Partner College,12 June #SPCTwick
+331736518743961601	Tue, 07 May 2013 11:45:24 +0000	PkOSully_GBS	Check out our commitment in furthering women's careers - Women at #IBM, http://t.co/OomwVIT6oI, and like our page https://t.co/X04gGqIAEN
+331736383372795905	Tue, 07 May 2013 11:44:51 +0000	amythinking	MT @simonlporter How does “Bring Your Own Device” affect businesses? Join the LinkedIn convo here: http://t.co/wsk5Hjj7tM #IBM  #SMB #byo
+331735347794960384	Tue, 07 May 2013 11:40:44 +0000	EricDaubie	Logiciels&amp;Innovation - Air France : délivrer un service online efficace pour des clients en mobilité http://t.co/JmEslKSkcG #IBM #IBMLogI
+331735337711845378	Tue, 07 May 2013 11:40:42 +0000	IBMServicesFR	Optimisez votre infrastructures de stockage et de serveurs [VIDEOS]  https://t.co/lZB8wrQGa8 #datacenter #IB
+331735112284782592	Tue, 07 May 2013 11:39:48 +0000	MannyPalombi	@IBMStorage
+Listen to Vincent Hsu #IBM Fellow &amp; CTO talking about changes enabled with #IBM #FlashSystems http://t.co/kd1e5VuAgB #IBMStorag
+331734490756022274	Tue, 07 May 2013 11:37:20 +0000	IBMUK_STG	RT @qassociates: Register NOW for the UK #IBM #PureSystems Discovery Event. May 21st, IBM UK Technology Centre.  http://t.co/KfSFwdFCZt @ibmevents @ibmuk_st
+331734204930981888	Tue, 07 May 2013 11:36:12 +0000	sirchamallow	#IBM Le refroidissement d'un supercalculateur améliore les capteurs solaires http://t.co/e9LYBmYLx1 (Le Monde Informatique
+331734105349820416	Tue, 07 May 2013 11:35:48 +0000	Aivy_Iniguez	See how to drive better biz outcomes @ #IBM Exceptional Web Experience 2013 May 20-23! http://t.co/S7wI238ijM #IBMexperience #SocBi
+331733989666721792	Tue, 07 May 2013 11:35:21 +0000	roncallari	RT @lastbabyboomer: #IBM on Brand by Jon Iwata (@coastw) http://t.co/9J7UUTeIIW via @waywir
+331733934188675074	Tue, 07 May 2013 11:35:07 +0000	jocbourb	Défi des villes intelligentes: La Ville de Québec veut favoriser l'accès au numérique http://t.co/4pbuRrDc77 #LeSoleil #CmQc #IB
+331733613618012160	Tue, 07 May 2013 11:33:51 +0000	RukhsanaSyed	RT @ibm_uk_news: A journey towards a sustainable lifestyle begins now #bethestart #IBM http://t.co/2jVkhzFNX
+331733509267918849	Tue, 07 May 2013 11:33:26 +0000	kthuerk	RT @IBMStorage: Listen to Vincent Hsu #IBM Fellow &amp; CTO talking about changes enabled with #IBM #FlashSystems http://t.co/L5iBwgM01J #FlashAhead #IBMStorag
+331733302258044928	Tue, 07 May 2013 11:32:37 +0000	mbuchner_atms	Auch interessant - #UniCredit schließt Joint-Venture "Joint for Growth GMB" mit #IB
+331732827806781440	Tue, 07 May 2013 11:30:44 +0000	ibmsoftware_in	News: The #IBMRational toolset will be gentrified with the acquisition of UrbanCode. http://t.co/tO7TjPXnLx #IB
+331732431889649666	Tue, 07 May 2013 11:29:09 +0000	DJTGRIND305	#JustMe #AboutMe #JustListen #DJ #IBM #IBMSOUND http://t.co/9YOc6RT7qM http://t.co/3CbqI1Nhk
+331732353909141506	Tue, 07 May 2013 11:28:51 +0000	nunomax	Eric Chicha presenting smarter analytics on #IBM BusinessConnect 2013 #in http://t.co/segF8x4uE
+331731417027469314	Tue, 07 May 2013 11:25:07 +0000	NasatAtyn	19.22 masih disini...i love my workplace... :( #IBM #raining #bored #night #maghrib #hungry #tired… http://t.co/lcEfHv9Ng
+331730770970435585	Tue, 07 May 2013 11:22:33 +0000	FionaSeton	#IBM researchers moved atoms to make "A Boy and His Atom," the world's smallest stop-motion film http://t.co/ASOQy21AN
+331730301556518912	Tue, 07 May 2013 11:20:41 +0000	LisaOrrJohnston	Battle of the Brains! sponsored by #IBM.  US is sending 17 teams to Russia to compete. http://t.co/2SAdAWJwJd #SmarterComputin
+331730161550626816	Tue, 07 May 2013 11:20:08 +0000	BP_doubleU	Some good reasons for #studying #maths :)  https://t.co/VjsEYiTYQT #IB
+331728914269478915	Tue, 07 May 2013 11:15:11 +0000	Natasha_D_G	#Rutgers Teams with IBM to Build ‘#BigData’ Supercomputer Center http://t.co/W72rCrPIEB cc @ibmbigdata #education #IB
+331728882992558080	Tue, 07 May 2013 11:15:03 +0000	dustinlavalley	Wonder if #JohnTitor uses #FutureTweets to #Tweet in the #Future? #TimeTraveler #IB
+331728856337772544	Tue, 07 May 2013 11:14:57 +0000	Dataquest_India	Is IBM’s x86 business up for sale? http://t.co/Iohm0DtVMu 
+#IBM #IBMx86 #Lenov
+331728265716826112	Tue, 07 May 2013 11:12:36 +0000	RukhsanaSyed	Almost ready to cross!! Watch clients discuss the power, simplicity &amp; value #IBM DB2 w/ BLU Acceleration brings to their businesses..
+331726620266209281	Tue, 07 May 2013 11:06:04 +0000	IBMdeInsurance	Vorhang auf für den kleinsten Film der Welt: „A  Boy and his Atom“, #IBM, via @kressZwitscher  http://t.co/uSWTLNN0q
+331726385196441600	Tue, 07 May 2013 11:05:08 +0000	iamduru	*igbo* okwa woyo wayo aji na racha ofey dioku - phyno #IBM #KOT
+331726032661008384	Tue, 07 May 2013 11:03:44 +0000	HansLak	#IBM CEO Ginni Rometty laying out her vision of the path forward http://t.co/HwjHZ9bWHU Lets build  @smarterplane
+331725939639734273	Tue, 07 May 2013 11:03:21 +0000	david_white_bi	Speaking at #IBM Business #Analytics Summit #ibmbas13 in #DC today with @rfmorison, @hfryman.  #Dallas next week with @TheGrok, @jfhagert
+331725678233915392	Tue, 07 May 2013 11:02:19 +0000	IBMmidmarket_es	¿Conoces las diferencias entre #Cloud Pública vs #Cloud Privada vs #Cloud Híbrida? http://t.co/3YfQBm7W7v #IBM #IBMmme
+331725678158442496	Tue, 07 May 2013 11:02:19 +0000	IBMpartnerSpain	¿Conoces las diferencias entre #Cloud Pública vs #Cloud Privada vs #Cloud Híbrida? http://t.co/wRnl2Ulodf #IBM #IBMmme
+331725670403149824	Tue, 07 May 2013 11:02:17 +0000	ICSEducation	Developing Custom theme 8.0.0.1 with CTC V4 and Social Rendering  #ibmexperience #icsedu http://t.co/Bbz1GGpF9O #ibm #socbi
+331725447534608385	Tue, 07 May 2013 11:01:24 +0000	AJ_at_Work	#TivoliUserGroup 16th May 2013, #IBM Southbank. Agenda http://t.co/p052uBCAbA #tivoliug #developerwork
+331725403024683008	Tue, 07 May 2013 11:01:13 +0000	IBMmsp_es	¿Conoces las diferencias entre #Cloud Pública vs #Cloud Privada vs #Cloud Híbrida? http://t.co/AzOZwqAy8x #IBM #IBMmme
+331725239732039680	Tue, 07 May 2013 11:00:34 +0000	IBMStorage	Listen to Vincent Hsu #IBM Fellow &amp; CTO talking about changes enabled with #IBM #FlashSystems http://t.co/L5iBwgM01J #FlashAhead #IBMStorag
+331725236703748097	Tue, 07 May 2013 11:00:34 +0000	MMORALES13	Listen to Vincent Hsu #IBM Fellow &amp; CTO talking about changes enabled with #IBM #FlashSystems http://t.co/WakfV25noj #FlashAhead #IBMStorag
+331725098505609216	Tue, 07 May 2013 11:00:01 +0000	IBMIndiaJobs	Jobs at #IBM: Package Solution Consultant: Retek (Oracle ISV) -GBS; #IT&amp;Telecommunications(nonconsulting); Kolkata. http://t.co/rfO3UNZKk
+331724920377716736	Tue, 07 May 2013 10:59:18 +0000	EmanuelStanciu	RT @bioLock4SAP: #IBM #MessageSight to connect #mobile devices, #sensors with #MQTT technology http://t.co/gVgxUNAFAG @SmarterPlane
+331724326028054528	Tue, 07 May 2013 10:56:57 +0000	NickChopperDigg	RT @webactonodea: RT @lastbabyboomer: #IBM on Brand by Jon Iwata (@coastw) http://t.co/RJwMOxXdOZ via @waywir
+331723227946708992	Tue, 07 May 2013 10:52:35 +0000	ohogroup	Why #Apple Won't Be Around as Long as #IBM http://t.co/XsaL1DTVM1 via @CIOonline #Busines
+331722492362231808	Tue, 07 May 2013 10:49:39 +0000	BirdyVictor	RT @IBM_PME: La Minute #PME : Avec #IBM Cognos BI, @feuillatte_fr analyse au quotidien son activité et les tendances du marché http://t.co/pKH7NOACi
+331722239101767681	Tue, 07 May 2013 10:48:39 +0000	ITnewsforvip	Переговоры о продаже серверного бизнеса #IBM китайской #Lenovo провалились http://t.co/ukszuKf8R
+331721879964499969	Tue, 07 May 2013 10:47:13 +0000	im_arehman	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331721756823928832	Tue, 07 May 2013 10:46:44 +0000	Zohaib_Z	RT @IBMSocialBiz: Download the paper: See how the future of email is social - http://t.co/kGu8inmhUy #ibm #socbi
+331721741724434433	Tue, 07 May 2013 10:46:40 +0000	AlexNuggz	IBM notes browser plugin, what a waste of time! It adds nothing to the notes experience #IBM #Notes #Domino
+331720829995991042	Tue, 07 May 2013 10:43:03 +0000	cferstat	RT @IBMStorage: Read and download new best practices paper for DBAs: Oracle ASM and #IBM #flash http://t.co/P3YmLNYK3e #FlashAhead #IT #IBMStorag
+331720680016052225	Tue, 07 May 2013 10:42:27 +0000	kamaruddin	RT @IBMSocialBiz: Download the paper: See how the future of email is social - http://t.co/kGu8inmhUy #ibm #socbi
+331719821324591106	Tue, 07 May 2013 10:39:03 +0000	ibmaix	RT @IBMStorage: Read and download new best practices paper for DBAs: Oracle ASM and #IBM #flash http://t.co/P3YmLNYK3e #FlashAhead #IT #IBMStorag
+331719244339355648	Tue, 07 May 2013 10:36:45 +0000	greekworld7	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331718943515504640	Tue, 07 May 2013 10:35:33 +0000	MWDAdvisors	Webcast May 8, 1pm EDT: 5 steps to nurture customer loyalty &amp; increase profitability. Join @hmschwenk http://t.co/Tl8Fd784oi #ibm #analytic
+331718874284322816	Tue, 07 May 2013 10:35:17 +0000	Pedro__Caria	IBM BusinessConnect 2013 #ibm http://t.co/wHQNcrvv1
+331718794940657664	Tue, 07 May 2013 10:34:58 +0000	disk_91	Just got #ibm and #oracle presentation of hw solutions for a common sourcing. Nice solutions with benefits on both ! Hard choice
+331717624151040000	Tue, 07 May 2013 10:30:19 +0000	andikopp2	Gunter Dueck ruft zum metakulturellen Diskurs auf. Was denkt ihr darüber? - http://t.co/9PzxBsjo4e #rp13 #dueck #ib
+331717554529787905	Tue, 07 May 2013 10:30:02 +0000	ibmsystemsbps	The new #EntSys site from #IBM site is live! Check out what we are doing in #cloud, #data &amp; #security. http://t.co/CuSKpwWujP #IBMPartner
+331717009459007489	Tue, 07 May 2013 10:27:52 +0000	IBM_PME	#PME, #IBM fait de la #mobilité la priorité n°1 des entreprises avec #CloudFirst http://t.co/yDKQxU0np
+331715501598334976	Tue, 07 May 2013 10:21:53 +0000	EricDaubie	PPT updload Air France digital excellence: délivrer un service efficace pour des clients en mobilité  http://t.co/BDDGjwxzgN  #IBM #IBMLogI
+331715322744815616	Tue, 07 May 2013 10:21:10 +0000	DebriefingSoft	Day in the life of a #TSM administrator http://t.co/kclFnvPZYr via @tivoliug #tivoliug #IBMtivoli #IB
+331715189072343040	Tue, 07 May 2013 10:20:38 +0000	contextworld	RT @Chris_Context: Fascinating article @asymco #samsung capital expenditure 2x #apple http://t.co/lb1pt8Fnqu #google #microsoft #ibm spend way les
+331714553115201536	Tue, 07 May 2013 10:18:07 +0000	simonlporter	How does “Bring Your Own Device” affect businesses? Join the LinkedIn conversation here: http://t.co/2nxjSlhG23 #IBM #SMB #byo
+331713955615612929	Tue, 07 May 2013 10:15:44 +0000	james_mccaskie	#IBM VP, #Websphere, Dave Mitchell interview w/partners about #PureSystems innovation. #PureApp #IBMImpact http://t.co/bSvRXhyTy
+331713780365008896	Tue, 07 May 2013 10:15:02 +0000	IBM_PME	La Minute #PME : Avec #IBM Cognos BI, @feuillatte_fr analyse au quotidien son activité et les tendances du marché http://t.co/pKH7NOACi
+331713190809440257	Tue, 07 May 2013 10:12:42 +0000	jameb75	RT @nunomax: IBM BusinessConnect 2013 Diego Segre talks about #IBM Software Strategy and shares our vision with Clients and BPs. http://t.co/dHxQ9cJEI
+331712108955828225	Tue, 07 May 2013 10:08:24 +0000	derekfred	RT @lastbabyboomer: #IBM on Brand by Jon Iwata (@coastw) http://t.co/9J7UUTeIIW via @waywir
+331711841921277953	Tue, 07 May 2013 10:07:20 +0000	ibmsystemsbps	Key Updates, Tech Sessions, Latest Releases. All this @ #IBM #PowerSystems Technical Symposium May 8-10. Don't Miss @ http://t.co/8NHm2kSmm
+331711588249776128	Tue, 07 May 2013 10:06:20 +0000	poloniecki	Pleased to announce Dennis Turner former chief economist at HSBC as the Guest Speaker @ the #IBM Software Partner College,12 June #SPCTwick
+331711318019170305	Tue, 07 May 2013 10:05:15 +0000	OgilvyNamibia	Solving Huge Problems, One Atom At A Time: The Purpose And Power of #IBM’s “World’s Smallest Movie.” http://t.co/lMeZ7xvbTS #MadeWithAtom
+331710385394683904	Tue, 07 May 2013 10:01:33 +0000	IBMSocialBiz	Download the paper: See how the future of email is social - http://t.co/kGu8inmhUy #ibm #socbi
+331710343195791360	Tue, 07 May 2013 10:01:23 +0000	MuyComputerPRO	RT @IBMmsp_es: #Whitepaper: ¿Sabes cuál es el sistema de datos perfecto? http://t.co/lCi1pVI6TT vía @MuyComputerPRO #BigData #IB
+331709999002824705	Tue, 07 May 2013 10:00:01 +0000	IBMIndiaJobs	Jobs at #IBM: Package Solution Consultant: Oracle Edge ( Oracle ISV) - GBS; #IT&amp;Telecommunications; Kolkata, Pune. http://t.co/koNMi4pff
+331709823198584832	Tue, 07 May 2013 09:59:19 +0000	qassociates	Register NOW for the UK #IBM #PureSystems Discovery Event. May 21st, IBM UK Technology Centre.  http://t.co/KfSFwdFCZt @ibmevents @ibmuk_st
+331709811328708609	Tue, 07 May 2013 09:59:16 +0000	tombujok	@jaceklaskowski I was thinking they have enough buses at #IBM, but they could squeeze in an additional one :
+331709782144741376	Tue, 07 May 2013 09:59:09 +0000	ibmretail	#IBM's @jpuleri named @Consulting_Mag Top 25 for #smarterretail http://t.co/cEjXzfDlV
+331709693472931841	Tue, 07 May 2013 09:58:48 +0000	HBRN8	RT @navidrockni: #IBM takes a big new step in #cryptography: practical #homomorphic encryption --
+http://t.co/DDz7yoMcy
+331708898438443008	Tue, 07 May 2013 09:55:38 +0000	IBMmsp_es	#Whitepaper: ¿Sabes cuál es el sistema de datos perfecto? http://t.co/lCi1pVI6TT vía @MuyComputerPRO #BigData #IB
+331708896714575872	Tue, 07 May 2013 09:55:38 +0000	IBMmidmarket_es	#Whitepaper: ¿Sabes cuál es el sistema de datos perfecto? http://t.co/fO8QBrCOjD vía @MuyComputerPRO #BigData #IB
+331708882567188481	Tue, 07 May 2013 09:55:35 +0000	DaveBThompson	Improving #supplychain: Who is more important - Suppliers or Customers? http://t.co/8ceFIDI8RM #IBM #SM
+331708484095725568	Tue, 07 May 2013 09:54:00 +0000	IBM_UK_news	A journey towards a sustainable lifestyle begins now #bethestart #IBM http://t.co/QVyxbHwSI
+331708394652200960	Tue, 07 May 2013 09:53:38 +0000	DavidGBannister	Monitor Physical, virtual and cloud based components of your environment #IBM SmartCloud #Monitoring http://t.co/u6NS5cITA
+331707693851090944	Tue, 07 May 2013 09:50:51 +0000	sflouzat	Facilitez vos relations d'affaires avec les agents, les courtiers et les clients http://t.co/YMMiZLNS62 #assurance #ib
+331706500806492161	Tue, 07 May 2013 09:46:07 +0000	TechieGo2Guy	Server Hardware: IBM x3650 Dual Xeon 5140 Dual-Core 2.33GHz 4GB 2x73GB 10K SAS CD 2U Server w/Video &amp; Dual... http://t.co/MsmZfaSH3S #IB
+331706263878660096	Tue, 07 May 2013 09:45:10 +0000	FondazioneIBM	fare buone domande aiuta a crescere http://t.co/0sIhRCjrJo  #IBM http://t.co/rYcMPKfbf9  risorse in rete su scienza e tecnologi
+331706235357364224	Tue, 07 May 2013 09:45:03 +0000	IBM_PME	#PME, le pilotage de performance permet de répondre aux 3 questions préalables à toute prise de décision http://t.co/6ANcpwnIdB #IBM #BA
+331705982315020289	Tue, 07 May 2013 09:44:03 +0000	amythinking	#IBM Upgrades #MobileFirst; Supports #Mobile Lifecycle To Promote #Apps for People, Devices http://t.co/e2HK1hiT2
+331705362602409984	Tue, 07 May 2013 09:41:35 +0000	schleicher_alex	#IBM named worldwide marketshare leader in social software for 4th consecutive yearhttp://ibm.co/XTfAzs
+#socbi
+331704758756843520	Tue, 07 May 2013 09:39:11 +0000	IBMPT	RT @nunomax: IBM BusinessConnect 2013 Diego Segre talks about #IBM Software Strategy and shares our vision with Clients and BPs. http://t.co/dHxQ9cJEI
+331704657061765120	Tue, 07 May 2013 09:38:47 +0000	Alexa_Movil	EE.UU. investiga a IBM por corrupción en la Argentina http://t.co/xgvdgQ1kXn #IBM #new
+331704651084857344	Tue, 07 May 2013 09:38:46 +0000	AlexaInfo	EE.UU. investiga a IBM por corrupción en la Argentina http://t.co/vo18oWTFjd #IBM #new
+331704644495630337	Tue, 07 May 2013 09:38:44 +0000	gtpintado	EE.UU. investiga a IBM por corrupción en la Argentina http://t.co/fFE8f61nKb #IBM #new
+331704511716532225	Tue, 07 May 2013 09:38:13 +0000	FlaBarreiro	RT @nunomax: IBM BusinessConnect 2013 Diego Segre talks about #IBM Software Strategy and shares our vision with Clients and BPs. http://t.co/dHxQ9cJEI
+331704201241571328	Tue, 07 May 2013 09:36:59 +0000	KOByrneIBM	How-To Guide for Testing the 3 types of #mobile apps with #IBM #Security #AppScan #ibmsecurity http://t.co/c0QP2nlWA
+331703653838766080	Tue, 07 May 2013 09:34:48 +0000	KenexaIndia	[Singapore] #IBM, Microsoft And Accenture Most Desired Employers: LinkedIn http://t.co/lB6aIwBCir ^A
+331703165944725504	Tue, 07 May 2013 09:32:52 +0000	webmaster4it	آي بي إم مصر تقدم #تطبيق جديد يساعد ذوي الإعاقة للتصويت في الإنتخابات http://t.co/135U184H3B #برامجوتطبيقات #ib
+331703147888275456	Tue, 07 May 2013 09:32:47 +0000	KOByrneIBM	"Simplify your IT with #IBM PureFlex and IBM Flex System Manager" May 8th &amp; more dates: http://t.co/zp6B3FB4F
+331703110949036032	Tue, 07 May 2013 09:32:39 +0000	b_bogaert	Discover the new area of IT based on Integrated Expert Systems at #IBM SolutionsConnect 2013 #IBMSCBE http://t.co/mDKzP7sHv
+331702848356237312	Tue, 07 May 2013 09:31:36 +0000	BillMew	RT @simonlporter: Integrated business processes with #ERP systems – making life easier for IT teams. http://t.co/70wegC8f8d #IBM #SM
+331702121693052928	Tue, 07 May 2013 09:28:43 +0000	SylvainAnselm	Video: IBM PureSystems Product Family - IBM PureData™ System Overview #ibm http://t.co/So0a8oAaA
+331702111987441665	Tue, 07 May 2013 09:28:40 +0000	shibinss	is that #GOOGLEGLASS commercial  by #IBM back in the year 2000?? http://t.co/m6cNcIVgn
+331701809297121280	Tue, 07 May 2013 09:27:28 +0000	simonlporter	Integrated business processes with #ERP systems – making life easier for IT teams. http://t.co/MdnL9eIfkr #IBM #SM
+331701756759252993	Tue, 07 May 2013 09:27:16 +0000	cromheecke_lens	RT @NHardijzer: See @Ronaldvelten's welcome message anticipating the IBM SolutionsConnect 2013 events: http://t.co/Qak63UOK8q #IBMSCNL #IBMSCB
+331701351954403329	Tue, 07 May 2013 09:25:39 +0000	simonlporter	Fighting crime with data? How the Memphis police department used analytics to make a safer community: http://t.co/mFLjBtQMhQ #IBM #SM
+331700856229597184	Tue, 07 May 2013 09:23:41 +0000	Emma_Proctor_UK	#IBM's SQL-on-Hadoop product - Big SQL http://t.co/ExvdlgvG8
+331700311616016384	Tue, 07 May 2013 09:21:31 +0000	IBMPT	Siga o #IBMBusinessConnect em http://t.co/kgCncIrGqd #BigData #SmarterCommerce #IBMPureSystems #SmarterCities #SocialBusiness #IBM #Clou
+331698993312710656	Tue, 07 May 2013 09:16:17 +0000	nstrachowski	RT @RStrachowski: Sebastian Krause erklärt wie die #IBM mit #SmarterComputing 25% IT-Kosten spart. #ibmsym
+331698134340210688	Tue, 07 May 2013 09:12:52 +0000	nunomax	IBM BusinessConnect 2013 Diego Segre talks about #IBM Software Strategy and shares our vision with Clients and BPs. http://t.co/dHxQ9cJEI
+331698103700828162	Tue, 07 May 2013 09:12:45 +0000	ECB_Jean	RT @computerworldch: #IBM denkt global, liefert aber auch lokal, sagt Vice President Dean March über die #Schweizer #Cloud aus #Winterthur #IBMSym
+331697605790797824	Tue, 07 May 2013 09:10:46 +0000	SmtrComputing	#IBM Starter Kit for #Cloud #x86 Edition, the answer to efficient utilization of your #data center. Know more @ http://t.co/71zGbQqlXY
+331697315519795200	Tue, 07 May 2013 09:09:37 +0000	LaurenTyler1	RT @DMAIC79: (INFOGRAPHIC) Google Analytics vs IBM Coremetrics | http://t.co/xjMZbMYLDN #ibm #googleanalytic
+331696795870691329	Tue, 07 May 2013 09:07:33 +0000	tomibohnenblust	RT @computerworldch: #IBM denkt global, liefert aber auch lokal, sagt Vice President Dean March über die #Schweizer #Cloud aus #Winterthur #IBMSym
+331696787406602241	Tue, 07 May 2013 09:07:31 +0000	lidiadeheras	Urge #Desarrollador #Notes con experiencia #Madrid CV: lidia.deheras@metrica.es #IBM
+#Lotu
+331696641545474049	Tue, 07 May 2013 09:06:56 +0000	mishranubhav	RT @tivoliug: One week away until the #Maximo Manufacturing Users Group's meeting! #TivoliUG Register here - http://t.co/ByvCAR7PSF #IB
+331696397831262209	Tue, 07 May 2013 09:05:58 +0000	CaptSteampunk	A movie starring actual atoms.  Check it out. #IBM #TheWorldofTomorrow http://t.co/eNWkRdGuD
+331696384224919552	Tue, 07 May 2013 09:05:55 +0000	sit60	Good read on how the rise of big data is being applied to improve workforce talent http://t.co/84U9AiU328 Via NY Times #IBM #SocBi
+331695953104998400	Tue, 07 May 2013 09:04:12 +0000	IBMCCGer	#IBM #SmarterCommerce: Wie sieht die Zukunft des Handels tatsächlich aus? http://t.co/TUxuS31qnF In Kürze mehr im #IBMClientCenterEhninge
+331695377097052160	Tue, 07 May 2013 09:01:55 +0000	IBMCCMPL	#IBM #PureSystems Customer Experience with Francois Briant from #IBMClientCenter Montpellier http://t.co/F4mkpQahpd #IBMCCMP
+331694914368843777	Tue, 07 May 2013 09:00:04 +0000	tivoliug	One week away until the #Maximo Manufacturing Users Group's meeting! #TivoliUG Register here - http://t.co/ByvCAR7PSF #IB
+331694632675192832	Tue, 07 May 2013 08:58:57 +0000	IBMCCGer	RT @IBMPresseteam: Nachgefragt:Christoph Heitjans über #IBM IT-Finanzierung und Remarketing http://t.co/iwW393IDGg @ITMredaktio
