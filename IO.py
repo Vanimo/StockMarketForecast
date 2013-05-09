@@ -43,7 +43,7 @@ def writeData(sFile, arr, reverse=False, overWrite=False):
                 # Add tab character for data separation
                 row += s + '\t'
             # Replace last \t with a newline character
-            row = row[:-2] + '\n'      
+            row = row[:-1] + '\n'      
             f.write(row)
         print "Write Complete"
     except IOError:
