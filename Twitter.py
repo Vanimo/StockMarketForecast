@@ -18,12 +18,19 @@ def main():
 
 def GET_Twitter(query):
     url = "https://search.twitter.com/search.json?q=" + str(query)
-    text = urllib2.urlopen(url).read()
+    try:
+        answer = urllib2.urlopen(url)
+    except urllib2.HTTPError, err:
+        print "HTTPError: " + str(err.code)
+        return []
+    text = answer.read()
     JS = json.loads(text)
     tweets = JS['results']
     size = len(tweets)
     data = []
-    print "Number of tweets in JSON: " + str(len(tweets))
+    first = tweets[0]['created_at']
+    last = tweets[-1]['created_at']
+    print "JSON count: " + str(len(tweets)) + "\tFirst: " + str(first) + "\tLast: " + str(last)
     for i in range(0,size):
         row = [None]*4
         row[0] = tweets[i]['id']
@@ -100,10 +107,9 @@ def searchTestThree(): #Search between an interval
     
     tweets = []
     
-    while(i <= 10 and go_on):
+    while(i <= 14 and go_on):
         q = s + twitterPage(i)
         answer = searchTwitter("IBM", q)
-        print len(answer)
         if (len(answer) < 1):
             go_on = False
         else:
@@ -111,8 +117,35 @@ def searchTestThree(): #Search between an interval
             i += 1
         tweets += answer
     IO.writeData("data/Tweets.txt", tweets)
+
+def searchTestFour(): #Search backwards in time :o
+    s = twitterRPP(100)
+    tweets = searchTwitter("IBM", s)
     
+    oldestID = tweets[-1][0] # Get ID of the oldest tweet for the next query
+    go_on = True
+    i=1
+    
+    while(go_on):        
+        q = s + twitterMaxID(oldestID)
+        results = searchTwitter("IBM", q)
+        
+        if (len(results) < 2): # Catch empty results, errors and sleep if we'll continue
+            go_on = False
+            IO.writeData("data/Tweets.txt", tweets)
+        else:
+            time.sleep(1.25)
+            i += 1
+            oldestID = results[-1][0] # Get ID of the oldest tweet for the next query
+            
+        tweets += results[1:]
+        
+        if (i>=10):
+            IO.writeData("data/Tweets.txt", tweets)
+            tweets = []
+            i = 0        
+
 if __name__ == '__main__':
     #simpleSearch()
-    searchTestThree()
+    searchTestFour()
     

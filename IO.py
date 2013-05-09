@@ -32,11 +32,25 @@ def writeData(sFile, arr):
             row = ""
             width = len(arr[i])
             for j in range (0, width):
-                row += str(arr[i][j]) + '\t'
+                s = str(arr[i][j])
+                s = s.replace("\n", " ")
+                s = s.replace("\t", " ")
+                row += s + '\t'
             row = row[:-2] + '\n'      
             f.write(row)
         print "Write Complete"
     except IOError:
         print 'Error: writing tweets'
+    finally:
+        f.close()
+        
+def dumpData(sFile, data):
+    try:
+        print "Write Start in " + str(sFile)
+        f = open(sFile, "a")
+        f.write(str(data))
+        print "Write Complete"
+    except IOError:
+        print 'Error: failed to dump data'
     finally:
         f.close()
