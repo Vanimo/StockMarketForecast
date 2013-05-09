@@ -24,7 +24,7 @@ def readData(sFile):
 def writeData(sFile, arr):
     try:
         print "Write Start"
-        f = open(sFile, "w")
+        f = open(sFile, "a")
         for i in range(0, len(arr)):
             #datum, user, text
             #row = arr[i][0] + "\t" + arr[i][1] + "\t" + arr[i][2] + "\n"

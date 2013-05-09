@@ -23,7 +23,7 @@ def searchTwitter(query):
     tweets = JS['results']
     size = len(tweets)
     data = []
-    print "Number of tweets in JSON: " + str(len(tweets))
+    #print "Number of tweets in JSON: " + str(len(tweets))
     for i in range(0,size):
         row = [None]*4
         row[0] = tweets[i]['id']
@@ -60,15 +60,18 @@ if __name__ == '__main__':
     #simpleSearch()
     arrTweets = searchTwitterFromDate("IBM",2013,5,2)
     IO.writeData("data/scrapeTest.txt", arrTweets)
-    lastID = arrTweets[-1][0]
+    lastID = arrTweets[0][0]
     go_on = True
     
     while go_on:
         time.sleep(2)
         queryAnswer = searchTwitterFromeDateAndID("IBM", lastID, 2013,5,2)
-        IO.writeData("data/scrapeTest.txt", queryAnswer)
-        arrTweets += queryAnswer
-        print "Tweets returned: " + str(len(queryAnswer))
         if(len(queryAnswer) < 1):
-            go_on = False        
+            go_on = False
+        else:
+            lastID = queryAnswer[0][0]
+            IO.writeData("data/scrapeTest.txt", queryAnswer)
+            arrTweets += queryAnswer
+        print "Tweets returned: " + str(len(queryAnswer))
+               
     IO.writeData("data/Tweets.txt", arrTweets)
