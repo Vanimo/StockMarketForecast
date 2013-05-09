@@ -6,7 +6,7 @@ Created on 9 May 2013
 def readData(sFile):
     matrix = []
     try:
-        print "Read Data"
+        print "Read Data from " + str(sFile)
         f = open(sFile, "r")
         data = f.readlines()
         for line in data:
@@ -21,10 +21,17 @@ def readData(sFile):
         f.close()
     return matrix
     
-def writeData(sFile, arr):
+def writeData(sFile, arr, reverse=False, overWrite=False):
     try:
-        print "Write Start"
-        f = open(sFile, "a")
+        print "Write Start in " + str(sFile)
+        openMethod = "a"
+        if (overWrite):
+            openMethod = "w"
+        f = open(sFile, openMethod)
+        
+        if(reverse):
+            arr.reverse()
+        
         for i in range(0, len(arr)):
             row = ""
             width = len(arr[i])
