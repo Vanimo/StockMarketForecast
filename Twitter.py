@@ -2,6 +2,9 @@
 Created on 8-mei-2013
 
 @author: Brecht Deconinck
+@author: Floris Cockaerts
+
+Handles the twitter API for searching tweets
 '''
 import json
 import urllib2
@@ -21,21 +24,9 @@ def searchTwitter(query):
     data = []
     row = [None]*4
     for i in range(0,size-1):
-<<<<<<< HEAD
         row[0] = tweets[i]['created_at']
         row[1] = tweets[i]['from_user']
         row[2] = tweets[i]['text']
-        data.append(row)
-    return data
-
-if __name__ == '__main__':
-    #Search Twitter
-    tweets = searchTwitter("IBM")
-=======
-        row[0] = tweets[i]['id']
-        row[1] = tweets[i]['created_at']
-        row[2] = tweets[i]['from_user']
-        row[3] = tweets[i]['text']
         data.append(row)
     return data
 
@@ -62,10 +53,10 @@ def writeTweets():
 if __name__ == '__main__':
     #Get Tweets
     arrTweets = searchTwitterTag("IBM")
->>>>>>> cedd9fe575ce837832d0dd90c3654dde398ef60f
     #Write Tweets to File
-    Preprocessor.writeTwitterData("Tweets.txt", tweets)
+    from IO import writeData
+    writeData("data/Tweets.txt", arrTweets)
     #Read Tweets From File
-    tweets = Preprocessor.readTwitterData("Tweets.txt")
+    tweets = Preprocessor.readTwitterData("data/Tweets.txt")
     #Show Tweets
     print tweets   
