@@ -75,7 +75,8 @@ def searchTestFour(): #Search backwards in time :o
     fileName = "data/scrapeTest2"
     fileExt = ".txt"
     s = twitterRPP(100)
-    # s += twitterSince(2013, 5, 8)
+    s += twitterSinceID(332915673741275136)
+    
     tag = "IBM" # %20 is a space sign
     #tag += twitterConcatTags("Apple")
     tag += twitterConcatTags("AAPL")
@@ -85,7 +86,6 @@ def searchTestFour(): #Search backwards in time :o
     tag += twitterConcatTags("Facebook")
     
     tweets = searchTwitter(tag, s)
-    s = twitterRPP(100)
     if (len(tweets) < 2):
         print "No search results"
         return
@@ -114,9 +114,9 @@ def searchTestFour(): #Search backwards in time :o
             tweets = []
             i = 0
     if (j==1):
-        IO.writeData(fileName+fileExt, tweets, True, True)
+        IO.writeData(fileName+fileExt, tweets, True, False)
     else:
-        IO.writeData(fileName+fileExt, tweets, True, True)
+        IO.writeData(fileName+fileExt, tweets, True, False)
         j -= 1
         while (j>=1):
             bfr = IO.readData(fileName + "_P" + str(j) + fileExt)

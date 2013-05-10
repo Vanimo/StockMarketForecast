@@ -20,6 +20,14 @@ def readData(sFile):
     finally:
         f.close()
     return matrix
+
+def readData_by_line(file_object):
+    """Lazy reader to read a file line by line"""
+    while True:
+        line = file_object.readline()
+        if not line:
+            break
+        yield line
     
 def writeData(sFile, arr, reverse=False, overWrite=False):
     try:
