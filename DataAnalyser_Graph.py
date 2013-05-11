@@ -5,6 +5,7 @@ Created on 10 May 2013
 '''
 import IO
 from time import strptime
+import matplotlib.pyplot as plt
 
 twitterFile = open("data/scrapeTest2.txt")
 my_dict = dict()
@@ -19,6 +20,19 @@ for tweet in IO.readData_by_line(twitterFile):
         my_dict[tag] += 1
     else:
         my_dict[tag] = 1
-        
-print my_dict
 twitterFile.close()
+
+keylist = my_dict.keys()
+keylist.sort()
+#initialize list
+N_points = len(keylist) #per uur 
+points_of_graph=[0]*N_points
+i = 0
+
+for key in keylist:
+    points_of_graph[i] = my_dict[key]
+    i += 1
+plt.plot(range(N_points) ,points_of_graph)
+plt.ylabel('Tweet volume')
+plt.xlabel('Hour')
+plt.show()
