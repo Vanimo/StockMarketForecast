@@ -75,7 +75,7 @@ def searchTestFour(): #Search backwards in time :o
     fileName = "data/scrapeTest2"
     fileExt = ".txt"
     s = twitterRPP(100)
-    s += twitterSinceID(332915673741275136)
+    s += twitterSinceID(333227439658508288) # Manual assignment of the newest tweet we scraped so far
     
     tag = "IBM" # %20 is a space sign
     #tag += twitterConcatTags("Apple")
@@ -147,6 +147,7 @@ def twitterPage(page):
     return "&page=" + str(page)
 def twitterConcatTags(tag):
     return "%20OR%20%23" + str(tag)
+
 if __name__ == '__main__':
     main()
     

@@ -48,6 +48,7 @@ def writeData(sFile, arr, reverse=False, overWrite=False):
                 s = str(arr[i][j])
                 s = s.replace("\n", " ")
                 s = s.replace("\t", " ")
+                s = s.replace("\r", " ")
                 # Add tab character for data separation
                 row += s + '\t'
             # Replace last \t with a newline character
