@@ -19,7 +19,7 @@ for tweet in tweets:
         continue 
     # compute difference of dates, in seconds
     time_delta=tweet.date-start_date
-    hour = time_delta.seconds / 3600
+    hour = time_delta.seconds / 3600 + time_delta.days * 24
     
     # increase per hour count
     points_of_graph[hour]+=1
