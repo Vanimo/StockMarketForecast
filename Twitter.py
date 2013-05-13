@@ -70,12 +70,19 @@ def searchTwitter(tag,variables):
     query = "%23" + str(tag) + str(variables)
     return getTweets(query)
 
+def getLastTweetID(sFile):
+    line = IO.readLastLine(sFile)
+    line = line.split('\t')
+    return line[0]
+
 def searchTestFour(): #Search backwards in time :o
     j=1
     fileName = "data/scrapeTest2"
     fileExt = ".txt"
     s = twitterRPP(100)
-    s += twitterSinceID(333227439658508288) # Manual assignment of the newest tweet we scraped so far
+    lastID = getLastTweetID(fileName+fileExt)
+    print "Last tweet ID: " + lastID
+    s += twitterSinceID(lastID) # Manual assignment of the newest tweet we scraped so far
     
     tag = "IBM" # %20 is a space sign
     #tag += twitterConcatTags("Apple")
@@ -109,7 +116,7 @@ def searchTestFour(): #Search backwards in time :o
         tweets += results[1:] # First result is tweet with "oldestID", so drop it
         
         if (i>=250): # Backup data if we acquire a lot
-            IO.writeData(fileName + "_P" + str(j) + fileExt, tweets)
+            IO.writeData(fileName + "_P" + str(j) + fileExt, tweets, overWrite=True)
             j += 1
             tweets = []
             i = 0
@@ -119,8 +126,10 @@ def searchTestFour(): #Search backwards in time :o
         IO.writeData(fileName+fileExt, tweets, True, False)
         j -= 1
         while (j>=1):
-            bfr = IO.readData(fileName + "_P" + str(j) + fileExt)
+            bfr = IO.readData(fileName + "_P" + str(j) + fileExt)            
             IO.writeData(fileName+fileExt, bfr, True, False)
+            import os
+            os.remove(fileName + "_P" + str(j) + fileExt) # Remove temporary file
             j -= 1
 
     

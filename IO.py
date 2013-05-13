@@ -28,7 +28,13 @@ def readData_by_line(file_object):
         if not line:
             break
         yield line
-    
+
+def readLastLine(sFile):
+    with open(sFile, 'rb') as fh:
+        fh.seek(-500, 2)
+        return fh.readlines()[-1].decode()
+    return ''
+
 def writeData(sFile, arr, reverse=False, overWrite=False):
     try:
         print "Write Start in " + str(sFile)
