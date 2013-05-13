@@ -15,7 +15,17 @@ for tweet in IO.readData_by_line(twitterFile):
     """02 May 2013 19:14:07
     time.struct_time(tm_year=2013, tm_mon=5, tm_mday=2, tm_hour=19, tm_min=14, tm_sec=7, tm_wday=3, tm_yday=122, tm_isdst=-1)
     """
-    tag = str(time[0]) + "-" + str(time[1]) + "-" + str(time[2]) + "_" + str(time[3])
+    addZeroHour = ''
+    addZeroDay = ''
+    addZeroMonth = ''
+    if (int(time[3]) < 10):
+        addZeroHour = '0'
+    if (int(time[2]) < 10):
+        addZeroDay = '0'
+    if (int(time[1]) < 10):
+        addZeroMonth = '0'
+        
+    tag = str(time[0]) + "-" + addZeroMonth + str(time[1]) + "-" + addZeroDay + str(time[2]) + "_" + addZeroHour + str(time[3])
     if (tag in my_dict):
         my_dict[tag] += 1
     else:
@@ -24,6 +34,16 @@ twitterFile.close()
 
 keylist = my_dict.keys()
 keylist.sort()
+
+# Write csv file
+import csv
+with open("data/frequency.csv", "wb") as csvfile:
+    writer = csv.writer(csvfile, delimiter=';', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(['Year-month-day_hour', 'tweetcount'])
+    for key in keylist:
+        writer.writerow([key, my_dict[key]])
+    csvfile.close()                         
+
 #initialize list
 N_points = len(keylist) #per uur 
 points_of_graph=[0]*N_points
