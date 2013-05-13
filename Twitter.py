@@ -8,8 +8,8 @@ Handles the twitter API for searching tweets
 '''
 import json
 import urllib2
-import IO
 import time
+import Methods.IO as IO
 
 # Main
 def main():
