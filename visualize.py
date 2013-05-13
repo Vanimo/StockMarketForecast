@@ -1,4 +1,4 @@
-from TweetReader import Tweet,TweatReader
+from Methods.TweetReader import Tweet,TweatReader
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 

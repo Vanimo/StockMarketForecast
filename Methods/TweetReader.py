@@ -17,11 +17,6 @@ class TweatReader:
             if len(split_tabs)>=4:
                 list_of_tweets.append(Tweet(split_tabs[0], split_tabs[3],_date=split_tabs[1][:-6],_user=split_tabs[2]))
         return list_of_tweets
-    
-    @staticmethod
-    def preprocessTweets(list_of_tweets):
-        stopWords = getStopWords("StopWords.txt")
-        goodFeelings, badFeelings = getEmotionWords("Emotions.txt")
         
     @staticmethod
     def getStopWords(link): #De stopwoorden uit het document halen.
@@ -44,6 +39,13 @@ class TweatReader:
                 else:
                     badFeelings.append(split_tabs[0])
         return goodFeelings, badFeelings
+    
+    @staticmethod
+    def preprocessTweets(list_of_tweets):
+        import os.path
+        path = os.path.abspath(os.path.join(os.pardir, "data"))
+        stopWords = self.getStopWords(path + "\\StopWords.txt")
+        goodFeelings, badFeelings = self.getEmotionWords(path + "\\Emotions.txt")
 
 class Tweet:
     def __init__(self, _id, _tweet,_date="Mon, 01 January 1900 00:00:00", _user="",_label=0):
