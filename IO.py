@@ -35,6 +35,15 @@ def readLastLine(sFile):
         return fh.readlines()[-1].decode()
     return ''
 
+def deleteFile(sFile):
+    try:
+        print "Deleting file " + sFile
+        import os
+        os.remove(sFile)
+        print "File deleted"
+    except IOError:
+        print "Error deleting file"
+
 def writeData(sFile, arr, reverse=False, overWrite=False):
     try:
         print "Write Start in " + str(sFile)

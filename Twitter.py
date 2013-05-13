@@ -128,8 +128,7 @@ def searchTestFour(): #Search backwards in time :o
         while (j>=1):
             bfr = IO.readData(fileName + "_P" + str(j) + fileExt)            
             IO.writeData(fileName+fileExt, bfr, True, False)
-            import os
-            os.remove(fileName + "_P" + str(j) + fileExt) # Remove temporary file
+            IO.deleteFile(fileName + "_P" + str(j) + fileExt) # Remove temporary file
             j -= 1
 
     
