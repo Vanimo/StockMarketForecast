@@ -15,10 +15,10 @@ def main():
 
 # Version two
 def perTag():
-    tags, tweet_dict = prpr.countTweetTags("data/scrapeTest2.txt")
+    tags, tweet_dict = prpr.countTweetTags("data/scrapeTest2.txt","byDay")
     keylist = tweet_dict.keys()
     keylist.sort()   
-    with open("data/frequency2.csv", "wb") as csvfile:
+    with open("data/frequency3.csv", "wb") as csvfile:
         writer = csv.writer(csvfile, delimiter=';', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         writer.writerow(['Year-month-day_hour'] + tags)
         for key in keylist:
