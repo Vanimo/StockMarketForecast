@@ -77,20 +77,21 @@ def getLastTweetID(sFile):
 
 def searchTestFour(): #Search backwards in time :o
     j=1
-    fileName = "data/scrapeTest2"
+    fileName = "data/scrapeDJIA"
     fileExt = ".txt"
     s = twitterRPP(100)
-    lastID = getLastTweetID(fileName+fileExt)
-    print "Last tweet ID: " + lastID
-    s += twitterSinceID(lastID) # Manual assignment of the newest tweet we scraped so far
+    #lastID = getLastTweetID(fileName+fileExt)
+    #print "Last tweet ID: " + lastID
+    #s += twitterSinceID(lastID) # Manual assignment of the newest tweet we scraped so far
     
-    tag = "IBM" # %20 is a space sign
-    #tag += twitterConcatTags("Apple")
-    tag += twitterConcatTags("AAPL")
-    tag += twitterConcatTags("MSFT")
-    tag += twitterConcatTags("Microsoft")
-    #tag += twitterConcatTags("FB")
-    tag += twitterConcatTags("Facebook")
+    #tag = "IBM" # %20 is a space sign
+    ##tag += twitterConcatTags("Apple")
+    #tag += twitterConcatTags("AAPL")
+    #tag += twitterConcatTags("MSFT")
+    #tag += twitterConcatTags("Microsoft")
+    ##tag += twitterConcatTags("FB")
+    #tag += twitterConcatTags("Facebook")
+    tag = "djia"
     
     tweets = searchTwitter(tag, s)
     if (len(tweets) < 2):
