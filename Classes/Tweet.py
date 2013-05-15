@@ -7,12 +7,17 @@ Created on 15-mei-2013
 from datetime import datetime
 
 class Tweet:
-    def __init__(self, _id, _tweet, _date="Mon, 01 January 1900 00:00:00", _user="", _label=0):
+    def __init__(self, _id=0, _tweet="", _date="Mon, 01 January 1900 00:00:00", _user="", _label=0):
         self.id=_id
         self.date=datetime.strptime(_date,"%a, %d %B %Y %H:%M:%S")
         self.user=_user
         self.tweet=_tweet.rstrip('\n')
         self.label=int(_label)
+    def setTweet(self, data):
+        self.id = data[0]
+        self.date = datetime.strptime(data[1],"%a, %d %B %Y %H:%M:%S")
+        self.user = data[2]
+        self.tweet = data[3]
     
     # time.struct_time(tm_year=2013, tm_mon=5, tm_mday=2, tm_hour=19, tm_min=14, tm_sec=7, tm_wday=3, tm_yday=122, tm_isdst=-1)
     def getDate(self, trailingZeros=True):

@@ -7,7 +7,7 @@ Created on 11-May.-2013
 from datetime import datetime
 from Classes import Tweet
 
-class TweatReader:
+class TweetReader:
     # read TSV file quick and dirty
     @staticmethod
     def readTsvFile(name):
@@ -45,5 +45,5 @@ class TweatReader:
     def preprocessTweets(list_of_tweets):
         import os.path
         path = os.path.abspath(os.path.join(os.pardir, "data"))
-        stopWords = self.getStopWords(path + "\\StopWords.txt")
-        goodFeelings, badFeelings = self.getEmotionWords(path + "\\Emotions.txt")
+        #stopWords = self.getStopWords(path + "\\StopWords.txt")
+        #goodFeelings, badFeelings = self.getEmotionWords(path + "\\Emotions.txt")
