@@ -14,7 +14,7 @@ import Methods.IO as IO
 # Main
 def main():
     searchTwitter("DJIA", "scrapeDJIA")
-    searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeTest2")
+    searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeCompanies")
     return
 
 # https://dev.twitter.com/docs/using-search
@@ -28,6 +28,7 @@ def searchTwitter(tags, fileName):
     sOptions = twitterRPP(100)
     sQuery = twitterBuildTagString(tags)
     
+    # If data file exists, read latest tweet, otherwise skip
     from os.path import exists
     if (exists(fileName+fileExt)):
         lastID, lastTime = getLastTweetID(fileName+fileExt)
@@ -36,15 +37,16 @@ def searchTwitter(tags, fileName):
     else:
         print "No file " + fileName + fileExt + " found, searching without maxID"
     
+    # Initial search
     tweets = getTweets(sQuery + sOptions)
     if (len(tweets) < 2):
         print "No search results"
         return
     
+    # Continue searching from oldest tweet found in every message
     oldestID = tweets[-1][0] # Get ID of the oldest tweet for the next query
     go_on = True
-    i=1
-    
+    i=1    
     
     while(go_on):        
         sOptions2 = sOptions + twitterMaxID(oldestID)
@@ -64,6 +66,8 @@ def searchTwitter(tags, fileName):
             j += 1
             tweets = []
             i = 0
+    
+    # Save data, if buffer has been used, read buffer files in reversed order
     if (j==1):
         IO.writeData(fileName+fileExt, tweets, True, False)
     else:
@@ -76,7 +80,7 @@ def searchTwitter(tags, fileName):
             j -= 1
     print "Finished Twitter scrape"
 
-
+# HTTP GET request and read the answer
 def GET_Twitter(FetchAddress):
     attempts = 0
     while attempts < 2:
@@ -102,6 +106,7 @@ def GET_Twitter(FetchAddress):
             return message
     return []
 
+# Builds the twitter URL and converts the JSON reply
 def getTweets(query, ID=0):
     url = "https://search.twitter.com/search.json?q=" + str(query)
     
@@ -125,6 +130,7 @@ def getTweets(query, ID=0):
         data.append(row)
     return data
 
+# Return the ID and date of the most recent tweet saved in the data
 def getLastTweetID(sFile):
     line = IO.readLastLine(sFile)
     line = line.split('\t')

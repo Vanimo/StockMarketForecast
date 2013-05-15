@@ -5,6 +5,7 @@ Created on 11-May.-2013
 '''
 
 from datetime import datetime
+from Classes import Tweet
 
 class TweatReader:
     # read TSV file quick and dirty
@@ -46,11 +47,3 @@ class TweatReader:
         path = os.path.abspath(os.path.join(os.pardir, "data"))
         stopWords = self.getStopWords(path + "\\StopWords.txt")
         goodFeelings, badFeelings = self.getEmotionWords(path + "\\Emotions.txt")
-
-class Tweet:
-    def __init__(self, _id, _tweet,_date="Mon, 01 January 1900 00:00:00", _user="",_label=0):
-        self.id=_id
-        self.date=datetime.strptime(_date,"%a, %d %B %Y %H:%M:%S")
-        self.user=_user
-        self.tweet=_tweet.rstrip('\n')
-        self.label=int(_label)
