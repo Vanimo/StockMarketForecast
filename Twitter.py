@@ -13,87 +13,30 @@ import Methods.IO as IO
 
 # Main
 def main():
-    searchTestFour()
+    searchTwitter("DJIA", "scrapeDJIA")
+    searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeTest2")
     return
 
 # https://dev.twitter.com/docs/using-search
 # https://dev.twitter.com/docs/api/1/get/search
 
-def GET_Twitter(FetchAddress):
-    attempts = 0
-    while attempts < 2:
-        try:
-            response = urllib2.urlopen(FetchAddress)
-            message= response.read()
-        except urllib2.HTTPError, e:
-            print 'The server didn\'t do the request.'
-            print 'Error code: ', str(e.code) + "  address: " + FetchAddress
-            time.sleep(4)
-            attempts += 1
-        except urllib2.URLError, e:
-            print 'Failed to reach the server.'
-            print 'Reason: ', str(e.code) + "  address: " + FetchAddress
-            time.sleep(4)
-            attempts += 1
-        except Exception, e:
-            print 'Something bad happened while grabbing and/or reading a page.'
-            print 'Reason: ', str(e.reason) + "  address: " + FetchAddress
-            time.sleep(4)
-            attempts += 1
-        else:
-            return message
-    return []
-def getTweets(query):
-    url = "https://search.twitter.com/search.json?q=" + str(query)
-    
-    text = GET_Twitter(url)
-    JS = json.loads(text)
-    tweets = JS['results']
-    
-    size = len(tweets)
-    if (size <= 1):
-        return []
-    data = []
-    first = tweets[0]['created_at']
-    last = tweets[-1]['created_at']
-    print "JSON count: " + str(len(tweets)) + "\tFirst: " + str(first) + "\tLast: " + str(last)
-    for i in range(0,size):
-        row = [None]*4
-        row[0] = tweets[i]['id']
-        row[1] = tweets[i]['created_at']
-        row[2] = tweets[i]['from_user']
-        row[3] = tweets[i]['text']
-        data.append(row)
-    return data
-
-def searchTwitter(tag,variables):
-    query = "%23" + str(tag) + str(variables)
-    return getTweets(query)
-
-def getLastTweetID(sFile):
-    line = IO.readLastLine(sFile)
-    line = line.split('\t')
-    return line[0]
-
-def searchTestFour(): #Search backwards in time :o
+def searchTwitter(tags, fileName):    
+    print "Start Twitter scraping for " + str(tags)
     j=1
-    fileName = "data/scrapeDJIA"
+    fileName = "data/" + fileName
     fileExt = ".txt"
-    s = twitterRPP(100)
-    #lastID = getLastTweetID(fileName+fileExt)
-    #print "Last tweet ID: " + lastID
-    #s += twitterSinceID(lastID) # Manual assignment of the newest tweet we scraped so far
+    sOptions = twitterRPP(100)
+    sQuery = twitterBuildTagString(tags)
     
-    #tag = "IBM" # %20 is a space sign
-    ##tag += twitterConcatTags("Apple")
-    #tag += twitterConcatTags("AAPL")
-    #tag += twitterConcatTags("MSFT")
-    #tag += twitterConcatTags("Microsoft")
-    ##tag += twitterConcatTags("FB")
-    #tag += twitterConcatTags("Facebook")
-    tag = "djia"
+    from os.path import exists
+    if (exists(fileName+fileExt)):
+        lastID, lastTime = getLastTweetID(fileName+fileExt)
+        print "Last tweet ID: " + lastID + " at time: " + lastTime
+        sOptions += twitterSinceID(lastID) # Manual assignment of the newest tweet we scraped so far
+    else:
+        print "No file " + fileName + fileExt + " found, searching without maxID"
     
-    tweets = searchTwitter(tag, s)
+    tweets = getTweets(sQuery + sOptions)
     if (len(tweets) < 2):
         print "No search results"
         return
@@ -104,8 +47,8 @@ def searchTestFour(): #Search backwards in time :o
     
     
     while(go_on):        
-        q = s + twitterMaxID(oldestID)
-        results = searchTwitter(tag, q)
+        sOptions2 = sOptions + twitterMaxID(oldestID)
+        results = getTweets(sQuery + sOptions2, i)
         
         if (len(results) < 2): # Catch empty results, errors and sleep if we'll continue
             go_on = False            
@@ -131,9 +74,62 @@ def searchTestFour(): #Search backwards in time :o
             IO.writeData(fileName+fileExt, bfr, True, False)
             IO.deleteFile(fileName + "_P" + str(j) + fileExt) # Remove temporary file
             j -= 1
+    print "Finished Twitter scrape"
 
+
+def GET_Twitter(FetchAddress):
+    attempts = 0
+    while attempts < 2:
+        try:
+            response = urllib2.urlopen(FetchAddress)
+            message= response.read()
+        except urllib2.HTTPError, e:
+            print 'The server didn\'t do the request.'
+            print 'Error code: ', str(e.code) + "  address: " + FetchAddress
+            time.sleep(4)
+            attempts += 1
+        except urllib2.URLError, e:
+            print 'Failed to reach the server.'
+            print 'Reason: ', str(e.code) + "  address: " + FetchAddress
+            time.sleep(4)
+            attempts += 1
+        except Exception, e:
+            print 'Something bad happened while grabbing and/or reading a page.'
+            print 'Reason: ', str(e.reason) + "  address: " + FetchAddress
+            time.sleep(4)
+            attempts += 1
+        else:
+            return message
+    return []
+
+def getTweets(query, ID=0):
+    url = "https://search.twitter.com/search.json?q=" + str(query)
     
+    text = GET_Twitter(url)
+    JS = json.loads(text)
+    tweets = JS['results']
+    
+    size = len(tweets)
+    if (size <= 1):
+        return []
+    data = []
+    first = tweets[0]['created_at']
+    last = tweets[-1]['created_at']
+    print str(ID) + "\t JSON count: " + str(len(tweets)) + "  \tFirst: " + str(first) + "\tLast: " + str(last)
+    for i in range(0,size):
+        row = [None]*4
+        row[0] = tweets[i]['id']
+        row[1] = tweets[i]['created_at']
+        row[2] = tweets[i]['from_user']
+        row[3] = tweets[i]['text']
+        data.append(row)
+    return data
 
+def getLastTweetID(sFile):
+    line = IO.readLastLine(sFile)
+    line = line.split('\t')
+    return line[0], line[1]
+ 
 def twitterUntil(y, m, d):
     # Returns tweets generated before the given date. Date should be formatted as YYYY-MM-DD.
     return "&until=" + str(y) + "-" + str(m) + "-" + str(d)
@@ -154,12 +150,28 @@ def twitterRPP(rpp):
 def twitterPage(page):
     # The page number (starting at 1) to return, up to a max of roughly 1500 results (based on rpp * page).
     return "&page=" + str(page)
+def twitterBuildTagString(tags):
+    sQuery = "%23"
+    firstTag = True
+    if(isinstance(tags, (str, unicode))):
+        sQuery += tags
+    elif(isinstance(tags, (list))):
+        for tag in tags:
+            if (firstTag):
+                sQuery += tag
+                firstTag = False
+            else:
+                sQuery += twitterConcatTags(tag)
+    return sQuery
 def twitterConcatTags(tag):
     return "%20OR%20%23" + str(tag)
 
 if __name__ == '__main__':
     main()
-    
+
+#def searchTwitter(tag,variables):
+    #    query = "%23" + str(tag) + str(variables)
+    #    return getTweets(query)
 # def simpleSearch():
 #     #Get Tweets
 #     arrTweets = searchTwitter("IBM","")
@@ -212,4 +224,59 @@ if __name__ == '__main__':
 #             i += 1
 #         tweets += answer
 #     IO.writeData("data/Tweets.txt", tweets)
-    
+#def searchTestFour(): #Search backwards in time :o
+#    j=1
+#    fileName = "data/scrapeDJIA"
+#    fileExt = ".txt"
+#    s = twitterRPP(100)
+#    #lastID = getLastTweetID(fileName+fileExt)
+#    #print "Last tweet ID: " + lastID
+#    #s += twitterSinceID(lastID) # Manual assignment of the newest tweet we scraped so far
+#    
+#    #tag = "IBM" # %20 is a space sign
+#    ##tag += twitterConcatTags("Apple")
+#    #tag += twitterConcatTags("AAPL")
+#    #tag += twitterConcatTags("MSFT")
+#    #tag += twitterConcatTags("Microsoft")
+#    ##tag += twitterConcatTags("FB")
+#    #tag += twitterConcatTags("Facebook")
+#    tag = "djia"
+#    
+#    tweets = searchTwitter(tag, s)
+#    if (len(tweets) < 2):
+#        print "No search results"
+#        return
+#    
+#    oldestID = tweets[-1][0] # Get ID of the oldest tweet for the next query
+#    go_on = True
+#    i=1
+#    
+#    
+#    while(go_on):        
+#        q = s + twitterMaxID(oldestID)
+#        results = searchTwitter(tag, q)
+#        
+#        if (len(results) < 2): # Catch empty results, errors and sleep if we'll continue
+#            go_on = False            
+#        else:
+#            time.sleep(1.1) # Sleep a bit so twitter doesn't throw us out
+#            i += 1
+#            oldestID = results[-1][0] # Get ID of the oldest tweet for the next query
+#            
+#        tweets += results[1:] # First result is tweet with "oldestID", so drop it
+#        
+#        if (i>=250): # Backup data if we acquire a lot
+#            IO.writeData(fileName + "_P" + str(j) + fileExt, tweets, overWrite=True)
+#            j += 1
+#            tweets = []
+#            i = 0
+#    if (j==1):
+#        IO.writeData(fileName+fileExt, tweets, True, False)
+#    else:
+#        IO.writeData(fileName+fileExt, tweets, True, False)
+#        j -= 1
+#        while (j>=1):
+#            bfr = IO.readData(fileName + "_P" + str(j) + fileExt)            
+#            IO.writeData(fileName+fileExt, bfr, True, False)
+#            IO.deleteFile(fileName + "_P" + str(j) + fileExt) # Remove temporary file
+#            j -= 1  
