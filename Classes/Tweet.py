@@ -13,7 +13,8 @@ class Tweet:
         self.user=_user
         self.tweet=_tweet.rstrip('\n')
         self.label=int(_label)
-    def setTweet(self, data):
+    def setTweet(self, line):
+        data = line.strip().split('\t')
         self.id = data[0]
         self.date = datetime.strptime(data[1],"%a, %d %B %Y %H:%M:%S")
         self.user = data[2]
