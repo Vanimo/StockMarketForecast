@@ -15,7 +15,7 @@ class Tweet:
         self.label=int(_label)
     def setTweet(self, data):
         self.id = data[0]
-        self.date = datetime.strptime(data[1],"%a, %d %B %Y %H:%M:%S")
+        self.date = datetime.strptime(data[1][:-6],"%a, %d %B %Y %H:%M:%S")
         self.user = data[2]
         self.tweet = data[3]
     
