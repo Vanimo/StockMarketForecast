@@ -37,7 +37,7 @@ def classifyTweetsCompany(tag):
         tweet = Tweet.Tweet()
         tweet.setTweet(line)
         if(tweet.containsTag("#" + tag)):
-            stamp = tweet.date + timedelta(days=0)
+            stamp = tweet.date + timedelta(days=4)
             if stamp.date() in history:
                 tweet.label = history[stamp.date()]
                 tweets.append(tweet)
