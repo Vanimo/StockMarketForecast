@@ -43,13 +43,25 @@ def deleteFile(sFile):
         print "File deleted"
     except IOError:
         print "Error deleting file"
+        
+def writeTweets(sFile, tweets, order):
+    try:
+        print "Write Start in " + str(sFile)
+        f = open(sFile, "wb")
+        for tweet in tweets:
+            f.write(tweet.getTweetTSV(order) + "\n")
+        print "Write Complete"
+    except IOError:
+        print 'Error: writing tweets'
+    finally:
+        f.close()
 
 def writeData(sFile, arr, reverse=False, overWrite=False):
     try:
         print "Write Start in " + str(sFile)
-        openMethod = "a"
+        openMethod = "ab"
         if (overWrite):
-            openMethod = "w"
+            openMethod = "wb"
         f = open(sFile, openMethod)
         
         if(reverse):

@@ -13,17 +13,28 @@ class Tweet:
         self.user=_user
         self.message=_tweet.rstrip('\n')
         self.label=int(_label)
+        
     def setTweet(self, data):
+        data = data.split('\t')
         self.id = data[0]
         self.date = datetime.strptime(data[1][:-6],"%a, %d %B %Y %H:%M:%S")
         self.user = data[2]
-        self.message = data[3]
+        self.message = data[3].rstrip('\n')
     
-    def getTweetTSV(self):
-        line = str(self.id) + '\t'
-        line += self.getDate() + ' ' + self.getTime() + '\t'
-        line += self.user + '\t'
-        line += self.tweet        
+    def getTweetTSV(self, order=['id', 'label', 'date', 'user', 'message']):
+        line = ''
+        for part in order:
+            if part == 'id':
+                line += str(self.id) + '\t'
+            elif part == 'label':
+                line += str(self.label) + '\t'
+            elif part == 'date':
+                line += self.getDate() + ' ' + self.getTime() + '\t'
+            elif part == 'user':
+                line += self.user + '\t'
+            elif part == 'message':
+                line += self.message
+        return line
     
     # time.struct_time(tm_year=2013, tm_mon=5, tm_mday=2, tm_hour=19, tm_min=14, tm_sec=7, tm_wday=3, tm_yday=122, tm_isdst=-1)
     def getDate(self, trailingZeros=True):
