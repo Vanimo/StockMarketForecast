@@ -36,6 +36,12 @@ class Tweet:
                 line += self.message
         return line
     
+    def containsTag(self, tag):
+        if tag in self.message:
+            return True
+        else:
+            return False
+    
     # time.struct_time(tm_year=2013, tm_mon=5, tm_mday=2, tm_hour=19, tm_min=14, tm_sec=7, tm_wday=3, tm_yday=122, tm_isdst=-1)
     def getDate(self, trailingZeros=True):
         if (trailingZeros):

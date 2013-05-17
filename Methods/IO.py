@@ -3,7 +3,7 @@ Created on 9 May 2013
 
 @author: Floris
 '''
-def readData(sFile):
+def readData(sFile, splitter="\t"):
     matrix = []
     try:
         print "Read Data from " + str(sFile)
@@ -11,7 +11,7 @@ def readData(sFile):
         data = f.readlines()
         for line in data:
             #strip line from \n and \t
-            row = line.strip().split("\t")
+            row = line.strip('\n').split(splitter)
             #add row to data matrix
             matrix.append(row)
         print "Read Complete"
