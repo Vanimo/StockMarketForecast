@@ -30,7 +30,7 @@ def classifyTweetsCompany(tag):
     iterData = iter(data)
     next(iterData)
     
-    history = priceHistory(iterData, "%Y-%m-%d", 4)
+    history = priceHistory(iterData, "%Y-%m-%d", 2)
     tweetFile = open("data/scrapeCompanies.txt")
     tweets = []    
     for line in IO.readData_by_line(tweetFile):
