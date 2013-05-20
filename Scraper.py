@@ -14,6 +14,7 @@ import Methods.IO as IO
 # Main
 def main():
     searchTwitter("DJIA", "scrapeDJIA")
+    searchTwitter(["Alcoa", "AmericanExpress", "AT%26T", "Pfizer", "Caterpillar", "HPQ", "HP", "McD", "McDo"], "scrapeDJIA_Companies")
     searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeCompanies")
     return
 
@@ -99,7 +100,7 @@ def GET_Twitter(FetchAddress):
             attempts += 1
         except Exception, e:
             print 'Something bad happened while grabbing and/or reading a page.'
-            print 'Reason: ', str(e.reason) + "  address: " + FetchAddress
+            print 'Reason: ', str(e.code) + "  address: " + FetchAddress
             time.sleep(4)
             attempts += 1
         else:

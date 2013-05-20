@@ -3,7 +3,7 @@ Created on 15-mei-2013
 
 @author: Kevin
 '''
-
+import re
 from datetime import datetime
 
 class Tweet:
@@ -19,9 +19,11 @@ class Tweet:
         self.id = data[0]
         self.date = datetime.strptime(data[1][:-6],"%a, %d %B %Y %H:%M:%S")
         self.user = data[2]
+        #text = data[3].rstrip('\n').lower()
+        #self.message = re.sub(r'([a-zA-Z])\1+', r'\1', text)
         self.message = data[3].rstrip('\n')
     
-    def getTweetTSV(self, order=['id', 'label', 'date', 'user', 'message']):
+    def getTweetTSV(self, order=['id', 'label', 'date', 'user', 'message', 'trimmedMessage']):
         line = ''
         for part in order:
             if part == 'id':
@@ -34,7 +36,30 @@ class Tweet:
                 line += self.user + '\t'
             elif part == 'message':
                 line += self.message
+            elif part == 'trimmedMessage':
+                #line += re.sub(r'([a-zA-Z])\1+', r'\1', self.message).lower()
+                line += self.getTrimmedMessage()
         return line
+    
+    def getTrimmedMessage(self):
+        s = self.message.lower()
+        
+        badParts = [r'\bhttp[\S]*\b', r'@[\S]*\b']
+        for part in badParts:
+            s = re.sub(part, '', s, re.IGNORECASE)
+            
+        #s = re.sub(r'([a-zA-Z])\1+', r'\1', s)
+        badChars = ["!", "?", ":", "."]
+        for char in badChars:
+            s = s.replace(char, "")
+        s = " ".join(s.split())
+        return s
+    
+    def removeStopWords(self, stopWords):
+        s = self.message
+        for word in stopWords:
+            self.message = re.sub(r'\b' + word[0] + r'\b', '', self.message, flags = re.IGNORECASE)
+        self.message = " ".join(self.message.split())
     
     def containsTag(self, tag):
         if tag in self.message:

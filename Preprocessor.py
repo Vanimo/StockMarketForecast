@@ -23,12 +23,14 @@ def classifyTweetsDJIA(offset = 3):
         tweet.setTweet(line)
         tweet.label = history[tweet.date.date()]
         tweets.append(tweet)        
-    IO.writeTweets("data/ClassifiedDJIA.txt", tweets, ['label', 'message'])
+    IO.writeTweets("data/ClassifiedDJIA.txt", tweets, ['label', 'trimmedMessage'])
     
 def classifyTweetsCompany(tag):
     data = IO.readData("data/" + tag + ".csv", ',')
     iterData = iter(data)
     next(iterData)
+    
+    stopWords = getStopWords()
     
     history = priceHistory(iterData, "%Y-%m-%d", 2)
     tweetFile = open("data/scrapeCompanies.txt")
@@ -40,10 +42,11 @@ def classifyTweetsCompany(tag):
             stamp = tweet.date + timedelta(days=4)
             if stamp.date() in history:
                 tweet.label = history[stamp.date()]
+                tweet.removeStopWords(stopWords)
                 tweets.append(tweet)
         
     tweetFile.close()
-    IO.writeTweets("data/Classified" + tag + ".txt", tweets, ['label', 'message'])
+    IO.writeTweets("data/Classified" + tag + ".txt", tweets, ['label', 'trimmedMessage'])
 
 
 def priceHistory(data, sDateFormat, indexValue):    
@@ -108,6 +111,10 @@ def getEmotions():
     arr = IO.readData("data/Emotions.txt")
     for index in range(0, len(arr)):
         arr[index][0] = stem(arr[index][0])
+    return arr
+
+def getStopWords():
+    arr = IO.readData("data/StopWords.txt")
     return arr
 
 if __name__ == '__main__':
