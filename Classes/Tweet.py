@@ -62,7 +62,7 @@ class Tweet:
         self.message = " ".join(self.message.split())
     
     def containsTag(self, tag):
-        if tag in self.message:
+        if tag.lower() in self.message.lower():
             return True
         else:
             return False

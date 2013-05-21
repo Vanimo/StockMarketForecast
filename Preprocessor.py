@@ -10,43 +10,73 @@ from datetime import datetime, timedelta
 from decimal import *
 
 def main():
-    classifyTweetsCompany("IBM")
+    #classifyTweetsCompany("AAPL")
+    classifyTweetsDJIA()
     
-def classifyTweetsDJIA(offset = 3):
-    # TODO: Read last line of classified tweets
-    data = IO.readData("data/DJIA.tsv")
-    history = priceHistory(data, "%b %d, %Y", 1)
-    tweetFile = open("data/scrapeDJIA.txt")
-    tweets = []    
-    for line in IO.readData_by_line(tweetFile):
-        tweet = Tweet.Tweet()
-        tweet.setTweet(line)
-        tweet.label = history[tweet.date.date()]
-        tweets.append(tweet)        
-    IO.writeTweets("data/ClassifiedDJIA.txt", tweets, ['label', 'trimmedMessage'])
-    
-def classifyTweetsCompany(tag):
-    data = IO.readData("data/" + tag + ".csv", ',')
-    iterData = iter(data)
-    next(iterData)
-    
+def classifyTweets(tweetFile, history, tag, sSaveFile, offset=3):
     stopWords = getStopWords()
-    
-    history = priceHistory(iterData, "%Y-%m-%d", 2)
-    tweetFile = open("data/scrapeCompanies.txt")
     tweets = []    
     for line in IO.readData_by_line(tweetFile):
         tweet = Tweet.Tweet()
         tweet.setTweet(line)
         if(tweet.containsTag("#" + tag)):
-            stamp = tweet.date + timedelta(days=4)
+            stamp = tweet.date + timedelta(days=offset)
             if stamp.date() in history:
                 tweet.label = history[stamp.date()]
                 tweet.removeStopWords(stopWords)
                 tweets.append(tweet)
-        
+    print len(tweets)
     tweetFile.close()
-    IO.writeTweets("data/Classified" + tag + ".txt", tweets, ['label', 'trimmedMessage'])
+    IO.writeTweets(sSaveFile, tweets, ['label', 'trimmedMessage'])
+    
+def classifyTweetsDJIA(_offset=3):
+    tweetFile = open("data/scrapeDJIA.txt")
+    priceData = IO.readData("data/DJIA.tsv")
+    priceHist = priceHistory(priceData, "%b %d, %Y", 1)
+    
+    classifyTweets(tweetFile, priceHist, "DJIA", "data/ClassifiedDJIA.txt", offset=_offset)
+#     # TODO: Read last line of classified tweets
+#     data = IO.readData("data/DJIA.tsv")
+#     history = priceHistory(data, "%b %d, %Y", 1)
+#     tweetFile = open("data/scrapeDJIA.txt")
+#     tweets = []    
+#     for line in IO.readData_by_line(tweetFile):
+#         tweet = Tweet.Tweet()
+#         tweet.setTweet(line)
+#         tweet.label = history[tweet.date.date()]
+#         tweets.append(tweet)        
+#     IO.writeTweets("data/ClassifiedDJIA.txt", tweets, ['label', 'trimmedMessage'])
+    
+def classifyTweetsCompany(tag, _offset=3):
+    tweetFile = open("data/scrapeCompanies.txt")
+    priceData = IO.readData("data/" + tag + ".csv", ',')
+    priceIter = iter(priceData)
+    next(priceIter)
+    priceHist = priceHistory(priceIter, "%Y-%m-%d", 2)
+    
+    classifyTweets(tweetFile, priceHist, tag, "data/Classified" + tag + ".txt", offset=_offset)
+#     # TODO: Read last line of classified tweets
+#     data = IO.readData("data/" + tag + ".csv", ',')
+#     iterData = iter(data)
+#     next(iterData)
+#     
+#     stopWords = getStopWords()
+#     
+#     history = priceHistory(iterData, "%Y-%m-%d", 2)
+#     tweetFile = open("data/scrapeCompanies.txt")
+#     tweets = []    
+#     for line in IO.readData_by_line(tweetFile):
+#         tweet = Tweet.Tweet()
+#         tweet.setTweet(line)
+#         if(tweet.containsTag("#" + tag)):
+#             stamp = tweet.date + timedelta(days=4)
+#             if stamp.date() in history:
+#                 tweet.label = history[stamp.date()]
+#                 tweet.removeStopWords(stopWords)
+#                 tweets.append(tweet)
+#         
+#     tweetFile.close()
+#     IO.writeTweets("data/Classified" + tag + ".txt", tweets, ['label', 'trimmedMessage'])
 
 
 def priceHistory(data, sDateFormat, indexValue):    

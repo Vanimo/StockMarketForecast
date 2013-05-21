@@ -16,7 +16,7 @@ from sklearn.cross_validation import KFold, cross_val_score
 
 
 def main():
-    #pipelinedNB()
+    pipelinedNB()
     extendedTraining()
 
 def extendedTraining():
@@ -39,7 +39,7 @@ def extendedTraining():
     data = []
     
     tweets_matrix = hstack([tweets_vector_tf, custom_features])
-    print tweets_vector_tf.shape
+    #print tweets_vector_tf.shape
     print tweets_matrix.shape
     
     min_max_scaler = preprocessing.MinMaxScaler()
@@ -50,28 +50,6 @@ def extendedTraining():
     clf = svm.SVC(C=svmCost, gamma=svmGamma)
     #clf.fit(tweets_matrix, target)
     print np.mean(cross_validation.cross_val_score(clf, tweets_matrix, target, cv=5))
-    
-# This one has the .toarray error
-# def extendedTraining():
-#     data, target = getData()
-#     
-#     # As seen in Lab6, goal detection
-#     vect = CountVectorizer(min_df=1)
-#     tweets_vector = vect.fit_transform(data)
-#     tf_transformer = TfidfTransformer(use_idf=False).fit(tweets_vector)
-#     tweets_vector_tf = tf_transformer.transform(tweets_vector)
-#     
-#     custom_features = CustomFeatures.getTweetEmotion_3states(data)
-#     
-#     tweets_matrix = np.hstack([tweets_vector_tf, custom_features])
-#     
-#     min_max_scaler = preprocessing.MinMaxScaler()
-#     tweets_matrix = min_max_scaler.fit_transform(tweets_matrix.toarray())
-#     svmCost = 5
-#     svmGamma = 0.1
-#     clf = svm.SVC(C=svmCost, gamma=svmGamma)
-#     #clf.fit(tweets_matrix, target)
-#     print np.mean(cross_validation.cross_val_score(clf, tweets_matrix, target, cv=5))
 
 def pipelinedNB():
     text_clf = Pipeline([('vect', CountVectorizer()),
