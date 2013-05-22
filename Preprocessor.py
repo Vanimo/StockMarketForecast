@@ -11,7 +11,7 @@ from decimal import *
 
 def main():
     #classifyTweetsCompany("AAPL")
-    classifyTweetsDJIA()
+    classifyTweetsDJIA(3)
     
 def classifyTweets(tweetFile, history, tag, sSaveFile, offset=3):
     stopWords = getStopWords()

@@ -14,8 +14,9 @@ import Methods.IO as IO
 # Main
 def main():
     searchTwitter("DJIA", "scrapeDJIA")
-    searchTwitter(["Alcoa", "AmericanExpress", "AT%26T", "Pfizer", "Caterpillar", "HPQ", "HP", "McD", "McDo"], "scrapeDJIA_Companies")
-    searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeCompanies")
+    #searchTwitter(["Alcoa", "AmericanExpress", "AT%26T", "Pfizer", "Caterpillar", "HPQ", "HP", "McD", "McDo"], "scrapeDJIA_Companies")
+    #searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeCompanies")
+    searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft"], "scrapeCompanies")
     return
 
 # https://dev.twitter.com/docs/using-search

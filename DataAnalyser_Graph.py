@@ -9,13 +9,14 @@ import csv
 
 # Main
 def main():
+    # Doesn't work anymore
     #allTweets()
     perTag()
     return
 
 # Version two
 def perTag():
-    tags, tweet_dict = prpr.countTweetTags("data/scrapeTest2.txt","byDay")
+    tags, tweet_dict = prpr.countTweetTags("data/scrapeCompanies.txt","byDay")
     keylist = tweet_dict.keys()
     keylist.sort()   
     with open("data/frequency3.csv", "wb") as csvfile:
@@ -32,7 +33,7 @@ def perTag():
         
 # Version one
 def allTweets(showGraph=False):
-    tweet_dict = prpr.countAllTweets("data/scrapeTest2.txt")
+    tweet_dict = prpr.countAllTweets("data/scrapeDJIA.txt")
     keylist = tweet_dict.keys()
     keylist.sort()
     
