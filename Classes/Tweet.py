@@ -68,25 +68,26 @@ class Tweet:
             return False
     
     # time.struct_time(tm_year=2013, tm_mon=5, tm_mday=2, tm_hour=19, tm_min=14, tm_sec=7, tm_wday=3, tm_yday=122, tm_isdst=-1)
+    # self.date['tm_mon']
     def getDate(self, trailingZeros=True):
         if (trailingZeros):
-            date = self.__trailingZero(self.date['tm_year'], 4)
-            date += '/' + self.__trailingZero(self.date['tm_mon'])
-            date += '/' + self.__trailingZero(self.date['tm_mday'])
+            date = self.__trailingZero(self.date.year, 4)
+            date += '/' + self.__trailingZero(self.date.month)
+            date += '/' + self.__trailingZero(self.date.day)
             return date
         else:
-            return self.date['tm_year'] + "/" + self.date['tm_mon'] + "/" + self.date['tm_mday']
+            return self.date.year + "/" + self.date.month + "/" + self.date.day
     
     def getTime(self):
-        time = self.__trailingZero(self.date['tm_hour'])
-        time += ':' + self.__trailingZero(self.date['tm_min'])
-        time += ':' + self.__trailingZero(self.date['tm_sec'])
+        time = self.__trailingZero(self.date.hour)
+        time += ':' + self.__trailingZero(self.date.minute)
+        time += ':' + self.__trailingZero(self.date.second)
         return time
     def getHour(self, trailingZeros=True):
         if (trailingZeros):
-            return self.__trailingZero(self.date['tm_hour'])
+            return self.__trailingZero(self.date.hour)
         else:
-            return self.date['tm_hour']
+            return self.date.hour
     
     def __trailingZero(self, value, digits=2):
         value = str(value)
