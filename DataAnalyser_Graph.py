@@ -9,8 +9,7 @@ import csv
 
 # Main
 def main():
-    # Doesn't work anymore
-    #allTweets()
+    allTweets()
     perTag()
     return
 
