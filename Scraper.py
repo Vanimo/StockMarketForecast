@@ -14,18 +14,17 @@ import Methods.IO as IO
 # Main
 def main():
     searchTwitter("DJIA", "scrapeDJIA")
-    #searchTwitter(["Alcoa", "AmericanExpress", "AT%26T", "Pfizer", "Caterpillar", "HPQ", "HP", "McD", "McDo"], "scrapeDJIA_Companies")
-    #searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft", "Facebook"], "scrapeCompanies")
     searchTwitter(["IBM", "AAPL", "MSFT", "Microsoft"], "scrapeCompanies")
+    searchTwitter(["Alcoa", "AmericanExpress", "AT%26T", "Pfizer", "Caterpillar", "HPQ", "HP", "McD", "McDo"], "scrapeDJIA_Companies")
+    searchTwitter(["FB", "Facebook"], "scrapeFB")
     return
 
 # https://dev.twitter.com/docs/using-search
 # https://dev.twitter.com/docs/api/1/get/search
 
-def searchTwitter(tags, fileName):    
+def searchTwitter(tags, fileName, oldestID = 0, j=1):    
     print "Start Twitter scraping for " + str(tags)
-    j=1
-    fileName = "data/" + fileName
+    fileName = "data/scrapes/" + fileName
     fileExt = ".txt"
     sOptions = twitterRPP(100)
     sQuery = twitterBuildTagString(tags)
@@ -40,7 +39,11 @@ def searchTwitter(tags, fileName):
         print "No file " + fileName + fileExt + " found, searching without maxID"
     
     # Initial search
-    tweets = getTweets(sQuery + sOptions)
+    if (oldestID == 0):
+        tweets = getTweets(sQuery + sOptions)
+    else:
+        sOptions2 = sOptions + twitterMaxID(oldestID)
+        tweets = getTweets(sQuery + sOptions2)
     if (len(tweets) < 2):
         print "No search results"
         return
@@ -80,7 +83,7 @@ def searchTwitter(tags, fileName):
             IO.writeData(fileName+fileExt, bfr, True, False)
             IO.deleteFile(fileName + "_P" + str(j) + fileExt) # Remove temporary file
             j -= 1
-    print "Finished Twitter scrape"
+    print "Finished " + fileName + " scrape"
 
 # HTTP GET request and read the answer
 def GET_Twitter(FetchAddress):
@@ -89,17 +92,17 @@ def GET_Twitter(FetchAddress):
         try:
             response = urllib2.urlopen(FetchAddress)
             message= response.read()
-        except urllib2.HTTPError, e:
+        except urllib2.HTTPError as e:
             print 'The server didn\'t do the request.'
             print 'Error code: ', str(e.code) + "  address: " + FetchAddress
             time.sleep(4)
             attempts += 1
-        except urllib2.URLError, e:
+        except urllib2.URLError as e:
             print 'Failed to reach the server.'
             print 'Reason: ', str(e.code) + "  address: " + FetchAddress
             time.sleep(4)
             attempts += 1
-        except Exception, e:
+        except Exception as e:
             print 'Something bad happened while grabbing and/or reading a page.'
             print 'Reason: ', str(e.code) + "  address: " + FetchAddress
             time.sleep(4)

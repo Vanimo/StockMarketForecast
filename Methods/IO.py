@@ -73,6 +73,7 @@ def writeData(sFile, arr, reverse=False, overWrite=False):
             for j in range (0, width):
                 # replace characters that are important for our reader/writer to work
                 s = str(arr[i][j])
+                #s = arr[i][j].encode('utf-8')
                 s = s.replace("\n", " ")
                 s = s.replace("\t", " ")
                 s = s.replace("\r", " ")
